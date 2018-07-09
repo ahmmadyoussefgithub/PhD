@@ -74,63 +74,6 @@
   \fi
 }
 
-% ******************************* Bibliography *********************************
-\newif\ifsetBib\setBibfalse                   % Custom Bibliography = true/false
-\newif\ifsetBiBLaTeX\setBiBLaTeXfalse         % BiBLaTeX = True / False
-
-\newif\ifPHD@biblatex\PHD@biblatexfalse       % BiBLaTeX
-\DeclareOption{biblatex}{
-  \ifsetBib
-    \ClassWarning{PhDThesisPSnPDF}{Bibliography selection conflict: A
-      bibliography style aleady specified. Please check the document class
-      options in case you have defined two bibliography styles.}
-  \else
-    \PHD@biblatextrue
-  \fi
-}
-
-\newif\ifPHD@authoryear\PHD@authoryearfalse   % Author-Year citation
-\DeclareOption{authoryear}{
-  \ifsetBib
-    \ClassWarning{PhDThesisPSnPDF}{Bibliography selection conflict: A
-      bibliography style aleady specified. Please check the document class
-      options in case you have defined two bibliography styles.}
-  \else
-    \PHD@authoryeartrue
-    \setBibtrue
-  \fi
-}
-
-\newif\ifPHD@numbered\PHD@numberedfalse       % Numbered citiation
-\DeclareOption{numbered}{
-  \ifsetBib
-    \ClassWarning{PhDThesisPSnPDF}{Bibliography selection conflict: A
-      bibliography style aleady specified. Please check the document class
-      options in case you have defined two bibliography styles.}
-  \else
-    \PHD@numberedtrue
-    \setBibtrue
-  \fi
-}
-
-\newif\ifuseCustomBib\useCustomBibfalse     % Custom Bibliography
-\DeclareOption{custombib}{
-  \ifsetBib
-    \ClassWarning{PhDThesisPSnPDF}{Bibliography selection conflict: A
-      bibliography style aleady specified. Please check the document class
-      options in case you have defined two bibliography styles.}
-  \else
-    \ifPHD@biblatex
-        \ClassWarning{PhDThesisPSnPDF}{Bibliography selection conflict: A
-          bibliography style aleady specified. Please check the document class
-          options in case you have defined two bibliography styles.}
-    \else
-      \useCustomBibtrue
-      \setBibtrue
-    \fi
-  \fi
-}
-
 % ************************* Header / Footer Styling ****************************
 \newif\ifPHD@textJustify\PHD@textJustifytrue % Set Justification true
 \DeclareOption{flushleft}{\PHD@textJustifyfalse}
@@ -482,59 +425,6 @@ supported!}
     class options.}}
 \fi
 
-
-
-% ******************************* Bibliography *********************************
-\ifPHD@authoryear
-  \ifPHD@biblatex
-    \RequirePackage[backend=biber, style=authoryear, citestyle=alphabetic, 
-      sorting=nty, natbib=true]{biblatex}
-    \setBiBLaTeXtrue
-  \else
-    \RequirePackage[round, sort, numbers, authoryear]{natbib} %author year
-  \fi
-\else
-  \ifPHD@numbered
-    \ifPHD@biblatex
-      \RequirePackage[backend=biber, style=numeric-comp, 
-        citestyle=numeric, sorting=none, natbib=true]{biblatex}
-      \setBiBLaTeXtrue
-    \else
-      \RequirePackage[numbers,compress]{natbib} % numbered citation
-    \fi
-  \else
-    \ifuseCustomBib
-       \AtBeginDocument{
-          \@ifpackageloaded{natbib}{}{
-            \@ifpackageloaded{biblatex}{}{
-              \ClassWarning{PhDThesisPSnPDF}{%
-                You chose custom bibliography, but no corresponding package 
-                (biblatex/natbib) has been loaded. Please load the
-                appropriate bibliography package in the preamble.}
-            }
-          }
-        }
-    \else                                            % set default to numbered
-      \ifPHD@biblatex
-        \RequirePackage[backend=biber, style=numeric-comp,
-          citestyle=numeric, sorting=none, natbib=true]{biblatex}
-        \setBiBLaTeXfalse
-      \else
-        \RequirePackage[numbers,compress]{natbib} 
-      \fi % default
-      \setBibfalse
-    \fi % custombib
-  \fi % numbered
-\fi % author year
-
-\ifsetBib
-\else
-\ClassWarning{PhDThesisPSnPDF}{No bibliography style was specified.
-  Default numbered style is used. If you would like to use a 
-  different style, use `authoryear' or `numbered' in the options in
-  documentclass or use `custombib` and define the natbib package or
-  biblatex package with required style in the Preamble.tex file}
-\fi
 
 % ********************************** Fonts **********************************
 \RequirePackage{textcomp}
@@ -1297,4 +1187,5 @@ wish to left align your text}
 			- \totalheightof{\usebox{\PHD@collegedate}}
 }
 }
+
 

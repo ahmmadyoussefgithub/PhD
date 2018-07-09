@@ -1,0 +1,3887 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  9 JUL 2018 11:25
+entering extended mode
+**./thesis.tex
+(thesis.tex
+LaTeX2e <2017/01/01> patch level 1
+Babel <3.9r> and hyphenation patterns for 75 language(s) loaded.
+(Classes/PhDThesisPSnPDF.cls
+
+LaTeX Warning: You have requested document class `Classes/PhDThesisPSnPDF',
+               but the document class provides `PhDThesisPSnPDF'.
+
+Document Class: PhDThesisPSnPDF 2016/10/20 A PhD thesis class file by Krishna K
+umar (v2.2.2)
+https://github.com/kks32/phd-thesis-template/
+PhDThesisPSnPDF: Font size is set as 12pt
+
+Class PhDThesisPSnPDF Warning: Unknown or non-standard option 'numbered'. I'll 
+see if I can load it from the book class. If you get a warning unused global op
+tion(s): `numbered` then the option is not supported! on input line 190.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\book.cls"
+Document Class: book 2014/09/29 v1.4h Standard LaTeX document class
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fleqn.clo"
+File: fleqn.clo 2016/12/29 v1.2a Standard LaTeX option (flush left equations)
+\mathindent=\dimen102
+Applying: [2015/01/01] Make \[ robust on input line 50.
+LaTeX Info: Redefining \[ on input line 51.
+Already applied: [0000/00/00] Make \[ robust on input line 62.
+Applying: [2015/01/01] Make \] robust on input line 74.
+LaTeX Info: Redefining \] on input line 75.
+Already applied: [0000/00/00] Make \] robust on input line 83.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\bk12.clo"
+File: bk12.clo 2014/09/29 v1.4h Standard LaTeX file (size option)
+)
+\c@part=\count79
+\c@chapter=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen103
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\lscape.sty"
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphics.sty"
+Package: graphics 2016/10/09 v1.0u Standard LaTeX Graphics (DPC,SPQR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\trig.sty"
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\graphics.cfg"
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-def\pdftex.def"
+File: pdftex.def 2017/01/12 v0.06k Graphics/color for pdfTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\infwarerr.sty"
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ltxcmds.sty"
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+\Gread@gobject=\count88
+)))
+("C:\Program Files\MiKTeX 2.9\tex\latex\setspace\setspace.sty"
+Package: setspace 2011/12/19 v6.7a set line spacing
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\calc.sty"
+Package: calc 2014/10/28 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count89
+\calc@Bcount=\count90
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count91
+\calc@Cskip=\skip45
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ifthen.sty"
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifpdf.sty"
+Package: ifpdf 2016/05/14 v3.1 Provides the ifpdf switch
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\ifxetex\ifxetex.sty"
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\tocbibind\tocbibind.sty"
+Package: tocbibind 2010/10/13 v1.5k extra ToC listings
+Package tocbibind Info: The document has chapter divisions on input line 50.
+
+
+Package tocbibind Note: Using chapter style headings, unless overridden.
+
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\appendix\appendix.sty"
+Package: appendix 2009/09/02 v1.2b extra appendix facilities
+\c@@pps=\count92
+\c@@ppsavesec=\count93
+\c@@ppsaveapp=\count94
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\color.sty"
+Package: color 2016/07/10 v1.1e Standard LaTeX Color (DPC)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics-cfg\color.cfg"
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package color Info: Driver file: pdftex.def on input line 147.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\dvipsnam.def"
+File: dvipsnam.def 2016/06/17 v3.0m Driver-dependent file (DPC,SPQR)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf.sty"
+Package: epstopdf 2016/05/15 v2.6 Conversion with epstopdf on the fly (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\epstopdf-base.sty"
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\grfext.sty"
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvdefinekeys.sty"
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\kvoptions.sty"
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\keyval.sty"
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks14
+)
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\kvsetkeys.sty"
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\etexcmds.sty"
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\ifluatex.sty"
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+)
+Package etexcmds Info: Could not find \expanded.
+(etexcmds)             That can mean that you are not using pdfTeX 1.50 or
+(etexcmds)             that some package has redefined \expanded.
+(etexcmds)             In the latter case, load this package earlier.
+)))
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\pdftexcmds.sty"
+Package: pdftexcmds 2016/05/21 v0.22 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.png,.pdf,.jpg,.mps,.jpeg,.jbig2,.jb2,.PNG,.PDF,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\graphics\graphicx.sty"
+Package: graphicx 2014/10/28 v1.0g Enhanced LaTeX Graphics (DPC,SPQR)
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\datetime\datetime.sty"
+Package: datetime 2015/03/20 v2.60 Date Time Package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\etoolbox\etoolbox.sty"
+Package: etoolbox 2017/01/02 v2.4 e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count95
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fmtcount.sty"
+Package: fmtcount 2015/05/05 v3.01
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\xkeyval\xkeyval.sty"
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkeyval.tex"
+("C:\Program Files\MiKTeX 2.9\tex\generic\xkeyval\xkvutils.tex"
+\XKV@toks=\toks15
+\XKV@tempa@toks=\toks16
+)
+\XKV@depth=\count96
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fcprefix.sty"
+Package: fcprefix 2012/09/28
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fcnumparser.sty"
+Package: fcnumparser 2012/09/28
+\fc@digit@counter=\count97
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsgen.sty"
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks17
+\ex@=\dimen108
+)
+\c@padzeroesN=\count98
+\fc@tmpcatcode=\count99
+\@DT@modctr=\count100
+\@ordinalctr=\count101
+\@orgargctr=\count102
+\@strctr=\count103
+\@tmpstrctr=\count104
+\@DT@loopN=\count105
+\@DT@X=\count106
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\fmtcount\fc-english.def"
+File: fc-english.def 2013/08/17
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\datetime\datetime-defaults.sty"
+Package: datetime-defaults 2013/09/10
+)
+\@day=\count107
+\@month=\count108
+\@year=\count109
+\c@HOUR=\count110
+\c@HOURXII=\count111
+\c@MINUTE=\count112
+\c@TOHOUR=\count113
+\c@TOMINUTE=\count114
+\c@SECOND=\count115
+\currenthour=\count116
+\currentminute=\count117
+\currentsecond=\count118
+Package datetime Info: No datetime.cfg file found, using default settings on in
+put line 308.
+\@dtctr=\count119
+\dayofyear=\count120
+\dayofweek=\count121
+LaTeX Info: Redefining \today on input line 736.
+\dt@a=\toks18
+\dt@b=\toks19
+)
+\PHD@hour=\count122
+\PHD@minute=\count123
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\textcomp.sty"
+Package: textcomp 2017/01/24 v2.0c Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.def"
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+)
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\mathptmx.sty"
+Package: mathptmx 2005/04/12 PSNFSS-v9.2a Times w/ Math, improved (SPQR, WaS) 
+LaTeX Font Info:    Redeclaring symbol font `operators' on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
+(Font)                  OT1/cmr/m/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ztmcm/m/n on input line 28.
+LaTeX Font Info:    Redeclaring symbol font `letters' on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `normal'
+(Font)                  OML/cmm/m/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Overwriting symbol font `letters' in version `bold'
+(Font)                  OML/cmm/b/it --> OML/ztmcm/m/it on input line 29.
+LaTeX Font Info:    Redeclaring symbol font `symbols' on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `normal'
+(Font)                  OMS/cmsy/m/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Overwriting symbol font `symbols' in version `bold'
+(Font)                  OMS/cmsy/b/n --> OMS/ztmcm/m/n on input line 30.
+LaTeX Font Info:    Redeclaring symbol font `largesymbols' on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `normal'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+LaTeX Font Info:    Overwriting symbol font `largesymbols' in version `bold'
+(Font)                  OMX/cmex/m/n --> OMX/ztmcm/m/n on input line 31.
+\symbold=\mathgroup4
+\symitalic=\mathgroup5
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
+(Font)                  OT1/cmr/bx/n --> OT1/ptm/bx/n on input line 34.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
+(Font)                  OT1/cmr/m/it --> OT1/ptm/m/it on input line 35.
+LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
+(Font)                  OT1/cmr/bx/it --> OT1/ptm/m/it on input line 35.
+LaTeX Info: Redefining \hbar on input line 50.
+)
+PhDThesisPSnPDF: Using Times Roman font
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\inputenc.sty"
+Package: inputenc 2015/03/17 v1.2c Input encoding file
+\inpenc@prehook=\toks20
+\inpenc@posthook=\toks21
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\utf8.def"
+File: utf8.def 2016/02/28 v1.1s UTF-8 support for inputenc
+Now handling font encoding OML ...
+... no UTF-8 mapping file for font encoding OML
+Now handling font encoding T1 ...
+... processing UTF-8 mapping file for font encoding T1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.dfu"
+File: t1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AB (decimal 171)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00BB (decimal 187)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C0 (decimal 192)
+   defining Unicode char U+00C1 (decimal 193)
+   defining Unicode char U+00C2 (decimal 194)
+   defining Unicode char U+00C3 (decimal 195)
+   defining Unicode char U+00C4 (decimal 196)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00C7 (decimal 199)
+   defining Unicode char U+00C8 (decimal 200)
+   defining Unicode char U+00C9 (decimal 201)
+   defining Unicode char U+00CA (decimal 202)
+   defining Unicode char U+00CB (decimal 203)
+   defining Unicode char U+00CC (decimal 204)
+   defining Unicode char U+00CD (decimal 205)
+   defining Unicode char U+00CE (decimal 206)
+   defining Unicode char U+00CF (decimal 207)
+   defining Unicode char U+00D0 (decimal 208)
+   defining Unicode char U+00D1 (decimal 209)
+   defining Unicode char U+00D2 (decimal 210)
+   defining Unicode char U+00D3 (decimal 211)
+   defining Unicode char U+00D4 (decimal 212)
+   defining Unicode char U+00D5 (decimal 213)
+   defining Unicode char U+00D6 (decimal 214)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00D9 (decimal 217)
+   defining Unicode char U+00DA (decimal 218)
+   defining Unicode char U+00DB (decimal 219)
+   defining Unicode char U+00DC (decimal 220)
+   defining Unicode char U+00DD (decimal 221)
+   defining Unicode char U+00DE (decimal 222)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E0 (decimal 224)
+   defining Unicode char U+00E1 (decimal 225)
+   defining Unicode char U+00E2 (decimal 226)
+   defining Unicode char U+00E3 (decimal 227)
+   defining Unicode char U+00E4 (decimal 228)
+   defining Unicode char U+00E5 (decimal 229)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00E7 (decimal 231)
+   defining Unicode char U+00E8 (decimal 232)
+   defining Unicode char U+00E9 (decimal 233)
+   defining Unicode char U+00EA (decimal 234)
+   defining Unicode char U+00EB (decimal 235)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F0 (decimal 240)
+   defining Unicode char U+00F1 (decimal 241)
+   defining Unicode char U+00F2 (decimal 242)
+   defining Unicode char U+00F3 (decimal 243)
+   defining Unicode char U+00F4 (decimal 244)
+   defining Unicode char U+00F5 (decimal 245)
+   defining Unicode char U+00F6 (decimal 246)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+00F9 (decimal 249)
+   defining Unicode char U+00FA (decimal 250)
+   defining Unicode char U+00FB (decimal 251)
+   defining Unicode char U+00FC (decimal 252)
+   defining Unicode char U+00FD (decimal 253)
+   defining Unicode char U+00FE (decimal 254)
+   defining Unicode char U+00FF (decimal 255)
+   defining Unicode char U+0100 (decimal 256)
+   defining Unicode char U+0101 (decimal 257)
+   defining Unicode char U+0102 (decimal 258)
+   defining Unicode char U+0103 (decimal 259)
+   defining Unicode char U+0104 (decimal 260)
+   defining Unicode char U+0105 (decimal 261)
+   defining Unicode char U+0106 (decimal 262)
+   defining Unicode char U+0107 (decimal 263)
+   defining Unicode char U+0108 (decimal 264)
+   defining Unicode char U+0109 (decimal 265)
+   defining Unicode char U+010A (decimal 266)
+   defining Unicode char U+010B (decimal 267)
+   defining Unicode char U+010C (decimal 268)
+   defining Unicode char U+010D (decimal 269)
+   defining Unicode char U+010E (decimal 270)
+   defining Unicode char U+010F (decimal 271)
+   defining Unicode char U+0110 (decimal 272)
+   defining Unicode char U+0111 (decimal 273)
+   defining Unicode char U+0112 (decimal 274)
+   defining Unicode char U+0113 (decimal 275)
+   defining Unicode char U+0114 (decimal 276)
+   defining Unicode char U+0115 (decimal 277)
+   defining Unicode char U+0116 (decimal 278)
+   defining Unicode char U+0117 (decimal 279)
+   defining Unicode char U+0118 (decimal 280)
+   defining Unicode char U+0119 (decimal 281)
+   defining Unicode char U+011A (decimal 282)
+   defining Unicode char U+011B (decimal 283)
+   defining Unicode char U+011C (decimal 284)
+   defining Unicode char U+011D (decimal 285)
+   defining Unicode char U+011E (decimal 286)
+   defining Unicode char U+011F (decimal 287)
+   defining Unicode char U+0120 (decimal 288)
+   defining Unicode char U+0121 (decimal 289)
+   defining Unicode char U+0122 (decimal 290)
+   defining Unicode char U+0123 (decimal 291)
+   defining Unicode char U+0124 (decimal 292)
+   defining Unicode char U+0125 (decimal 293)
+   defining Unicode char U+0128 (decimal 296)
+   defining Unicode char U+0129 (decimal 297)
+   defining Unicode char U+012A (decimal 298)
+   defining Unicode char U+012B (decimal 299)
+   defining Unicode char U+012C (decimal 300)
+   defining Unicode char U+012D (decimal 301)
+   defining Unicode char U+012E (decimal 302)
+   defining Unicode char U+012F (decimal 303)
+   defining Unicode char U+0130 (decimal 304)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0132 (decimal 306)
+   defining Unicode char U+0133 (decimal 307)
+   defining Unicode char U+0134 (decimal 308)
+   defining Unicode char U+0135 (decimal 309)
+   defining Unicode char U+0136 (decimal 310)
+   defining Unicode char U+0137 (decimal 311)
+   defining Unicode char U+0139 (decimal 313)
+   defining Unicode char U+013A (decimal 314)
+   defining Unicode char U+013B (decimal 315)
+   defining Unicode char U+013C (decimal 316)
+   defining Unicode char U+013D (decimal 317)
+   defining Unicode char U+013E (decimal 318)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0143 (decimal 323)
+   defining Unicode char U+0144 (decimal 324)
+   defining Unicode char U+0145 (decimal 325)
+   defining Unicode char U+0146 (decimal 326)
+   defining Unicode char U+0147 (decimal 327)
+   defining Unicode char U+0148 (decimal 328)
+   defining Unicode char U+014A (decimal 330)
+   defining Unicode char U+014B (decimal 331)
+   defining Unicode char U+014C (decimal 332)
+   defining Unicode char U+014D (decimal 333)
+   defining Unicode char U+014E (decimal 334)
+   defining Unicode char U+014F (decimal 335)
+   defining Unicode char U+0150 (decimal 336)
+   defining Unicode char U+0151 (decimal 337)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0154 (decimal 340)
+   defining Unicode char U+0155 (decimal 341)
+   defining Unicode char U+0156 (decimal 342)
+   defining Unicode char U+0157 (decimal 343)
+   defining Unicode char U+0158 (decimal 344)
+   defining Unicode char U+0159 (decimal 345)
+   defining Unicode char U+015A (decimal 346)
+   defining Unicode char U+015B (decimal 347)
+   defining Unicode char U+015C (decimal 348)
+   defining Unicode char U+015D (decimal 349)
+   defining Unicode char U+015E (decimal 350)
+   defining Unicode char U+015F (decimal 351)
+   defining Unicode char U+0160 (decimal 352)
+   defining Unicode char U+0161 (decimal 353)
+   defining Unicode char U+0162 (decimal 354)
+   defining Unicode char U+0163 (decimal 355)
+   defining Unicode char U+0164 (decimal 356)
+   defining Unicode char U+0165 (decimal 357)
+   defining Unicode char U+0168 (decimal 360)
+   defining Unicode char U+0169 (decimal 361)
+   defining Unicode char U+016A (decimal 362)
+   defining Unicode char U+016B (decimal 363)
+   defining Unicode char U+016C (decimal 364)
+   defining Unicode char U+016D (decimal 365)
+   defining Unicode char U+016E (decimal 366)
+   defining Unicode char U+016F (decimal 367)
+   defining Unicode char U+0170 (decimal 368)
+   defining Unicode char U+0171 (decimal 369)
+   defining Unicode char U+0172 (decimal 370)
+   defining Unicode char U+0173 (decimal 371)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0178 (decimal 376)
+   defining Unicode char U+0179 (decimal 377)
+   defining Unicode char U+017A (decimal 378)
+   defining Unicode char U+017B (decimal 379)
+   defining Unicode char U+017C (decimal 380)
+   defining Unicode char U+017D (decimal 381)
+   defining Unicode char U+017E (decimal 382)
+   defining Unicode char U+01CD (decimal 461)
+   defining Unicode char U+01CE (decimal 462)
+   defining Unicode char U+01CF (decimal 463)
+   defining Unicode char U+01D0 (decimal 464)
+   defining Unicode char U+01D1 (decimal 465)
+   defining Unicode char U+01D2 (decimal 466)
+   defining Unicode char U+01D3 (decimal 467)
+   defining Unicode char U+01D4 (decimal 468)
+   defining Unicode char U+01E2 (decimal 482)
+   defining Unicode char U+01E3 (decimal 483)
+   defining Unicode char U+01E6 (decimal 486)
+   defining Unicode char U+01E7 (decimal 487)
+   defining Unicode char U+01E8 (decimal 488)
+   defining Unicode char U+01E9 (decimal 489)
+   defining Unicode char U+01EA (decimal 490)
+   defining Unicode char U+01EB (decimal 491)
+   defining Unicode char U+01F0 (decimal 496)
+   defining Unicode char U+01F4 (decimal 500)
+   defining Unicode char U+01F5 (decimal 501)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+1E02 (decimal 7682)
+   defining Unicode char U+1E03 (decimal 7683)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2010 (decimal 8208)
+   defining Unicode char U+2011 (decimal 8209)
+   defining Unicode char U+2012 (decimal 8210)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2015 (decimal 8213)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201A (decimal 8218)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+   defining Unicode char U+201E (decimal 8222)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+2039 (decimal 8249)
+   defining Unicode char U+203A (decimal 8250)
+   defining Unicode char U+2423 (decimal 9251)
+)
+Now handling font encoding OT1 ...
+... processing UTF-8 mapping file for font encoding OT1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ot1enc.dfu"
+File: ot1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A0 (decimal 160)
+   defining Unicode char U+00A1 (decimal 161)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00AD (decimal 173)
+   defining Unicode char U+00B8 (decimal 184)
+   defining Unicode char U+00BF (decimal 191)
+   defining Unicode char U+00C5 (decimal 197)
+   defining Unicode char U+00C6 (decimal 198)
+   defining Unicode char U+00D8 (decimal 216)
+   defining Unicode char U+00DF (decimal 223)
+   defining Unicode char U+00E6 (decimal 230)
+   defining Unicode char U+00EC (decimal 236)
+   defining Unicode char U+00ED (decimal 237)
+   defining Unicode char U+00EE (decimal 238)
+   defining Unicode char U+00EF (decimal 239)
+   defining Unicode char U+00F8 (decimal 248)
+   defining Unicode char U+0131 (decimal 305)
+   defining Unicode char U+0141 (decimal 321)
+   defining Unicode char U+0142 (decimal 322)
+   defining Unicode char U+0152 (decimal 338)
+   defining Unicode char U+0153 (decimal 339)
+   defining Unicode char U+0174 (decimal 372)
+   defining Unicode char U+0175 (decimal 373)
+   defining Unicode char U+0176 (decimal 374)
+   defining Unicode char U+0177 (decimal 375)
+   defining Unicode char U+0218 (decimal 536)
+   defining Unicode char U+0219 (decimal 537)
+   defining Unicode char U+021A (decimal 538)
+   defining Unicode char U+021B (decimal 539)
+   defining Unicode char U+2013 (decimal 8211)
+   defining Unicode char U+2014 (decimal 8212)
+   defining Unicode char U+2018 (decimal 8216)
+   defining Unicode char U+2019 (decimal 8217)
+   defining Unicode char U+201C (decimal 8220)
+   defining Unicode char U+201D (decimal 8221)
+)
+Now handling font encoding OMS ...
+... processing UTF-8 mapping file for font encoding OMS
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\omsenc.dfu"
+File: omsenc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+)
+Now handling font encoding OMX ...
+... no UTF-8 mapping file for font encoding OMX
+Now handling font encoding U ...
+... no UTF-8 mapping file for font encoding U
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1enc.dfu"
+File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+02C6 (decimal 710)
+   defining Unicode char U+02DC (decimal 732)
+   defining Unicode char U+200C (decimal 8204)
+   defining Unicode char U+2026 (decimal 8230)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2423 (decimal 9251)
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\fontenc.sty"
+Package: fontenc 2017/01/24 v2.0c Standard LaTeX package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\t1enc.def"
+File: t1enc.def 2017/01/24 v2.0c Standard LaTeX file
+LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.sty"
+Package: microtype 2016/05/14 v2.6a Micro-typographical refinements (RS)
+\MT@toks=\toks22
+\MT@count=\count124
+LaTeX Info: Redefining \textls on input line 774.
+\MT@outer@kern=\dimen109
+LaTeX Info: Redefining \textmicrotypecontext on input line 1310.
+\MT@listname@count=\count125
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype-pdftex.def"
+File: microtype-pdftex.def 2016/05/14 v2.6a Definitions specific to pdftex (RS)
+
+LaTeX Info: Redefining \lsstyle on input line 916.
+LaTeX Info: Redefining \lslig on input line 916.
+\MT@outer@space=\skip46
+)
+Package microtype Info: Loading configuration file microtype.cfg.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\microtype.cfg"
+File: microtype.cfg 2016/05/14 v2.6a microtype main configuration file (RS)
+))
+("C:\Program Files\MiKTeX 2.9\tex\generic\pdftex\glyphtounicode.tex")
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amsfonts.sty"
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup6
+\symAMSb=\mathgroup7
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsmath.sty"
+Package: amsmath 2016/11/05 v2.16a AMS math features
+\@mathmargin=\skip47
+
+For additional information on amsmath, use the `?' option.
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amstext.sty"
+Package: amstext 2000/06/29 v2.01 AMS text
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsbsy.sty"
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen110
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsmath\amsopn.sty"
+Package: amsopn 2016/03/08 v2.02 operator names
+)
+\inf@bad=\count126
+LaTeX Info: Redefining \frac on input line 213.
+\uproot@=\count127
+\leftroot@=\count128
+LaTeX Info: Redefining \overline on input line 375.
+\classnum@=\count129
+\DOTSCASE@=\count130
+LaTeX Info: Redefining \ldots on input line 472.
+LaTeX Info: Redefining \dots on input line 475.
+LaTeX Info: Redefining \cdots on input line 596.
+\Mathstrutbox@=\box26
+\strutbox@=\box27
+\big@size=\dimen111
+LaTeX Font Info:    Redeclaring font encoding OML on input line 712.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 713.
+\macc@depth=\count131
+\c@MaxMatrixCols=\count132
+\dotsspace@=\muskip10
+\c@parentequation=\count133
+\dspbrk@lvl=\count134
+\tag@help=\toks23
+\row@=\count135
+\column@=\count136
+\maxfields@=\count137
+\andhelp@=\toks24
+\eqnshift@=\dimen112
+\alignsep@=\dimen113
+\tagshift@=\dimen114
+\tagwidth@=\dimen115
+\totwidth@=\dimen116
+\lineht@=\dimen117
+\@envbody=\toks25
+\multlinegap=\skip48
+\multlinetaggap=\skip49
+\mathdisplay@stack=\toks26
+LaTeX Info: Redefining \[ on input line 2817.
+LaTeX Info: Redefining \] on input line 2818.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\amsfonts\amssymb.sty"
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hyperref.sty"
+Package: hyperref 2016/06/24 v6.83q Hypertext links for LaTeX
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-hyperref.sty"
+Package: hobsub-hyperref 2016/05/16 v1.14 Bundle oberdiek, subset hyperref (HO)
+
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\hobsub-generic.sty"
+Package: hobsub-generic 2016/05/16 v1.14 Bundle oberdiek, subset generic (HO)
+Package: hobsub 2016/05/16 v1.14 Construct package bundles (HO)
+Package hobsub Info: Skipping package `infwarerr' (already loaded).
+Package hobsub Info: Skipping package `ltxcmds' (already loaded).
+Package hobsub Info: Skipping package `ifluatex' (already loaded).
+Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
+Package ifvtex Info: VTeX not detected.
+Package: intcalc 2016/05/16 v1.2 Expandable calculations with integers (HO)
+Package hobsub Info: Skipping package `ifpdf' (already loaded).
+Package hobsub Info: Skipping package `etexcmds' (already loaded).
+Package hobsub Info: Skipping package `kvsetkeys' (already loaded).
+Package hobsub Info: Skipping package `kvdefinekeys' (already loaded).
+Package hobsub Info: Skipping package `pdftexcmds' (already loaded).
+Package: pdfescape 2016/05/16 v1.14 Implements pdfTeX's escape features (HO)
+Package: bigintcalc 2016/05/16 v1.4 Expandable calculations on big integers (HO
+)
+Package: bitset 2016/05/16 v1.2 Handle bit-vector datatype (HO)
+Package: uniquecounter 2016/05/16 v1.3 Provide unlimited unique counter (HO)
+)
+Package hobsub Info: Skipping package `hobsub' (already loaded).
+Package: letltxmacro 2016/05/16 v1.5 Let assignment for LaTeX macros (HO)
+Package: hopatch 2016/05/16 v1.3 Wrapper for package hooks (HO)
+Package: xcolor-patch 2016/05/16 xcolor patch
+Package: atveryend 2016/05/16 v1.9 Hooks at the very end of document (HO)
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+Package: refcount 2016/05/16 v3.5 Data extraction from label references (HO)
+Package: hycolor 2016/05/16 v1.8 Color options for hyperref/bookmark (HO)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\auxhook.sty"
+Package: auxhook 2016/05/16 v1.4 Hooks for auxiliary files (HO)
+)
+\@linkdim=\dimen118
+\Hy@linkcounter=\count138
+\Hy@pagecounter=\count139
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\pd1enc.def"
+File: pd1enc.def 2016/06/24 v6.83q Hyperref: PDFDocEncoding definition (HO)
+Now handling font encoding PD1 ...
+... no UTF-8 mapping file for font encoding PD1
+)
+\Hy@SavedSpaceFactor=\count140
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\00miktex\hyperref.cfg"
+File: hyperref.cfg 2002/06/06 v1.2 hyperref configuration of TeXLive
+)
+Package hyperref Info: Option `unicode' set `true' on input line 4362.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\puenc.def"
+File: puenc.def 2016/06/24 v6.83q Hyperref: PDF Unicode definition (HO)
+Now handling font encoding PU ...
+... no UTF-8 mapping file for font encoding PU
+)
+Package hyperref Info: Hyper figures OFF on input line 4486.
+Package hyperref Info: Link nesting OFF on input line 4491.
+Package hyperref Info: Hyper index ON on input line 4494.
+Package hyperref Info: Plain pages OFF on input line 4501.
+Package hyperref Info: Backreferencing OFF on input line 4506.
+Package hyperref Info: Implicit mode ON; LaTeX internals redefined.
+Package hyperref Info: Bookmarks ON on input line 4735.
+\c@Hy@tempcnt=\count141
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\url\url.sty"
+\Urlmuskip=\muskip11
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+LaTeX Info: Redefining \url on input line 5088.
+\XeTeXLinkMargin=\dimen119
+\Fld@menulength=\count142
+\Field@Width=\dimen120
+\Fld@charsize=\dimen121
+Package hyperref Info: Hyper figures OFF on input line 6342.
+Package hyperref Info: Link nesting OFF on input line 6347.
+Package hyperref Info: Hyper index ON on input line 6350.
+Package hyperref Info: backreferencing OFF on input line 6357.
+Package hyperref Info: Link coloring OFF on input line 6362.
+Package hyperref Info: Link coloring with OCG OFF on input line 6367.
+Package hyperref Info: PDF/A mode OFF on input line 6372.
+LaTeX Info: Redefining \ref on input line 6412.
+LaTeX Info: Redefining \pageref on input line 6416.
+\Hy@abspage=\count143
+\c@Item=\count144
+\c@Hfootnote=\count145
+)
+
+Package hyperref Message: Driver (autodetected): hpdftex.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\hpdftex.def"
+File: hpdftex.def 2016/06/24 v6.83q Hyperref driver for pdfTeX
+\Fld@listcount=\count146
+\c@bookmark@seq@number=\count147
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\oberdiek\rerunfilecheck.sty"
+Package: rerunfilecheck 2016/05/16 v1.8 Rerun checks for auxiliary files (HO)
+Package uniquecounter Info: New unique counter `rerunfilecheck' on input line 2
+82.
+)
+\Hy@SectionHShift=\skip50
+)
+Package hyperref Info: Option `final' set `true' on input line 542.
+Package hyperref Info: Option `plainpages' set `false' on input line 542.
+Package hyperref Info: Option `pdftoolbar' set `true' on input line 542.
+Package hyperref Info: Option `pdfmenubar' set `true' on input line 542.
+Package hyperref Info: Option `bookmarksopen' set `true' on input line 542.
+Package hyperref Info: Option `bookmarksnumbered' set `true' on input line 542.
+
+Package hyperref Info: Option `breaklinks' set `true' on input line 542.
+Package hyperref Info: Option `linktocpage' set `true' on input line 542.
+Package hyperref Info: Option `colorlinks' set `true' on input line 542.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.sty"
+Package: geometry 2010/09/12 v5.6 Page Geometry
+\Gm@cnth=\count148
+\Gm@cntv=\count149
+\c@Gm@tempcnt=\count150
+\Gm@bindingoffset=\dimen122
+\Gm@wd@mp=\dimen123
+\Gm@odd@mp=\dimen124
+\Gm@even@mp=\dimen125
+\Gm@layoutwidth=\dimen126
+\Gm@layoutheight=\dimen127
+\Gm@layouthoffset=\dimen128
+\Gm@layoutvoffset=\dimen129
+\Gm@dimlist=\toks27
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\geometry\geometry.cfg"))
+PhDThesisPSnPDF: The University identity guidelines recommend using left aligne
+d text. Please use `flushleft' in the documentclass option, if you wish to left
+ align your text ("C:\Program Files\MiKTeX 2.9\tex\latex\fancyhdr\fancyhdr.sty"
+Package: fancyhdr 2016/09/06 3.8 Extensive control of page headers and footers
+\fancy@headwidth=\skip51
+\f@ncyO@elh=\skip52
+\f@ncyO@erh=\skip53
+\f@ncyO@olh=\skip54
+\f@ncyO@orh=\skip55
+\f@ncyO@elf=\skip56
+\f@ncyO@erf=\skip57
+\f@ncyO@olf=\skip58
+\f@ncyO@orf=\skip59
+) ("C:\Program Files\MiKTeX 2.9\tex\latex\nomencl\nomencl.sty"
+Package: nomencl 2005/09/22 v4.2 Nomenclature package (LN)
+\nomlabelwidth=\dimen130
+\nom@tempdim=\dimen131
+\nomitemsep=\skip60
+)
+\@nomenclaturefile=\write3
+\openout3 = `thesis.nlo'.
+
+
+Writing nomenclature file thesis.nlo
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\makeidx.sty"
+Package: makeidx 2014/09/29 v1.0m Standard LaTeX package
+)
+\@indexfile=\write4
+\openout4 = `thesis.idx'.
+
+
+Writing index file thesis.idx
+) (Preamble/preamble.tex
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption.sty"
+Package: caption 2016/02/21 v3.3-144 Customizing captions (AR)
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\caption3.sty"
+Package: caption3 2016/05/22 v1.7-166 caption3 kernel (AR)
+Package caption3 Info: TeX engine: e-TeX on input line 67.
+\captionmargin=\dimen132
+\captionmargin@=\dimen133
+\captionwidth=\dimen134
+\caption@tempdima=\dimen135
+\caption@indent=\dimen136
+\caption@parindent=\dimen137
+\caption@hangindent=\dimen138
+)
+\c@ContinuedFloat=\count151
+Package caption Info: hyperref package is loaded.
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\caption\subcaption.sty"
+Package: subcaption 2016/05/22 v1.1-161 Sub-captions (AR)
+\c@subfigure=\count152
+\c@subtable=\count153
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\booktabs\booktabs.sty"
+Package: booktabs 2005/04/14 v1.61803 publication quality tables
+\heavyrulewidth=\dimen139
+\lightrulewidth=\dimen140
+\cmidrulewidth=\dimen141
+\belowrulesep=\dimen142
+\belowbottomsep=\dimen143
+\aboverulesep=\dimen144
+\abovetopsep=\dimen145
+\cmidrulesep=\dimen146
+\cmidrulekern=\dimen147
+\defaultaddspace=\dimen148
+\@cmidla=\count154
+\@cmidlb=\count155
+\@aboverulesep=\dimen149
+\@belowrulesep=\dimen150
+\@thisruleclass=\count156
+\@lastruleclass=\count157
+\@thisrulewidth=\dimen151
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\multirow\multirow.sty"
+Package: multirow 2016/11/25 v2.2 Span multiple rows of a table
+\multirow@colwidth=\skip61
+\multirow@cntb=\count158
+\multirow@dima=\skip62
+\bigstrutjot=\dimen152
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx.sty"
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3.sty"
+Package: expl3 2017/02/10 v6878 L3 programming layer (loader) 
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\expl3-code.tex"
+Package: expl3 2017/02/10 v6878 L3 programming layer (code)
+L3 Module: l3bootstrap 2016/12/28 v6805 L3 Bootstrap code
+L3 Module: l3names 2016/12/28 v6805 L3 Namespace for primitives
+L3 Module: l3basics 2016/12/28 v6805 L3 Basic definitions
+L3 Module: l3expan 2016/12/28 v6805 L3 Argument expansion
+L3 Module: l3tl 2017/02/06 v6842 L3 Token lists
+L3 Module: l3str 2017/01/01 v6809 L3 Strings
+L3 Module: l3seq 2017/02/06 v6842 L3 Sequences and stacks
+L3 Module: l3int 2016/12/28 v6805 L3 Integers
+\c_max_int=\count159
+\l_tmpa_int=\count160
+\l_tmpb_int=\count161
+\g_tmpa_int=\count162
+\g_tmpb_int=\count163
+L3 Module: l3quark 2016/12/28 v6805 L3 Quarks
+L3 Module: l3prg 2017/01/01 v6811 L3 Control structures
+\g__prg_map_int=\count164
+L3 Module: l3clist 2017/02/06 v6842 L3 Comma separated lists
+L3 Module: l3token 2016/12/28 v6805 L3 Experimental token manipulation
+L3 Module: l3prop 2016/12/28 v6805 L3 Property lists
+L3 Module: l3msg 2016/12/28 v6805 L3 Messages
+L3 Module: l3file 2016/12/28 v6805 L3 File and I/O operations
+\l_iow_line_count_int=\count165
+\l__iow_target_count_int=\count166
+\l__iow_current_line_int=\count167
+\l__iow_current_word_int=\count168
+\l__iow_current_indentation_int=\count169
+L3 Module: l3skip 2017/01/01 v6809 L3 Dimensions and skips
+\c_zero_dim=\dimen153
+\c_max_dim=\dimen154
+\l_tmpa_dim=\dimen155
+\l_tmpb_dim=\dimen156
+\g_tmpa_dim=\dimen157
+\g_tmpb_dim=\dimen158
+\c_zero_skip=\skip63
+\c_max_skip=\skip64
+\l_tmpa_skip=\skip65
+\l_tmpb_skip=\skip66
+\g_tmpa_skip=\skip67
+\g_tmpb_skip=\skip68
+\c_zero_muskip=\muskip12
+\c_max_muskip=\muskip13
+\l_tmpa_muskip=\muskip14
+\l_tmpb_muskip=\muskip15
+\g_tmpa_muskip=\muskip16
+\g_tmpb_muskip=\muskip17
+L3 Module: l3keys 2017/01/01 v6811 L3 Key-value interfaces
+\l_keys_choice_int=\count170
+L3 Module: l3fp 2016/12/28 v6805 L3 Floating points
+\c__fp_leading_shift_int=\count171
+\c__fp_middle_shift_int=\count172
+\c__fp_trailing_shift_int=\count173
+\c__fp_big_leading_shift_int=\count174
+\c__fp_big_middle_shift_int=\count175
+\c__fp_big_trailing_shift_int=\count176
+\c__fp_Bigg_leading_shift_int=\count177
+\c__fp_Bigg_middle_shift_int=\count178
+\c__fp_Bigg_trailing_shift_int=\count179
+\c__fp_rand_size_int=\count180
+\c__fp_rand_four_int=\count181
+\c__fp_rand_eight_int=\count182
+L3 Module: l3sort 2017/02/07 v6847 L3 Sorting functions
+\l__sort_length_int=\count183
+\l__sort_min_int=\count184
+\l__sort_top_int=\count185
+\l__sort_max_int=\count186
+\l__sort_true_max_int=\count187
+\l__sort_block_int=\count188
+\l__sort_begin_int=\count189
+\l__sort_end_int=\count190
+\l__sort_A_int=\count191
+\l__sort_B_int=\count192
+\l__sort_C_int=\count193
+L3 Module: l3box 2016/12/28 v6805 L3 Experimental boxes
+\c_empty_box=\box28
+\l_tmpa_box=\box29
+\l_tmpb_box=\box30
+\g_tmpa_box=\box31
+\g_tmpb_box=\box32
+L3 Module: l3coffins 2016/12/28 v6805 L3 Coffin code layer
+\l__coffin_internal_box=\box33
+\l__coffin_internal_dim=\dimen159
+\l__coffin_offset_x_dim=\dimen160
+\l__coffin_offset_y_dim=\dimen161
+\l__coffin_x_dim=\dimen162
+\l__coffin_y_dim=\dimen163
+\l__coffin_x_prime_dim=\dimen164
+\l__coffin_y_prime_dim=\dimen165
+\c_empty_coffin=\box34
+\l__coffin_aligned_coffin=\box35
+\l__coffin_aligned_internal_coffin=\box36
+\l_tmpa_coffin=\box37
+\l_tmpb_coffin=\box38
+\l__coffin_display_coffin=\box39
+\l__coffin_display_coord_coffin=\box40
+\l__coffin_display_pole_coffin=\box41
+\l__coffin_display_offset_dim=\dimen166
+\l__coffin_display_x_dim=\dimen167
+\l__coffin_display_y_dim=\dimen168
+L3 Module: l3color 2016/12/28 v6805 L3 Experimental color support
+L3 Module: l3sys 2017/01/01 v6811 L3 Experimental system/runtime functions
+L3 Module: l3candidates 2017/01/30 v6835 L3 Experimental additions to l3kernel
+\l__box_top_dim=\dimen169
+\l__box_bottom_dim=\dimen170
+\l__box_left_dim=\dimen171
+\l__box_right_dim=\dimen172
+\l__box_top_new_dim=\dimen173
+\l__box_bottom_new_dim=\dimen174
+\l__box_left_new_dim=\dimen175
+\l__box_right_new_dim=\dimen176
+\l__box_internal_box=\box42
+\l__coffin_bounding_shift_dim=\dimen177
+\l__coffin_left_corner_dim=\dimen178
+\l__coffin_right_corner_dim=\dimen179
+\l__coffin_bottom_corner_dim=\dimen180
+\l__coffin_top_corner_dim=\dimen181
+\l__coffin_scaled_total_height_dim=\dimen182
+\l__coffin_scaled_width_dim=\dimen183
+L3 Module: l3luatex 2016/12/28 v6805 L3 Experimental LuaTeX-specific functions
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3kernel\l3pdfmode.def"
+File: l3pdfmode.def 2016/12/28 v6805 L3 Experimental driver: PDF mode
+\l__driver_color_stack_int=\count194
+\l__driver_tmp_box=\box43
+))
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\xparse\xparse.sty"
+Package: xparse 2017/02/10 v6878 L3 Experimental document command parser
+\l__xparse_current_arg_int=\count195
+\g__xparse_grabber_int=\count196
+\l__xparse_m_args_int=\count197
+\l__xparse_mandatory_args_int=\count198
+\l__xparse_v_nesting_int=\count199
+)
+Package: siunitx 2017/02/19 v2.7d A comprehensive (SI) units package
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\tools\array.sty"
+Package: array 2016/10/06 v2.4d Tabular extension package (FMi)
+\col@sep=\dimen184
+\extrarowheight=\dimen185
+\NC@list=\toks28
+\extratabsurround=\skip69
+\backup@length=\skip70
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\l3packages\l3keys2e\l3keys2e.sty"
+Package: l3keys2e 2017/02/10 v6878 LaTeX2e option processing using LaTeX3 keys
+)
+\l__siunitx_tmp_box=\box44
+\l__siunitx_tmp_dim=\dimen186
+\l__siunitx_tmp_int=\count266
+\l__siunitx_number_mantissa_length_int=\count267
+\l__siunitx_number_uncert_length_int=\count268
+\l__siunitx_round_int=\count269
+\l__siunitx_process_decimal_int=\count270
+\l__siunitx_process_uncertainty_int=\count271
+\l__siunitx_process_fixed_int=\count272
+\l__siunitx_process_integer_min_int=\count273
+\l__siunitx_process_precision_int=\count274
+\l__siunitx_group_min_int=\count275
+\l__siunitx_angle_marker_box=\box45
+\l__siunitx_angle_unit_box=\box46
+\l__siunitx_angle_marker_dim=\dimen187
+\l__siunitx_angle_unit_dim=\dimen188
+\l__siunitx_unit_int=\count276
+\l__siunitx_unit_denominator_int=\count277
+\l__siunitx_unit_numerator_int=\count278
+\l__siunitx_unit_prefix_int=\count279
+\l__siunitx_unit_prefix_base_int=\count280
+\l__siunitx_unit_prefix_gram_int=\count281
+\l__siunitx_number_product_int=\count282
+\c__siunitx_one_fill_skip=\skip71
+\l__siunitx_table_unit_align_skip=\skip72
+\l__siunitx_table_exponent_dim=\dimen189
+\l__siunitx_table_integer_dim=\dimen190
+\l__siunitx_table_mantissa_dim=\dimen191
+\l__siunitx_table_marker_dim=\dimen192
+\l__siunitx_table_result_dim=\dimen193
+\l__siunitx_table_uncert_dim=\dimen194
+\l__siunitx_table_fill_pre_dim=\dimen195
+\l__siunitx_table_fill_post_dim=\dimen196
+\l__siunitx_table_fill_mid_dim=\dimen197
+\l__siunitx_table_pre_box=\box47
+\l__siunitx_table_post_box=\box48
+\l__siunitx_table_mantissa_box=\box49
+\l__siunitx_table_result_box=\box50
+\l__siunitx_table_number_align_skip=\skip73
+\l__siunitx_table_text_align_skip=\skip74
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareBinaryPrefix with sig. 'mmm' on line 7249.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPostPower with sig. 'mm' on line 7252.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrefix with sig. 'mmm' on line 7255.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIPrePower with sig. 'mm' on line 7258.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIQualifier with sig. 'mm' on line 7261.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnit with sig. 'O{}mm' on line 7264.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \DeclareSIUnitWithOptions with sig. 'mmm' on line 7267.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \ang with sig. 'o>{\SplitArgument {2}{;}}m' on line 7282.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \num with sig. 'om' on line 7291.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numlist with sig. 'o>{\SplitList {;}}m' on line 7300.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \numrange with sig. 'omm' on line 7309.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIlist with sig. 'o>{\SplitList {;}}mm' on line 7321.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SIrange with sig. 'ommm' on line 7333.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \SI with sig. 'omom' on line 7345.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \sisetup with sig. 'm' on line 7348.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \tablenum with sig. 'om' on line 7363.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \si with sig. 'om' on line 7375.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_num:w with sig. 'om' on line 7422.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_numrange:w with sig. 'omm' on line
+. 7424.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_SI:w with sig. 'omom' on line 7426.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_SIlist:w with sig. 'omm' on line 7428.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_SIrange:w with sig. 'ommm' on line
+. 7430.
+.................................................
+.................................................
+. LaTeX info: "xparse/define-command"
+. 
+. Defining command \__siunitx_bookmark_si:w with sig. 'om' on line 7431.
+.................................................
+\g__file_internal_ior=\read1
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\translator.sty"
+Package: translator 2010/06/12 ver 1.10
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\translator-language-m
+appings.tex"))) ("C:\Program Files\MiKTeX 2.9\tex\latex\natbib\natbib.sty"
+Package: natbib 2010/09/13 8.31b (PWD, AO)
+\bibhang=\skip75
+\bibsep=\skip76
+LaTeX Info: Redefining \cite on input line 694.
+\c@NAT@ctr=\count283
+))
+(thesis-info.tex)
+
+LaTeX Warning: Unused global option(s):
+    [numbered].
+
+(thesis.aux (Dedication/dedication.aux) (Declaration/declaration.aux)
+(Acknowledgement/acknowledgement.aux) (Abstract/abstract.aux)
+(Chapter1/chapter1.aux) (Chapter2/chapter2.aux) (Chapter3/chapter3.aux)
+(Chapter4/chapter4.aux
+
+LaTeX Warning: Label `fig:ChapterOverview' multiply defined.
+
+) (Chapter5/chapter5.aux
+
+LaTeX Warning: Label `fig:ResultOverview' multiply defined.
+
+) (Chapter6/chapter6.aux))
+\openout1 = `thesis.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 13.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\base\ts1cmr.fd"
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+)
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for PU/pdf/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Try loading font information for T1+ptm on input line 13.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\t1ptm.fd"
+File: t1ptm.fd 2001/06/04 font definitions for T1/ptm.
+)
+("C:\Program Files\MiKTeX 2.9\tex\context\base\supp-pdf.mkii"
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count284
+\scratchdimen=\dimen198
+\scratchbox=\box51
+\nofMPsegments=\count285
+\nofMParguments=\count286
+\everyMPshowfont=\toks29
+\MPscratchCnt=\count287
+\MPscratchDim=\dimen199
+\MPnumerator=\count288
+\makeMPintoPDFobject=\count289
+\everyMPtoPDFconversion=\toks30
+)
+LaTeX Info: Redefining \microtypecontext on input line 13.
+Package microtype Info: Generating PDF output.
+Package microtype Info: Character protrusion enabled (level 2).
+Package microtype Info: Using default protrusion set `alltext'.
+Package microtype Info: Automatic font expansion enabled (level 2),
+(microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
+Package microtype Info: Using default expansion set `basictext'.
+Package microtype Info: No adjustment of tracking.
+Package microtype Info: No adjustment of interword spacing.
+Package microtype Info: No adjustment of character kerning.
+ ("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-ptm.cfg"
+File: mt-ptm.cfg 2006/04/20 v1.7 microtype config. file: Times (RS)
+)
+\AtBeginShipoutBox=\box52
+Package hyperref Info: Link coloring ON on input line 13.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\hyperref\nameref.sty"
+Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
+
+("C:\Program Files\MiKTeX 2.9\tex\generic\oberdiek\gettitlestring.sty"
+Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
+)
+\c@section@level=\count290
+)
+LaTeX Info: Redefining \ref on input line 13.
+LaTeX Info: Redefining \pageref on input line 13.
+LaTeX Info: Redefining \nameref on input line 13.
+
+(thesis.out) (thesis.out)
+\@outlinefile=\write5
+\openout5 = `thesis.out'.
+
+
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* hratio: 1:1
+* vratio: 1:1
+* bindingoffset: 14.22636pt
+* modes: twoside 
+* h-part:(L,W,R)=(72.91019pt, 437.46112pt, 72.9102pt)
+* v-part:(T,H,B)=(105.63086pt, 633.78513pt, 105.63086pt)
+* \paperwidth=597.50787pt
+* \paperheight=845.04684pt
+* \textwidth=437.46112pt
+* \textheight=633.78513pt
+* \oddsidemargin=14.86656pt
+* \evensidemargin=0.64021pt
+* \topmargin=1.48708pt
+* \headheight=14.5pt
+* \headsep=19.8738pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=88.0pt
+* \marginparsep=7.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidetrue
+* \@mparswitchtrue
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: End \AtBeginDocument code.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\beamer\translator\dicts\translator-basi
+c-dictionary\translator-basic-dictionary-English.dict"
+Dictionary: translator-basic-dictionary, Language: English 
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\siunitx\siunitx-abbreviations.cfg"
+File: siunitx-abbreviations.cfg 2017/02/19 v2.7d siunitx: Abbreviated units
+)
+\c__siunitx_mathsf_int=\count291
+LaTeX Font Info:    Try loading font information for OT1+ztmcm on input line 13
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ztmcm.fd"
+File: ot1ztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OT1/ztmcm.
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `ztmcm' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Try loading font information for OML+ztmcm on input line 13
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omlztmcm.fd"
+File: omlztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OML/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMS+ztmcm on input line 13
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omsztmcm.fd"
+File: omsztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMS/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OMX+ztmcm on input line 13
+.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\omxztmcm.fd"
+File: omxztmcm.fd 2000/01/03 Fontinst v1.801 font definitions for OMX/ztmcm.
+)
+LaTeX Font Info:    Try loading font information for OT1+ptm on input line 13.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ot1ptm.fd"
+File: ot1ptm.fd 2001/06/04 font definitions for OT1/ptm.
+)
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <9> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+LaTeX Font Info:    Font shape `OT1/ptm/bx/n' in size <7> not available
+(Font)              Font shape `OT1/ptm/b/n' tried instead on input line 13.
+
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msa.cfg"
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+("C:\Program Files\MiKTeX 2.9\tex\latex\microtype\mt-msb.cfg"
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmss' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+\c__siunitx_mathtt_int=\count292
+Package microtype Info: Loading generic settings for font family
+(microtype)             `cmtt' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+\PHD@Title=\box53
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 16.
+\PHD@crest=\box54
+\PHD@collegecrest=\box55
+
+<Figs/CollegeShields/Brunel.jpg, id=407, 213.04594pt x 301.125pt>
+File: Figs/CollegeShields/Brunel.jpg Graphic file (type jpg)
+
+<use Figs/CollegeShields/Brunel.jpg>
+Package pdftex.def Info: Figs/CollegeShields/Brunel.jpg used on input line 16.
+(pdftex.def)             Requested size: 131.23967pt x 185.50551pt.
+\PHD@author=\box56
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <17.28> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 16.
+\PHD@supervisor=\box57
+\PHD@advisor=\box58
+\PHD@dept=\box59
+\PHD@submission=\box60
+\PHD@collegedate=\box61
+\PHD@titlepagespacing=\skip77
+ [1
+
+
+{C:/ProgramData/MiKTeX/2.9/pdftex/config/pdftex.map} <./Figs/CollegeShields/Bru
+nel.jpg>]
+\openout2 = `Dedication/dedication.aux'.
+
+ (Dedication/dedication.tex
+[2
+
+
+]) [3]
+\openout2 = `Declaration/declaration.aux'.
+
+ (Declaration/declaration.tex [4
+
+
+
+]) [5
+
+]
+\openout2 = `Acknowledgement/acknowledgement.aux'.
+
+
+(Acknowledgement/acknowledgement.tex [6
+
+
+
+]) [7
+
+]
+\openout2 = `Abstract/abstract.aux'.
+
+ (Abstract/abstract.tex [8
+
+
+
+])
+[9
+
+] [10
+
+
+] (thesis.toc
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <12> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 2.
+ [11
+
+] [12] [13])
+\tf@toc=\write6
+\openout6 = `thesis.toc'.
+
+ [14] (thesis.lof
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.18 ...undefined@ {utf8}}}{63}{figure.caption.37}
+                                                  
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+[15
+
+] [16] [17])
+\tf@lof=\write7
+\openout7 = `thesis.lof'.
+
+ [18] (thesis.lot [19
+
+] [20])
+\tf@lot=\write8
+\openout8 = `thesis.lot'.
+
+ [21] [22
+
+]
+\openout2 = `Chapter1/chapter1.aux'.
+
+ (Chapter1/chapter1.tex
+Chapter 1.
+[1
+
+
+] [2] [3]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ... to add evidence and insights on how the “
+                                                  team size” and “team stabi...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ...idence and insights on how the “team size”
+                                                   and “team stability” play...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ... and insights on how the “team size” and “
+                                                  team stability” play a rol...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.31 ...n how the “team size” and “team stability”
+                                                   play a role as factors in...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+[4]
+<Chapter1/Figures/PeopleInternalExternal.pdf, id=974, 682.95152pt x 167.9073pt>
+File: Chapter1/Figures/PeopleInternalExternal.pdf Graphic file (type pdf)
+<use Chapter1/Figures/PeopleInternalExternal.pdf>
+Package pdftex.def Info: Chapter1/Figures/PeopleInternalExternal.pdf used on in
+put line 42.
+(pdftex.def)             Requested size: 437.46112pt x 107.55252pt.
+ [5 <./Chapter1/Figures/PeopleInternalExternal.pdf>] [6]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.61  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter1/Tables/PriorArtSummary.pdf, id=1014, 426.8748pt x 119.4864pt>
+File: Chapter1/Tables/PriorArtSummary.pdf Graphic file (type pdf)
+
+<use Chapter1/Tables/PriorArtSummary.pdf>
+Package pdftex.def Info: Chapter1/Tables/PriorArtSummary.pdf used on input line
+ 62.
+(pdftex.def)             Requested size: 426.87375pt x 119.4861pt.
+
+Overfull \hbox (4.41263pt too wide) in paragraph at lines 60--65
+[][] 
+ []
+
+LaTeX Font Info:    Try loading font information for TS1+ptm on input line 70.
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
+File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
+) [7 <./Chapter1/Tables/PriorArtSummary.pdf>] [8] [9]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.107  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter1/Tables/ResearchSummary.pdf, id=1081, 426.8748pt x 446.8695pt>
+File: Chapter1/Tables/ResearchSummary.pdf Graphic file (type pdf)
+
+<use Chapter1/Tables/ResearchSummary.pdf>
+Package pdftex.def Info: Chapter1/Tables/ResearchSummary.pdf used on input line
+ 108.
+(pdftex.def)             Requested size: 426.87375pt x 446.86841pt.
+
+Overfull \hbox (4.41263pt too wide) in paragraph at lines 106--111
+[][] 
+ []
+
+[10] [11 <./Chapter1/Tables/ResearchSummary.pdf>] [12] [13]
+<Chapter1/Figures/ThesisOverview.pdf, id=1111, 1067.18695pt x 512.1534pt>
+File: Chapter1/Figures/ThesisOverview.pdf Graphic file (type pdf)
+
+<use Chapter1/Figures/ThesisOverview.pdf>
+Package pdftex.def Info: Chapter1/Figures/ThesisOverview.pdf used on input line
+ 132.
+(pdftex.def)             Requested size: 612.44289pt x 293.93106pt.
+ [14
+
+ <./Chapter1/Figures/ThesisOverview.pdf>]
+Underfull \hbox (badness 10000) in paragraph at lines 138--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--151
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 138--151
+
+ []
+
+) [15
+
+]
+\openout2 = `Chapter2/chapter2.aux'.
+
+ (Chapter2/chapter2.tex [16
+
+
+
+]
+Chapter 2.
+<Chapter2/Figures/ChapterOverview.pdf, id=1145, 691.38298pt x 432.41548pt>
+File: Chapter2/Figures/ChapterOverview.pdf Graphic file (type pdf)
+
+<use Chapter2/Figures/ChapterOverview.pdf>
+Package pdftex.def Info: Chapter2/Figures/ChapterOverview.pdf used on input lin
+e 15.
+(pdftex.def)             Requested size: 437.46112pt x 273.60426pt.
+ [17]
+LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
+(Font)              Font shape `T1/ptm/b/n' tried instead on input line 23.
+ [18 <./Chapter2/Figures/ChapterOverview.pdf>]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.28 ...y have a detrimental effect on the system’
+                                                  s security \citep{meneely2...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+[19] [20] [21]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter2/Tables/CKMetricSuite.pdf, id=1326, 426.8748pt x 312.92911pt>
+File: Chapter2/Tables/CKMetricSuite.pdf Graphic file (type pdf)
+
+<use Chapter2/Tables/CKMetricSuite.pdf>
+Package pdftex.def Info: Chapter2/Tables/CKMetricSuite.pdf used on input line 5
+1.
+(pdftex.def)             Requested size: 426.87375pt x 312.92833pt.
+
+Overfull \hbox (4.41263pt too wide) in paragraph at lines 49--54
+[][] 
+ []
+
+[22 <./Chapter2/Tables/CKMetricSuite.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.62  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter2/Tables/Rosenberg.pdf, id=1359, 426.8748pt x 147.9126pt>
+File: Chapter2/Tables/Rosenberg.pdf Graphic file (type pdf)
+
+<use Chapter2/Tables/Rosenberg.pdf>
+Package pdftex.def Info: Chapter2/Tables/Rosenberg.pdf used on input line 63.
+(pdftex.def)             Requested size: 426.87375pt x 147.91223pt.
+
+Overfull \hbox (4.41263pt too wide) in paragraph at lines 61--66
+[][] 
+ []
+
+[23 <./Chapter2/Tables/Rosenberg.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter2/Tables/FaultModels.pdf, id=1407, 455.30101pt x 463.7325pt>
+File: Chapter2/Tables/FaultModels.pdf Graphic file (type pdf)
+
+<use Chapter2/Tables/FaultModels.pdf>
+Package pdftex.def Info: Chapter2/Tables/FaultModels.pdf used on input line 81.
+
+(pdftex.def)             Requested size: 437.46112pt x 445.57439pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 79--84
+[][] 
+ []
+
+[24] [25 <./Chapter2/Tables/FaultModels.pdf>] [26]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.105  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter2/Tables/BoehmUnderstandabilityModel.pdf, id=1467, 515.04419pt x 290.28
+452pt>
+File: Chapter2/Tables/BoehmUnderstandabilityModel.pdf Graphic file (type pdf)
+ <use Chapter2/Tables/BoehmUnderstandabilityModel.pdf>
+Package pdftex.def Info: Chapter2/Tables/BoehmUnderstandabilityModel.pdf used o
+n input line 106.
+(pdftex.def)             Requested size: 437.46112pt x 246.56139pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 104--109
+[][] 
+ []
+
+[27 <./Chapter2/Tables/BoehmUnderstandabilityModel.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.120 \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter2/Tables/MaintainabilitySubatrributes.pdf, id=1487, 415.5525pt x 136.59
+03pt>
+File: Chapter2/Tables/MaintainabilitySubatrributes.pdf Graphic file (type pdf)
+ <use Chapter2/Tables/MaintainabilitySubatrributes.pdf>
+Package pdftex.def Info: Chapter2/Tables/MaintainabilitySubatrributes.pdf used 
+on input line 121.
+(pdftex.def)             Requested size: 415.55148pt x 136.58995pt.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.129 \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter2/Tables/MaintainabilityModels.pdf, id=1488, 475.29568pt x 492.3996pt>
+File: Chapter2/Tables/MaintainabilityModels.pdf Graphic file (type pdf)
+
+<use Chapter2/Tables/MaintainabilityModels.pdf>
+Package pdftex.def Info: Chapter2/Tables/MaintainabilityModels.pdf used on inpu
+t line 130.
+(pdftex.def)             Requested size: 437.46112pt x 453.21599pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 128--133
+[][] 
+ []
+
+[28 <./Chapter2/Tables/MaintainabilitySubatrributes.pdf>] [29 <./Chapter2/Table
+s/MaintainabilityModels.pdf>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.146 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[30]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.153 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[31]) [32]
+\openout2 = `Chapter3/chapter3.aux'.
+
+ (Chapter3/chapter3.tex
+Chapter 3.
+[33
+
+
+
+]
+<Chapter3/Figures/ChapterOverview.pdf, id=1587, 682.95152pt x 463.85295pt>
+File: Chapter3/Figures/ChapterOverview.pdf Graphic file (type pdf)
+
+<use Chapter3/Figures/ChapterOverview.pdf>
+Package pdftex.def Info: Chapter3/Figures/ChapterOverview.pdf used on input lin
+e 14.
+(pdftex.def)             Requested size: 481.2099pt x 326.83235pt.
+ [34
+
+ <./Chapter3/Figures/ChapterOverview.pdf>] [35
+
+] [36]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.50  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter3/Tables/LanguagePopularity.pdf, id=1709, 278.96222pt x 238.97281pt>
+File: Chapter3/Tables/LanguagePopularity.pdf Graphic file (type pdf)
+
+<use Chapter3/Tables/LanguagePopularity.pdf>
+Package pdftex.def Info: Chapter3/Tables/LanguagePopularity.pdf used on input l
+ine 51.
+(pdftex.def)             Requested size: 278.96153pt x 238.97221pt.
+ [37] [38 <./Chapter3/Tables/LanguagePopularity.pdf>]
+<Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf, id=1749, 469.51411pt x 2
+27.6505pt>
+File: Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf Graphic file (type p
+df)
+ <use Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf>
+Package pdftex.def Info: Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf u
+sed on input line 70.
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+ [39]
+<Chapter3/Charts/ProjectCreationHistogram.pdf, id=1761, 469.51411pt x 227.6505p
+t>
+File: Chapter3/Charts/ProjectCreationHistogram.pdf Graphic file (type pdf)
+ <use Chapter3/Charts/ProjectCreationHistogram.pdf>
+Package pdftex.def Info: Chapter3/Charts/ProjectCreationHistogram.pdf used on i
+nput line 81.
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+ [40 <./Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf> <./Chapter3/Chart
+s/ProjectCreationHistogram.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter3/Charts/ProjectCreationHistogram.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
+>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.108  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter3/Tables/VCSMiningToolSummary.pdf, id=1798, 455.30101pt x 327.3831pt>
+File: Chapter3/Tables/VCSMiningToolSummary.pdf Graphic file (type pdf)
+
+<use Chapter3/Tables/VCSMiningToolSummary.pdf>
+Package pdftex.def Info: Chapter3/Tables/VCSMiningToolSummary.pdf used on input
+ line 109.
+(pdftex.def)             Requested size: 437.46112pt x 314.56395pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 107--112
+ [][] 
+ []
+
+[41] [42 <./Chapter3/Tables/VCSMiningToolSummary.pdf>]
+<Chapter3/Figures/Toolchain.pdf, id=1828, 739.92432pt x 540.70004pt>
+File: Chapter3/Figures/Toolchain.pdf Graphic file (type pdf)
+
+<use Chapter3/Figures/Toolchain.pdf>
+Package pdftex.def Info: Chapter3/Figures/Toolchain.pdf used on input line 129.
+
+(pdftex.def)             Requested size: 437.46112pt x 319.67854pt.
+ [43] [44 <./Chapter3/Figures/Toolchain.pdf>] [45]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.149  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter3/Tables/MetricMiningToolSummary.pdf, id=1883, 469.51411pt x 341.35529p
+t>
+File: Chapter3/Tables/MetricMiningToolSummary.pdf Graphic file (type pdf)
+ <use Chapter3/Tables/MetricMiningToolSummary.pdf>
+Package pdftex.def Info: Chapter3/Tables/MetricMiningToolSummary.pdf used on in
+put line 150.
+(pdftex.def)             Requested size: 437.46112pt x 318.0561pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 148--153
+ [][] 
+ []
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.159  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter3/Tables/Understand.pdf, id=1884, 455.30101pt x 199.22429pt>
+File: Chapter3/Tables/Understand.pdf Graphic file (type pdf)
+
+<use Chapter3/Tables/Understand.pdf>
+Package pdftex.def Info: Chapter3/Tables/Understand.pdf used on input line 160.
+
+(pdftex.def)             Requested size: 437.46112pt x 191.42337pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 158--163
+ [][] 
+ []
+
+<Chapter3/Figures/Schema.pdf, id=1886, 625.97867pt x 469.51411pt>
+File: Chapter3/Figures/Schema.pdf Graphic file (type pdf)
+
+<use Chapter3/Figures/Schema.pdf>
+Package pdftex.def Info: Chapter3/Figures/Schema.pdf used on input line 169.
+(pdftex.def)             Requested size: 437.46112pt x 328.12033pt.
+ [46 <./Chapter3/Tables/MetricMiningToolSummary.pdf>] [47 <./Chapter3/Tables/Un
+derstand.pdf> <./Chapter3/Figures/Schema.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter3/Figures/Schema.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+>] [48] [49] [50] [51] [52] [53]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.246  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter3/Tables/MetricSuites.pdf, id=2075, 455.30101pt x 341.35529pt>
+File: Chapter3/Tables/MetricSuites.pdf Graphic file (type pdf)
+
+<use Chapter3/Tables/MetricSuites.pdf>
+Package pdftex.def Info: Chapter3/Tables/MetricSuites.pdf used on input line 24
+7.
+(pdftex.def)             Requested size: 437.46112pt x 327.98901pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 245--250
+ [][] 
+ []
+
+) [54] [55 <./Chapter3/Tables/MetricSuites.pdf>]
+\openout2 = `Chapter4/chapter4.aux'.
+
+ (Chapter4/chapter4.tex
+[56
+
+
+
+]
+Chapter 4.
+[57] [58]
+<Chapter4/Figures/ChapterOverview.pdf, id=2125, 1124.03937pt x 515.04419pt>
+File: Chapter4/Figures/ChapterOverview.pdf Graphic file (type pdf)
+
+<use Chapter4/Figures/ChapterOverview.pdf>
+Package pdftex.def Info: Chapter4/Figures/ChapterOverview.pdf used on input lin
+e 15.
+(pdftex.def)             Requested size: 612.44289pt x 280.63458pt.
+ [59
+
+ <./Chapter4/Figures/ChapterOverview.pdf>]
+<Chapter4/Figures/MiningToolchain.pdf, id=2169, 586.23013pt x 284.62335pt>
+File: Chapter4/Figures/MiningToolchain.pdf Graphic file (type pdf)
+
+<use Chapter4/Figures/MiningToolchain.pdf>
+Package pdftex.def Info: Chapter4/Figures/MiningToolchain.pdf used on input lin
+e 23.
+(pdftex.def)             Requested size: 437.46112pt x 212.39426pt.
+ [60
+
+ <./Chapter4/Figures/MiningToolchain.pdf>] [61]
+<Chapter4/Figures/ProjectCategorisation.pdf, id=2230, 469.51411pt x 227.6505pt>
+File: Chapter4/Figures/ProjectCategorisation.pdf Graphic file (type pdf)
+<use Chapter4/Figures/ProjectCategorisation.pdf>
+Package pdftex.def Info: Chapter4/Figures/ProjectCategorisation.pdf used on inp
+ut line 45.
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.54  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter4/Tables/GoogleCodeLanguage.pdf, id=2231, 216.3282pt x 108.16411pt>
+File: Chapter4/Tables/GoogleCodeLanguage.pdf Graphic file (type pdf)
+
+<use Chapter4/Tables/GoogleCodeLanguage.pdf>
+Package pdftex.def Info: Chapter4/Tables/GoogleCodeLanguage.pdf used on input l
+ine 55.
+(pdftex.def)             Requested size: 216.32767pt x 108.16383pt.
+ [62 <./Chapter4/Tables/GoogleCodeLanguage.pdf> <./Chapter4/Figures/ProjectCate
+gorisation.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter4/Figures/ProjectCategorisation.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.68  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter4/Tables/GoogleCodeVCS.pdf, id=2259, 216.3282pt x 91.0602pt>
+File: Chapter4/Tables/GoogleCodeVCS.pdf Graphic file (type pdf)
+
+<use Chapter4/Tables/GoogleCodeVCS.pdf>
+Package pdftex.def Info: Chapter4/Tables/GoogleCodeVCS.pdf used on input line 6
+9.
+(pdftex.def)             Requested size: 216.32767pt x 91.05997pt.
+ [63 <./Chapter4/Tables/GoogleCodeVCS.pdf>]
+<Chapter4/Figures/AnalysisDataSets.pdf, id=2277, 711.37767pt x 256.07669pt>
+File: Chapter4/Figures/AnalysisDataSets.pdf Graphic file (type pdf)
+
+<use Chapter4/Figures/AnalysisDataSets.pdf>
+Package pdftex.def Info: Chapter4/Figures/AnalysisDataSets.pdf used on input li
+ne 80.
+(pdftex.def)             Requested size: 437.46112pt x 157.47255pt.
+ [64 <./Chapter4/Figures/AnalysisDataSets.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.95  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter4/Tables/GoogleCodeExtensions.pdf, id=2331, 216.3282pt x 105.2733pt>
+File: Chapter4/Tables/GoogleCodeExtensions.pdf Graphic file (type pdf)
+
+<use Chapter4/Tables/GoogleCodeExtensions.pdf>
+Package pdftex.def Info: Chapter4/Tables/GoogleCodeExtensions.pdf used on input
+ line 96.
+(pdftex.def)             Requested size: 216.32767pt x 105.27304pt.
+
+<Chapter4/Charts/CumulativeCommitterCount.pdf, id=2334, 461.08258pt x 227.6505p
+t>
+File: Chapter4/Charts/CumulativeCommitterCount.pdf Graphic file (type pdf)
+ <use Chapter4/Charts/CumulativeCommitterCount.pdf>
+Package pdftex.def Info: Chapter4/Charts/CumulativeCommitterCount.pdf used on i
+nput line 105.
+(pdftex.def)             Requested size: 437.46112pt x 215.99579pt.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.114  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter4/Tables/SampleTeamSizes.pdf, id=2335, 216.3282pt x 125.268pt>
+File: Chapter4/Tables/SampleTeamSizes.pdf Graphic file (type pdf)
+
+<use Chapter4/Tables/SampleTeamSizes.pdf>
+Package pdftex.def Info: Chapter4/Tables/SampleTeamSizes.pdf used on input line
+ 115.
+(pdftex.def)             Requested size: 216.32767pt x 125.26768pt.
+ [65 <./Chapter4/Tables/GoogleCodeExtensions.pdf> <./Chapter4/Tables/SampleTeam
+Sizes.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter4/Tables/SampleTeamSizes.pdf): PDF incl
+usion: multiple pdfs with page group included in a single page
+>]
+<Chapter4/Charts/CommitCountBarChart.pdf, id=2358, 469.51411pt x 227.6505pt>
+File: Chapter4/Charts/CommitCountBarChart.pdf Graphic file (type pdf)
+
+<use Chapter4/Charts/CommitCountBarChart.pdf>
+Package pdftex.def Info: Chapter4/Charts/CommitCountBarChart.pdf used on input 
+line 124.
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+
+<Chapter4/Figures/AffectedFiles.pdf, id=2360, 461.08258pt x 227.6505pt>
+File: Chapter4/Figures/AffectedFiles.pdf Graphic file (type pdf)
+
+<use Chapter4/Figures/AffectedFiles.pdf>
+Package pdftex.def Info: Chapter4/Figures/AffectedFiles.pdf used on input line 
+133.
+(pdftex.def)             Requested size: 437.46112pt x 215.99579pt.
+ [66 <./Chapter4/Charts/CumulativeCommitterCount.pdf>] [67 <./Chapter4/Charts/C
+ommitCountBarChart.pdf> <./Chapter4/Figures/AffectedFiles.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter4/Figures/AffectedFiles.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+>] [68] <Chapter4/Charts/Distributions.pdf, id=2435, 953.24129pt x 904.8204pt>
+File: Chapter4/Charts/Distributions.pdf Graphic file (type pdf)
+
+<use Chapter4/Charts/Distributions.pdf>
+Package pdftex.def Info: Chapter4/Charts/Distributions.pdf used on input line 1
+47.
+(pdftex.def)             Requested size: 437.46112pt x 415.24219pt.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.156  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter4/Tables/KSTest.pdf, id=2436, 406.88008pt x 68.4156pt>
+File: Chapter4/Tables/KSTest.pdf Graphic file (type pdf)
+
+<use Chapter4/Tables/KSTest.pdf>
+Package pdftex.def Info: Chapter4/Tables/KSTest.pdf used on input line 157.
+(pdftex.def)             Requested size: 406.87909pt x 68.41542pt.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.166  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter4/Tables/MetricCorrelationsSlim.pdf, id=2437, 461.08258pt x 202.1151pt>
+File: Chapter4/Tables/MetricCorrelationsSlim.pdf Graphic file (type pdf)
+<use Chapter4/Tables/MetricCorrelationsSlim.pdf>
+Package pdftex.def Info: Chapter4/Tables/MetricCorrelationsSlim.pdf used on inp
+ut line 167.
+(pdftex.def)             Requested size: 461.08145pt x 202.1146pt.
+
+Overfull \hbox (38.62033pt too wide) in paragraph at lines 165--170
+ [][] 
+ []
+
+[69 <./Chapter4/Charts/Distributions.pdf>] [70 <./Chapter4/Tables/KSTest.pdf> <
+./Chapter4/Tables/MetricCorrelationsSlim.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter4/Tables/MetricCorrelationsSlim.pdf): P
+DF inclusion: multiple pdfs with page group included in a single page
+>] <Chapter4/Figures/TimeSizeExample.pdf, id=2486, 515.04419pt x 312.92911pt>
+File: Chapter4/Figures/TimeSizeExample.pdf Graphic file (type pdf)
+
+<use Chapter4/Figures/TimeSizeExample.pdf>
+Package pdftex.def Info: Chapter4/Figures/TimeSizeExample.pdf used on input lin
+e 185.
+(pdftex.def)             Requested size: 437.46112pt x 265.79521pt.
+
+<Chapter4/Charts/CommitterCommitCount.pdf, id=2487, 461.08258pt x 227.6505pt>
+File: Chapter4/Charts/CommitterCommitCount.pdf Graphic file (type pdf)
+
+<use Chapter4/Charts/CommitterCommitCount.pdf>
+Package pdftex.def Info: Chapter4/Charts/CommitterCommitCount.pdf used on input
+ line 192.
+(pdftex.def)             Requested size: 437.46112pt x 215.99579pt.
+ [71] [72 <./Chapter4/Figures/TimeSizeExample.pdf> <./Chapter4/Charts/Committer
+CommitCount.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter4/Charts/CommitterCommitCount.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+>]
+<Chapter4/Figures/BasicAnalysisMetricMining.pdf, id=2552, 284.62335pt x 185.011
+2pt>
+File: Chapter4/Figures/BasicAnalysisMetricMining.pdf Graphic file (type pdf)
+ <use Chapter4/Figures/BasicAnalysisMetricMining.pdf>
+Package pdftex.def Info: Chapter4/Figures/BasicAnalysisMetricMining.pdf used on
+ input line 202.
+(pdftex.def)             Requested size: 306.22144pt x 199.06947pt.
+
+<Chapter4/Figures/BasicBucketingStrategy.pdf, id=2554, 512.27383pt x 136.5903pt
+>
+File: Chapter4/Figures/BasicBucketingStrategy.pdf Graphic file (type pdf)
+ <use Chapter4/Figures/BasicBucketingStrategy.pdf>
+Package pdftex.def Info: Chapter4/Figures/BasicBucketingStrategy.pdf used on in
+put line 211.
+(pdftex.def)             Requested size: 437.46112pt x 116.64626pt.
+ [73 <./Chapter4/Figures/BasicAnalysisMetricMining.pdf> <./Chapter4/Figures/Bas
+icBucketingStrategy.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter4/Figures/BasicBucketingStrategy.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.222  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter4/Tables/MetricsComparisionStrategyTabular.pdf, id=2614, 364.2408pt x 1
+28.1588pt>
+File: Chapter4/Tables/MetricsComparisionStrategyTabular.pdf Graphic file (type 
+pdf)
+ <use Chapter4/Tables/MetricsComparisionStrategyTabular.pdf>
+Package pdftex.def Info: Chapter4/Tables/MetricsComparisionStrategyTabular.pdf 
+used on input line 223.
+(pdftex.def)             Requested size: 437.46112pt x 153.92862pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 221--226
+ [][] 
+ []
+
+[74 <./Chapter4/Tables/MetricsComparisionStrategyTabular.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.243  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter4/Tables/BasicResultsSignificance.pdf, id=2638, 529.25732pt x 173.68889
+pt>
+File: Chapter4/Tables/BasicResultsSignificance.pdf Graphic file (type pdf)
+ <use Chapter4/Tables/BasicResultsSignificance.pdf>
+Package pdftex.def Info: Chapter4/Tables/BasicResultsSignificance.pdf used on i
+nput line 244.
+(pdftex.def)             Requested size: 437.46112pt x 143.56277pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 242--247
+ [][] 
+ []
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.253  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter4/Tables/BasicResultsAverages.pdf, id=2639, 466.6233pt x 122.3772pt>
+File: Chapter4/Tables/BasicResultsAverages.pdf Graphic file (type pdf)
+
+<use Chapter4/Tables/BasicResultsAverages.pdf>
+Package pdftex.def Info: Chapter4/Tables/BasicResultsAverages.pdf used on input
+ line 254.
+(pdftex.def)             Requested size: 437.46112pt x 114.73578pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 252--257
+ [][] 
+ []
+
+[75 <./Chapter4/Tables/BasicResultsSignificance.pdf>]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.264 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[76 <./Chapter4/Tables/BasicResultsAverages.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.273  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter4/Tables/LOCCorrelations.pdf, id=2774, 461.08258pt x 99.7326pt>
+File: Chapter4/Tables/LOCCorrelations.pdf Graphic file (type pdf)
+
+<use Chapter4/Tables/LOCCorrelations.pdf>
+Package pdftex.def Info: Chapter4/Tables/LOCCorrelations.pdf used on input line
+ 274.
+(pdftex.def)             Requested size: 437.46112pt x 94.62671pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 272--277
+ [][] 
+ []
+
+<Chapter4/Charts/AllMetricsAgainstLOC.pdf, id=2775, 409.77089pt x 446.8695pt>
+File: Chapter4/Charts/AllMetricsAgainstLOC.pdf Graphic file (type pdf)
+
+<use Chapter4/Charts/AllMetricsAgainstLOC.pdf>
+Package pdftex.def Info: Chapter4/Charts/AllMetricsAgainstLOC.pdf used on input
+ line 281.
+(pdftex.def)             Requested size: 437.46112pt x 477.08875pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.286 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+<Chapter4/Figures/PreciseRevisionLogs.pdf, id=2779, 458.19182pt x 79.7379pt>
+File: Chapter4/Figures/PreciseRevisionLogs.pdf Graphic file (type pdf)
+
+<use Chapter4/Figures/PreciseRevisionLogs.pdf>
+Package pdftex.def Info: Chapter4/Figures/PreciseRevisionLogs.pdf used on input
+ line 293.
+(pdftex.def)             Requested size: 437.46112pt x 76.13017pt.
+ [77 <./Chapter4/Tables/LOCCorrelations.pdf>] [78 <./Chapter4/Charts/AllMetrics
+AgainstLOC.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.308  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter4/Tables/RevisionCorrelations.pdf, id=2812, 461.08258pt x 99.7326pt>
+File: Chapter4/Tables/RevisionCorrelations.pdf Graphic file (type pdf)
+
+<use Chapter4/Tables/RevisionCorrelations.pdf>
+Package pdftex.def Info: Chapter4/Tables/RevisionCorrelations.pdf used on input
+ line 309.
+(pdftex.def)             Requested size: 437.46112pt x 94.62671pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 307--312
+ [][] 
+ []
+
+[79 <./Chapter4/Figures/PreciseRevisionLogs.pdf> <./Chapter4/Tables/RevisionCor
+relations.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter4/Tables/RevisionCorrelations.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+>]
+<Chapter4/Charts/RevisionsCommitters.pdf, id=2840, 469.51411pt x 227.6505pt>
+File: Chapter4/Charts/RevisionsCommitters.pdf Graphic file (type pdf)
+
+<use Chapter4/Charts/RevisionsCommitters.pdf>
+Package pdftex.def Info: Chapter4/Charts/RevisionsCommitters.pdf used on input 
+line 318.
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+
+<Chapter4/Charts/MetricsRevisions.pdf, id=2841, 469.51411pt x 446.8695pt>
+File: Chapter4/Charts/MetricsRevisions.pdf Graphic file (type pdf)
+
+<use Chapter4/Charts/MetricsRevisions.pdf>
+Package pdftex.def Info: Chapter4/Charts/MetricsRevisions.pdf used on input lin
+e 325.
+(pdftex.def)             Requested size: 437.46112pt x 416.36848pt.
+
+<Chapter4/Figures/AdvancedAnalysisMetricMining.pdf, id=2844, 284.62335pt x 173.
+56845pt>
+File: Chapter4/Figures/AdvancedAnalysisMetricMining.pdf Graphic file (type pdf)
+
+ <use Chapter4/Figures/AdvancedAnalysisMetricMining.pdf>
+Package pdftex.def Info: Chapter4/Figures/AdvancedAnalysisMetricMining.pdf used
+ on input line 337.
+(pdftex.def)             Requested size: 306.22144pt x 186.75722pt.
+ [80 <./Chapter4/Charts/RevisionsCommitters.pdf>] [81 <./Chapter4/Charts/Metric
+sRevisions.pdf>]
+<Chapter4/Figures/AdvancedBucketingStrategy.pdf, id=2878, 446.74904pt x 256.076
+69pt>
+File: Chapter4/Figures/AdvancedBucketingStrategy.pdf Graphic file (type pdf)
+ <use Chapter4/Figures/AdvancedBucketingStrategy.pdf>
+Package pdftex.def Info: Chapter4/Figures/AdvancedBucketingStrategy.pdf used on
+ input line 346.
+(pdftex.def)             Requested size: 437.46112pt x 250.76588pt.
+
+! Undefined control sequence.
+l.353 ...ecessity, for a file to be revised \texit
+                                                  {x} times, it would have \...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.353 ...sed \texit{x} times, it would have \texit
+                                                  {x}-1 prior revisions (whe...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+! Undefined control sequence.
+l.353 ...\texit{x}-1 prior revisions (where \texit
+                                                  {x}>1). However, it is per...
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+[82 <./Chapter4/Figures/AdvancedAnalysisMetricMining.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.359  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter4/Tables/BucketPopulations.pdf, id=2908, 483.72722pt x 150.8034pt>
+File: Chapter4/Tables/BucketPopulations.pdf Graphic file (type pdf)
+
+<use Chapter4/Tables/BucketPopulations.pdf>
+Package pdftex.def Info: Chapter4/Tables/BucketPopulations.pdf used on input li
+ne 360.
+(pdftex.def)             Requested size: 437.46112pt x 136.3799pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 358--363
+ [][] 
+ []
+
+
+<Chapter4/Figures/MetricsPopulationRevisions.pdf, id=2909, 469.51411pt x 227.65
+05pt>
+File: Chapter4/Figures/MetricsPopulationRevisions.pdf Graphic file (type pdf)
+ <use Chapter4/Figures/MetricsPopulationRevisions.pdf>
+Package pdftex.def Info: Chapter4/Figures/MetricsPopulationRevisions.pdf used o
+n input line 367.
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+ [83 <./Chapter4/Figures/AdvancedBucketingStrategy.pdf> <./Chapter4/Tables/Buck
+etPopulations.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter4/Tables/BucketPopulations.pdf): PDF in
+clusion: multiple pdfs with page group included in a single page
+>] [84 <./Chapter4/Figures/MetricsPopulationRevisions.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.391  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter4/Tables/ComplexResultsBucketComparisions.pdf, id=2971, 455.30101pt x 6
+91.38298pt>
+File: Chapter4/Tables/ComplexResultsBucketComparisions.pdf Graphic file (type p
+df)
+ <use Chapter4/Tables/ComplexResultsBucketComparisions.pdf>
+Package pdftex.def Info: Chapter4/Tables/ComplexResultsBucketComparisions.pdf u
+sed on input line 392.
+(pdftex.def)             Requested size: 437.46112pt x 664.31091pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 390--395
+ [][] 
+ []
+
+
+LaTeX Warning: Float too large for page by 59.37581pt on input line 395.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.401  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter4/Tables/ComplexResultsBucketAverages.pdf, id=2972, 452.4102pt x 256.07
+669pt>
+File: Chapter4/Tables/ComplexResultsBucketAverages.pdf Graphic file (type pdf)
+ <use Chapter4/Tables/ComplexResultsBucketAverages.pdf>
+Package pdftex.def Info: Chapter4/Tables/ComplexResultsBucketAverages.pdf used 
+on input line 402.
+(pdftex.def)             Requested size: 437.46112pt x 247.61652pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 400--405
+ [][] 
+ []
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 412.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.418  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter4/Tables/BasicLinearRegression.pdf, id=2976, 455.30101pt x 261.8583pt>
+File: Chapter4/Tables/BasicLinearRegression.pdf Graphic file (type pdf)
+
+<use Chapter4/Tables/BasicLinearRegression.pdf>
+Package pdftex.def Info: Chapter4/Tables/BasicLinearRegression.pdf used on inpu
+t line 419.
+(pdftex.def)             Requested size: 437.46112pt x 251.60486pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 417--422
+ [][] 
+ []
+
+[85] [86 <./Chapter4/Tables/ComplexResultsBucketComparisions.pdf>] [87 <./Chapt
+er4/Tables/ComplexResultsBucketAverages.pdf> <./Chapter4/Tables/BasicLinearRegr
+ession.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter4/Tables/BasicLinearRegression.pdf): PD
+F inclusion: multiple pdfs with page group included in a single page
+>] [88] [89]
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 460.
+
+[90]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.479  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter4/Tables/RandomInterceptsLinearRegression.pdf, id=3530, 455.30101pt x 1
+67.9073pt>
+File: Chapter4/Tables/RandomInterceptsLinearRegression.pdf Graphic file (type p
+df)
+ <use Chapter4/Tables/RandomInterceptsLinearRegression.pdf>
+Package pdftex.def Info: Chapter4/Tables/RandomInterceptsLinearRegression.pdf u
+sed on input line 480.
+(pdftex.def)             Requested size: 437.46112pt x 161.33263pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 478--483
+ [][] 
+ []
+
+[91 <./Chapter4/Tables/RandomInterceptsLinearRegression.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.497  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter4/Tables/TeamSizePCA.pdf, id=3559, 483.72722pt x 76.84709pt>
+File: Chapter4/Tables/TeamSizePCA.pdf Graphic file (type pdf)
+
+<use Chapter4/Tables/TeamSizePCA.pdf>
+Package pdftex.def Info: Chapter4/Tables/TeamSizePCA.pdf used on input line 498
+.
+(pdftex.def)             Requested size: 437.46112pt x 69.49709pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 496--501
+[][] 
+ []
+
+<Chapter4/Charts/TeamSizeScatter.pdf, id=3561, 466.6233pt x 213.4374pt>
+File: Chapter4/Charts/TeamSizeScatter.pdf Graphic file (type pdf)
+
+<use Chapter4/Charts/TeamSizeScatter.pdf>
+Package pdftex.def Info: Chapter4/Charts/TeamSizeScatter.pdf used on input line
+ 507.
+(pdftex.def)             Requested size: 437.46112pt x 200.11008pt.
+ [92 <./Chapter4/Tables/TeamSizePCA.pdf>] [93 <./Chapter4/Charts/TeamSizeScatte
+r.pdf>]
+<Chapter4/Charts/PreciseCommitterAnalysis.pdf, id=3594, 469.51411pt x 196.33351
+pt>
+File: Chapter4/Charts/PreciseCommitterAnalysis.pdf Graphic file (type pdf)
+ <use Chapter4/Charts/PreciseCommitterAnalysis.pdf>
+Package pdftex.def Info: Chapter4/Charts/PreciseCommitterAnalysis.pdf used on i
+nput line 521.
+(pdftex.def)             Requested size: 437.46112pt x 182.93279pt.
+
+<Chapter4/Charts/TeamSizesResultsCompare.pdf, id=3595, 466.6233pt x 483.72722pt
+>
+File: Chapter4/Charts/TeamSizesResultsCompare.pdf Graphic file (type pdf)
+ <use Chapter4/Charts/TeamSizesResultsCompare.pdf>
+Package pdftex.def Info: Chapter4/Charts/TeamSizesResultsCompare.pdf used on in
+put line 528.
+(pdftex.def)             Requested size: 437.46112pt x 453.52267pt.
+ [94 <./Chapter4/Charts/PreciseCommitterAnalysis.pdf>] [95 <./Chapter4/Charts/T
+eamSizesResultsCompare.pdf>] <Chapter4/Figures/BadCouplingExample.pdf, id=3630,
+ 626.0991pt x 370.02242pt>
+File: Chapter4/Figures/BadCouplingExample.pdf Graphic file (type pdf)
+
+<use Chapter4/Figures/BadCouplingExample.pdf>
+Package pdftex.def Info: Chapter4/Figures/BadCouplingExample.pdf used on input 
+line 539.
+(pdftex.def)             Requested size: 437.46112pt x 258.534pt.
+
+<Chapter4/Figures/BadCodeExample.pdf, id=3631, 626.0991pt x 426.8748pt>
+File: Chapter4/Figures/BadCodeExample.pdf Graphic file (type pdf)
+
+<use Chapter4/Figures/BadCodeExample.pdf>
+Package pdftex.def Info: Chapter4/Figures/BadCodeExample.pdf used on input line
+ 546.
+(pdftex.def)             Requested size: 437.46112pt x 298.25665pt.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.555  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf, id=3632,
+ 455.30101pt x 147.9126pt>
+File: Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf Grap
+hic file (type pdf)
+
+<use Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf>
+Package pdftex.def Info: Chapter4/Tables/RandomInterceptsLinearRegressionSelect
+edProjects.pdf used on input line 556.
+(pdftex.def)             Requested size: 437.46112pt x 142.12086pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 554--559
+ [][] 
+ []
+
+[96 <./Chapter4/Figures/BadCouplingExample.pdf>] [97 <./Chapter4/Figures/BadCod
+eExample.pdf> <./Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjec
+ts.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter4/Tables/RandomInterceptsLinearRegressi
+onSelectedProjects.pdf): PDF inclusion: multiple pdfs with page group included 
+in a single page
+>] [98]
+<Chapter4/Figures/ResultOverview.pdf, id=3735, 580.56903pt x 256.07669pt>
+File: Chapter4/Figures/ResultOverview.pdf Graphic file (type pdf)
+
+<use Chapter4/Figures/ResultOverview.pdf>
+Package pdftex.def Info: Chapter4/Figures/ResultOverview.pdf used on input line
+ 574.
+(pdftex.def)             Requested size: 437.46112pt x 192.95575pt.
+) [99] [100 <./Chapter4/Figures/ResultOverview.pdf>]
+\openout2 = `Chapter5/chapter5.aux'.
+
+ (Chapter5/chapter5.tex
+Chapter 5.
+[101
+
+
+
+] [102]
+<Chapter5/Figures/ChapterOverview.pdf, id=3794, 1109.82635pt x 540.5796pt>
+File: Chapter5/Figures/ChapterOverview.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/ChapterOverview.pdf>
+Package pdftex.def Info: Chapter5/Figures/ChapterOverview.pdf used on input lin
+e 18.
+(pdftex.def)             Requested size: 568.70079pt x 277.00346pt.
+ [103
+
+ <./Chapter5/Figures/ChapterOverview.pdf>]
+<Chapter5/Figures/MiningAnalysisToolchain.pdf, id=3850, 617.4267pt x 264.74911p
+t>
+File: Chapter5/Figures/MiningAnalysisToolchain.pdf Graphic file (type pdf)
+ <use Chapter5/Figures/MiningAnalysisToolchain.pdf>
+Package pdftex.def Info: Chapter5/Figures/MiningAnalysisToolchain.pdf used on i
+nput line 26.
+(pdftex.def)             Requested size: 437.46112pt x 187.58536pt.
+ [104
+
+ <./Chapter5/Figures/MiningAnalysisToolchain.pdf>]
+<Chapter5/Figures/NetworkAnalysis.pdf, id=3910, 808.21951pt x 515.04419pt>
+File: Chapter5/Figures/NetworkAnalysis.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/NetworkAnalysis.pdf>
+Package pdftex.def Info: Chapter5/Figures/NetworkAnalysis.pdf used on input lin
+e 42.
+(pdftex.def)             Requested size: 437.46112pt x 278.77988pt.
+ [105 <./Chapter5/Figures/NetworkAnalysis.pdf>] [106]
+<Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf, id=3986, 463.7325pt x 185.
+0112pt>
+File: Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf Graphic file (type pdf
+)
+ <use Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf>
+Package pdftex.def Info: Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf use
+d on input line 72.
+(pdftex.def)             Requested size: 437.46112pt x 174.53444pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.80 \newline
+             
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[107 <./Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf>] [108]
+<Chapter5/Figures/ForkedImportedBinaries.pdf, id=4022, 207.6558pt x 162.1257pt>
+File: Chapter5/Figures/ForkedImportedBinaries.pdf Graphic file (type pdf)
+<use Chapter5/Figures/ForkedImportedBinaries.pdf>
+Package pdftex.def Info: Chapter5/Figures/ForkedImportedBinaries.pdf used on in
+put line 95.
+(pdftex.def)             Requested size: 207.65529pt x 162.1253pt.
+
+<Chapter5/Figures/ForkedSameHistory.pdf, id=4024, 304.49759pt x 165.0165pt>
+File: Chapter5/Figures/ForkedSameHistory.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/ForkedSameHistory.pdf>
+Package pdftex.def Info: Chapter5/Figures/ForkedSameHistory.pdf used on input l
+ine 105.
+(pdftex.def)             Requested size: 304.49684pt x 165.01607pt.
+ [109 <./Chapter5/Figures/ForkedImportedBinaries.pdf>]
+<Chapter5/Figures/ForkedOutsideForge.pdf, id=4039, 304.49759pt x 125.268pt>
+File: Chapter5/Figures/ForkedOutsideForge.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/ForkedOutsideForge.pdf>
+Package pdftex.def Info: Chapter5/Figures/ForkedOutsideForge.pdf used on input 
+line 115.
+(pdftex.def)             Requested size: 304.49684pt x 125.26768pt.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.122 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[110 <./Chapter5/Figures/ForkedSameHistory.pdf> <./Chapter5/Figures/ForkedOutsi
+deForge.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter5/Figures/ForkedOutsideForge.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
+>]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133 ...or commit description contains the term ‘
+                                                  fork’. Again, this is not ...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.133 ...mmit description contains the term ‘fork’
+                                                  . Again, this is not a lim...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+[111] <Chapter5/Charts/ForkCounts.pdf, id=4073, 469.51411pt x 227.6505pt>
+File: Chapter5/Charts/ForkCounts.pdf Graphic file (type pdf)
+
+<use Chapter5/Charts/ForkCounts.pdf>
+Package pdftex.def Info: Chapter5/Charts/ForkCounts.pdf used on input line 141.
+
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+ [112 <./Chapter5/Charts/ForkCounts.pdf>]
+<Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf, id=4091, 469.51411pt x 2
+27.6505pt>
+File: Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf Graphic file (type p
+df)
+ <use Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf>
+Package pdftex.def Info: Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf u
+sed on input line 155.
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+
+<Chapter5/Charts/FrequencyEngagement.pdf, id=4092, 469.51411pt x 227.6505pt>
+File: Chapter5/Charts/FrequencyEngagement.pdf Graphic file (type pdf)
+
+<use Chapter5/Charts/FrequencyEngagement.pdf>
+Package pdftex.def Info: Chapter5/Charts/FrequencyEngagement.pdf used on input 
+line 162.
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+ [113 <./Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf>] [114 <./Chapter
+5/Charts/FrequencyEngagement.pdf>]
+<Chapter5/Figures/ProjectPairEligability.pdf, id=4123, 426.8748pt x 370.02242pt
+>
+File: Chapter5/Figures/ProjectPairEligability.pdf Graphic file (type pdf)
+ <use Chapter5/Figures/ProjectPairEligability.pdf>
+Package pdftex.def Info: Chapter5/Figures/ProjectPairEligability.pdf used on in
+put line 179.
+(pdftex.def)             Requested size: 437.46112pt x 379.22461pt.
+
+<Chapter5/Charts/ProjectCommitterCount.pdf, id=4126, 469.51411pt x 227.6505pt>
+File: Chapter5/Charts/ProjectCommitterCount.pdf Graphic file (type pdf)
+
+<use Chapter5/Charts/ProjectCommitterCount.pdf>
+Package pdftex.def Info: Chapter5/Charts/ProjectCommitterCount.pdf used on inpu
+t line 192.
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+ [115] [116 <./Chapter5/Figures/ProjectPairEligability.pdf>] [117 <./Chapter5/C
+harts/ProjectCommitterCount.pdf>]
+<Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf, id=4216, 512.1534pt x 5
+69.24669pt>
+File: Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf Graphic file (type 
+pdf)
+ <use Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf>
+Package pdftex.def Info: Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf 
+used on input line 207.
+(pdftex.def)             Requested size: 437.46112pt x 486.25063pt.
+
+[118 <./Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf>] [119]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.224 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.229 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.230 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 231.
+
+
+<Chapter5/Figures/IntraprojectStabilityCalc.pdf, id=4301, 577.67822pt x 278.962
+22pt>
+File: Chapter5/Figures/IntraprojectStabilityCalc.pdf Graphic file (type pdf)
+ <use Chapter5/Figures/IntraprojectStabilityCalc.pdf>
+Package pdftex.def Info: Chapter5/Figures/IntraprojectStabilityCalc.pdf used on
+ input line 235.
+(pdftex.def)             Requested size: 437.46112pt x 211.2558pt.
+
+<Chapter5/Charts/ProjectModuleCount.pdf, id=4304, 469.51411pt x 227.6505pt>
+File: Chapter5/Charts/ProjectModuleCount.pdf Graphic file (type pdf)
+
+<use Chapter5/Charts/ProjectModuleCount.pdf>
+Package pdftex.def Info: Chapter5/Charts/ProjectModuleCount.pdf used on input l
+ine 246.
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+
+<Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf, id=4305, 577.67822p
+t x 335.81459pt>
+File: Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf Graphic file (t
+ype pdf)
+
+<use Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf>
+Package pdftex.def Info: Chapter5/Figures/IntraprojectStabilityCalcModularised.
+pdf used on input line 253.
+(pdftex.def)             Requested size: 437.46112pt x 254.30965pt.
+ [120] [121 <./Chapter5/Figures/IntraprojectStabilityCalc.pdf> <./Chapter5/Char
+ts/ProjectModuleCount.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter5/Charts/ProjectModuleCount.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.265  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/StabilityCorrelations.pdf, id=4366, 523.71661pt x 150.8034pt>
+File: Chapter5/Tables/StabilityCorrelations.pdf Graphic file (type pdf)
+
+<use Chapter5/Tables/StabilityCorrelations.pdf>
+Package pdftex.def Info: Chapter5/Tables/StabilityCorrelations.pdf used on inpu
+t line 266.
+(pdftex.def)             Requested size: 437.46112pt x 125.97215pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 264--269
+ [][] 
+ []
+
+[122 <./Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf>]
+<Chapter5/Charts/StabilityDistribution.pdf, id=4414, 458.19182pt x 293.1753pt>
+File: Chapter5/Charts/StabilityDistribution.pdf Graphic file (type pdf)
+
+<use Chapter5/Charts/StabilityDistribution.pdf>
+Package pdftex.def Info: Chapter5/Charts/StabilityDistribution.pdf used on inpu
+t line 277.
+(pdftex.def)             Requested size: 437.46112pt x 279.91068pt.
+
+<Chapter5/Figures/StabilityOutliers.pdf, id=4415, 626.0991pt x 512.1534pt>
+File: Chapter5/Figures/StabilityOutliers.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/StabilityOutliers.pdf>
+Package pdftex.def Info: Chapter5/Figures/StabilityOutliers.pdf used on input l
+ine 284.
+(pdftex.def)             Requested size: 437.46112pt x 357.84067pt.
+
+<Chapter5/Charts/ScatterDiagrams.pdf, id=4417, 762.68942pt x 665.84758pt>
+File: Chapter5/Charts/ScatterDiagrams.pdf Graphic file (type pdf)
+
+<use Chapter5/Charts/ScatterDiagrams.pdf>
+Package pdftex.def Info: Chapter5/Charts/ScatterDiagrams.pdf used on input line
+ 294.
+(pdftex.def)             Requested size: 437.46112pt x 381.9145pt.
+ [123 <./Chapter5/Tables/StabilityCorrelations.pdf>] [124 <./Chapter5/Charts/St
+abilityDistribution.pdf>] [125 <./Chapter5/Figures/StabilityOutliers.pdf>] [126
+ <./Chapter5/Charts/ScatterDiagrams.pdf>]
+<Chapter5/Charts/AverageMetricStability.pdf, id=4516, 367.1316pt x 435.30629pt>
+File: Chapter5/Charts/AverageMetricStability.pdf Graphic file (type pdf)
+<use Chapter5/Charts/AverageMetricStability.pdf>
+Package pdftex.def Info: Chapter5/Charts/AverageMetricStability.pdf used on inp
+ut line 303.
+(pdftex.def)             Requested size: 437.46112pt x 518.6984pt.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 310.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.324  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf, id=4520, 455.30101pt x 
+193.4427pt>
+File: Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf Graphic file (type 
+pdf)
+ <use Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf>
+Package pdftex.def Info: Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf 
+used on input line 325.
+(pdftex.def)             Requested size: 437.46112pt x 185.86816pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 323--328
+ [][] 
+ []
+
+[127] [128 <./Chapter5/Charts/AverageMetricStability.pdf>]
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 332.
+
+[129 <./Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.347  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf, id=4560, 455
+.30101pt x 156.585pt>
+File: Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf Graphic 
+file (type pdf)
+
+<use Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf>
+Package pdftex.def Info: Chapter5/Tables/RandomInterceptsLinearRegressionSingle
+Factor.pdf used on input line 348.
+(pdftex.def)             Requested size: 437.46112pt x 150.45367pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 346--351
+ [][] 
+ []
+
+[130 <./Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf>]
+<Chapter5/Figures/StabilityAnalysis.pdf, id=4579, 469.51411pt x 327.3831pt>
+File: Chapter5/Figures/StabilityAnalysis.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/StabilityAnalysis.pdf>
+Package pdftex.def Info: Chapter5/Figures/StabilityAnalysis.pdf used on input l
+ine 363.
+(pdftex.def)             Requested size: 437.46112pt x 305.03761pt.
+
+<Chapter5/Charts/InterprojectSignificance.pdf, id=4581, 458.19182pt x 204.765pt
+>
+File: Chapter5/Charts/InterprojectSignificance.pdf Graphic file (type pdf)
+ <use Chapter5/Charts/InterprojectSignificance.pdf>
+Package pdftex.def Info: Chapter5/Charts/InterprojectSignificance.pdf used on i
+nput line 373.
+(pdftex.def)             Requested size: 437.46112pt x 195.50046pt.
+ [131] [132 <./Chapter5/Figures/StabilityAnalysis.pdf>]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.382 ... for alternative hypothesis H1,2.1 that ’
+                                                  less stable development te...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.382 ...ity, lower cohesion and lower modularity’
+                                                  .
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.391  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf, id=4633, 455.3
+0101pt x 202.1151pt>
+File: Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf Graphic fi
+le (type pdf)
+
+<use Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf>
+Package pdftex.def Info: Chapter5/Tables/BasicLinearRegressionInterprojectStabi
+lity.pdf used on input line 392.
+(pdftex.def)             Requested size: 437.46112pt x 194.20097pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 390--395
+ [][] 
+ []
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.401  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf, id=4634, 469
+.51411pt x 150.8034pt>
+File: Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf Graphic 
+file (type pdf)
+
+<use Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf>
+Package pdftex.def Info: Chapter5/Tables/RandomInterceptsLinearRegressionInterp
+roject.pdf used on input line 402.
+(pdftex.def)             Requested size: 437.46112pt x 140.51033pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 400--405
+ [][] 
+ []
+
+[133 <./Chapter5/Charts/InterprojectSignificance.pdf>] [134 <./Chapter5/Tables/
+BasicLinearRegressionInterprojectStability.pdf> <./Chapter5/Tables/RandomInterc
+eptsLinearRegressionInterproject.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter5/Tables/RandomInterceptsLinearRegressi
+onInterproject.pdf): PDF inclusion: multiple pdfs with page group included in a
+ single page
+>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.415  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter5/Tables/TeamStabilityPCA.pdf, id=4684, 492.3996pt x 76.84709pt>
+File: Chapter5/Tables/TeamStabilityPCA.pdf Graphic file (type pdf)
+
+<use Chapter5/Tables/TeamStabilityPCA.pdf>
+Package pdftex.def Info: Chapter5/Tables/TeamStabilityPCA.pdf used on input lin
+e 416.
+(pdftex.def)             Requested size: 437.46112pt x 68.27525pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 414--419
+[][] 
+ []
+
+<Chapter5/Charts/TeamStabilityScatter.pdf, id=4685, 466.6233pt x 213.4374pt>
+File: Chapter5/Charts/TeamStabilityScatter.pdf Graphic file (type pdf)
+
+<use Chapter5/Charts/TeamStabilityScatter.pdf>
+Package pdftex.def Info: Chapter5/Charts/TeamStabilityScatter.pdf used on input
+ line 423.
+(pdftex.def)             Requested size: 437.46112pt x 200.11008pt.
+ [135 <./Chapter5/Tables/TeamStabilityPCA.pdf> <./Chapter5/Charts/TeamStability
+Scatter.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter5/Charts/TeamStabilityScatter.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+>]
+
+! Package inputenc Error: Unicode char íoP (U+CC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.430 ... the basis of a company called Montepío P
+                                                  lus which operates as an o...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+<Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf, id=4710, 469.514
+11pt x 398.4486pt>
+File: Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf Graphic file
+ (type pdf)
+
+<use Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf>
+Package pdftex.def Info: Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalys
+is.pdf used on input line 436.
+(pdftex.def)             Requested size: 437.46112pt x 371.25253pt.
+
+<Chapter5/Charts/TeamStabilityResultsCompare.pdf, id=4711, 466.6233pt x 227.650
+5pt>
+File: Chapter5/Charts/TeamStabilityResultsCompare.pdf Graphic file (type pdf)
+ <use Chapter5/Charts/TeamStabilityResultsCompare.pdf>
+Package pdftex.def Info: Chapter5/Charts/TeamStabilityResultsCompare.pdf used o
+n input line 443.
+(pdftex.def)             Requested size: 437.46112pt x 213.4357pt.
+ [136] [137 <./Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf>]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.453 ... project, the regression line will have ’
+                                                  further to travel’ along t...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.453 ...ession line will have ’further to travel’
+                                                   along the x-axis in order...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.459  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/RandomInterceptsSelectedProjects.pdf, id=4738, 455.30101pt x 1
+47.9126pt>
+File: Chapter5/Tables/RandomInterceptsSelectedProjects.pdf Graphic file (type p
+df)
+ <use Chapter5/Tables/RandomInterceptsSelectedProjects.pdf>
+Package pdftex.def Info: Chapter5/Tables/RandomInterceptsSelectedProjects.pdf u
+sed on input line 460.
+(pdftex.def)             Requested size: 437.46112pt x 142.12086pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 458--463
+ [][] 
+ []
+
+<Chapter5/Figures/StabilityExample.pdf, id=4739, 529.25732pt x 739.80388pt>
+File: Chapter5/Figures/StabilityExample.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/StabilityExample.pdf>
+Package pdftex.def Info: Chapter5/Figures/StabilityExample.pdf used on input li
+ne 469.
+(pdftex.def)             Requested size: 437.46112pt x 611.48587pt.
+
+
+LaTeX Warning: Float too large for page by 16.70073pt on input line 472.
+
+[138 <./Chapter5/Charts/TeamStabilityResultsCompare.pdf>] [139 <./Chapter5/Tabl
+es/RandomInterceptsSelectedProjects.pdf>] [140 <./Chapter5/Figures/StabilityExa
+mple.pdf>]
+<Chapter5/Figures/ResultOverview.pdf, id=4817, 580.56903pt x 256.07669pt>
+File: Chapter5/Figures/ResultOverview.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/ResultOverview.pdf>
+Package pdftex.def Info: Chapter5/Figures/ResultOverview.pdf used on input line
+ 481.
+(pdftex.def)             Requested size: 437.46112pt x 192.95575pt.
+) [141 <./Chapter5/Figures/ResultOverview.pdf>]
+\openout2 = `Chapter6/chapter6.aux'.
+
+ (Chapter6/chapter6.tex [142
+
+
+
+]
+Chapter 6.
+[143]
+<Chapter6/Figures/ChapterOverview.pdf, id=4873, 939.02821pt x 483.72722pt>
+File: Chapter6/Figures/ChapterOverview.pdf Graphic file (type pdf)
+
+<use Chapter6/Figures/ChapterOverview.pdf>
+Package pdftex.def Info: Chapter6/Figures/ChapterOverview.pdf used on input lin
+e 12.
+(pdftex.def)             Requested size: 568.70079pt x 292.96217pt.
+ [144
+
+ <./Chapter6/Figures/ChapterOverview.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter6/Tables/ObjectiveOutcome.pdf, id=4917, 483.72722pt x 483.72722pt>
+File: Chapter6/Tables/ObjectiveOutcome.pdf Graphic file (type pdf)
+
+<use Chapter6/Tables/ObjectiveOutcome.pdf>
+Package pdftex.def Info: Chapter6/Tables/ObjectiveOutcome.pdf used on input lin
+e 28.
+(pdftex.def)             Requested size: 483.72603pt x 483.72603pt.
+
+Overfull \hbox (61.26491pt too wide) in paragraph at lines 26--31
+[][] 
+ []
+
+[145
+
+] [146 <./Chapter6/Tables/ObjectiveOutcome.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter6/Tables/HypothesisResult.pdf, id=4952, 483.72722pt x 142.3719pt>
+File: Chapter6/Tables/HypothesisResult.pdf Graphic file (type pdf)
+
+<use Chapter6/Tables/HypothesisResult.pdf>
+Package pdftex.def Info: Chapter6/Tables/HypothesisResult.pdf used on input lin
+e 43.
+(pdftex.def)             Requested size: 483.72603pt x 142.37154pt.
+
+Overfull \hbox (61.26491pt too wide) in paragraph at lines 41--46
+[][] 
+ []
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter6/Tables/QuestionAnswer.pdf, id=4954, 483.72722pt x 145.2627pt>
+File: Chapter6/Tables/QuestionAnswer.pdf Graphic file (type pdf)
+
+<use Chapter6/Tables/QuestionAnswer.pdf>
+Package pdftex.def Info: Chapter6/Tables/QuestionAnswer.pdf used on input line 
+54.
+(pdftex.def)             Requested size: 483.72603pt x 145.26233pt.
+
+Overfull \hbox (61.26491pt too wide) in paragraph at lines 52--57
+[][] 
+ []
+
+[147 <./Chapter6/Tables/HypothesisResult.pdf> <./Chapter6/Tables/QuestionAnswer
+.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter6/Tables/QuestionAnswer.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+>] [148] [149] [150] [151] [152]
+<Chapter6/Figures/ContrastingSystems.pdf, id=5039, 532.14807pt x 426.8748pt>
+File: Chapter6/Figures/ContrastingSystems.pdf Graphic file (type pdf)
+
+<use Chapter6/Figures/ContrastingSystems.pdf>
+Package pdftex.def Info: Chapter6/Figures/ContrastingSystems.pdf used on input 
+line 121.
+(pdftex.def)             Requested size: 437.46112pt x 350.93195pt.
+ [153] [154 <./Chapter6/Figures/ContrastingSystems.pdf>] [155] [156]
+<Chapter6/Figures/ForkingUML.pdf, id=5086, 939.02821pt x 626.0991pt>
+File: Chapter6/Figures/ForkingUML.pdf Graphic file (type pdf)
+
+<use Chapter6/Figures/ForkingUML.pdf>
+Package pdftex.def Info: Chapter6/Figures/ForkingUML.pdf used on input line 154
+.
+(pdftex.def)             Requested size: 393.71233pt x 262.5108pt.
+
+<Chapter6/Figures/ForkedNetworkGraph.pdf, id=5087, 483.72722pt x 321.6015pt>
+File: Chapter6/Figures/ForkedNetworkGraph.pdf Graphic file (type pdf)
+
+<use Chapter6/Figures/ForkedNetworkGraph.pdf>
+Package pdftex.def Info: Chapter6/Figures/ForkedNetworkGraph.pdf used on input 
+line 161.
+(pdftex.def)             Requested size: 349.97023pt x 232.67665pt.
+ [157] [158 <./Chapter6/Figures/ForkingUML.pdf> <./Chapter6/Figures/ForkedNetwo
+rkGraph.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter6/Figures/ForkedNetworkGraph.pdf): PDF 
+inclusion: multiple pdfs with page group included in a single page
+>] [159] <Chapter6/Figures/BigData.pdf, id=5160, 455.30101pt x 412.6617pt>
+File: Chapter6/Figures/BigData.pdf Graphic file (type pdf)
+
+<use Chapter6/Figures/BigData.pdf>
+Package pdftex.def Info: Chapter6/Figures/BigData.pdf used on input line 181.
+(pdftex.def)             Requested size: 455.2999pt x 412.66068pt.
+
+Overfull \hbox (17.83878pt too wide) in paragraph at lines 181--182
+ [][] 
+ []
+
+) [160] [161 <./Chapter6/Figures/BigData.pdf>] (thesis.bbl [162
+
+
+] [163] [164]
+[165]
+Underfull \hbox (badness 10000) in paragraph at lines 321--326
+[]\T1/ptm/m/n/12 (+20) Erickson, C. (2012).  \T1/ptm/m/it/12 (+20) Small Teams 
+Are Dra-mat-i-cally More Ef-fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--326
+\T1/ptm/m/it/12 (+20) cient than Large Teams\T1/ptm/m/n/12 (+20) .  [][]$https 
+: / / spin . atomicobject . com / 2012 / 01 / 11 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 321--326
+\T1/ptm/m/n/12 (+20) small-[]teams-[]are-[]dramatically-[]more-[]ecient-[]than
+-[]large-[]teams/$[][] ac-cessed 2017-03-
+ []
+
+[166]
+! Misplaced alignment tab character &.
+l.400 ...ternational Journal of Computer Science &
+                                                   Engineering
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[167] [168]
+
+! Package inputenc Error: Unicode char ï¿½ (U+FFFD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.590 \newblock Whatï¿½
+                       s up with software metrics? a preliminary mapping study.
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[169] [170]
+Underfull \hbox (badness 5091) in paragraph at lines 749--755
+[]\T1/ptm/m/n/12 (+20) Miller, J. (2006).  \T1/ptm/m/it/12 (+20) Want pro-duc-t
+iv-ity? Try some team con-ti-nu-ity (and a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 749--755
+\T1/ptm/m/it/12 (+20) side of em-pow-er-ment too)\T1/ptm/m/n/12 (+20) .  [][]$h
+ttp : / / codebetter . com / jeremymiller / 2006 / 05 / 06 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 749--755
+\T1/ptm/m/n/12 (+20) want-[]productivity-[]try-[]some-[]team-[]continuity-[]and
+-[]a-[]side-[]of-[]empowerment-[]too/$[][] ac-
+ []
+
+[171] [172] [173] [174]
+
+! Package inputenc Error: Unicode char ï¿½ (U+FFFD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1103   productivityï¿½
+                        state-of-the-art and industrial experiences.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[175]) [176] (thesis.ind)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 68.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 68.
+ (thesis.aux (Dedication/dedication.aux)
+(Declaration/declaration.aux) (Acknowledgement/acknowledgement.aux)
+(Abstract/abstract.aux) (Chapter1/chapter1.aux) (Chapter2/chapter2.aux)
+(Chapter3/chapter3.aux) (Chapter4/chapter4.aux) (Chapter5/chapter5.aux)
+(Chapter6/chapter6.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 68.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 68.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 8FFB8A6F9209E1CD6376C235A78CC686;19830.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 27540 strings out of 493333
+ 496694 string characters out of 3139194
+ 540248 words of memory out of 3000000
+ 29666 multiletter control sequences out of 15000+200000
+ 62263 words of font info for 246 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,12n,92p,10385b,1266s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/u
+syr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (198 pages, 14678603 bytes).
+PDF statistics:
+ 5465 PDF objects out of 6186 (max. 8388607)
+ 606 named destinations out of 1000 (max. 500000)
+ 32064 words of extra memory for PDF output out of 35830 (max. 10000000)
+
