@@ -176,10 +176,17 @@ When conducting analysis - and in particular network analysis - it is necessary 
 
 For example, to establish which committers have common project engagements, it is necessary to traverse the data set and categorise project engagements by committer. To calculate the stability of a team within a project, a traversal of the data for that project is required to determine the overlapping committer engagement periods. For this reason, it is efficient to load entire commit data into an in-memory data structure within the Java Virtual Machine running the team size and stability analysis to facilitate rapid access and flexible indexing. In practice this is implemented using HashMaps keyed by author and project as appropriate for the requisite type of analysis. 
 
-\item \textbf{7. Team Size Analysis:} This is the subject of chapter 4 so will not be discussed at length here. However, as a brief overview it is worth mentioning that this is a Java component, connecting into the database and, at the heart of this analysis is joining structural metrics with commit level information in order to categorise and bucket metrics in a way that enables statistical comparisons between differing team sizes.
+\item \textbf{7. Team Size Analysis:} This is the subject of chapter 4 so will not be discussed at length here. However, as a brief overview it is worth mentioning that this is a Java component, connecting into the database and, at the heart of this analysis is joining structural metrics with commit level information in order to categorise and bucket metrics in a way that enables statistical comparisons between differing team sizes. Figure ~\ref{fig:Analysis} illustrates the approach to data analysis across both team size and stability.
 
 \item \textbf{8. Team Stability Analysis:} Similarly, this analysis is the subject of chapter 5 but suffice to say that the design is similar to the previous component with a focus on reading commit data and its associated meta-data to calculate team stability measures. This then drives the categorisation and statistical comparison of structural metrics in order to ascertain the impact of stability on metric values.
 \end{itemize}
+
+ \begin{figure}[htbp!] 
+ \centering    
+ \includegraphics[width=1.0\textwidth]{Analysis.pdf}
+ \caption[A summary of the data analysis approach.]{A summary of the common approach to data analysis across both team size and stability.}
+ \label{fig:Analysis}
+ \end{figure}
 
 \subsection{Validating the Toolchain}
 One challenge involved in developing a bespoke toolchain was the requisite effort to ensure its validity. Whenever writing code, typically good engineering practices such as ensuring adequate unit test coverage should be a given. The approach taken to development of components for this research was no different. This gives confidence that individual elements in the toolchain have been correctly implemented. 
