@@ -916,8 +916,6 @@ wish to left align your text}
 \centering
 }
 
-
-
 % ******************************* Declaration **********************************
 % The declaration environment puts a large, bold, centered
 % "Declaration" label at the top of the page.
@@ -944,6 +942,17 @@ wish to left align your text}
 \cleardoublepage
 \setsinglecolumn
 \chapter*{\centering \Large Acknowledgements}
+\thispagestyle{empty}
+}
+
+% ****************************** Publications ********************************
+% The publications environment puts a large, bold, centered
+% "Publications" label at the top of the page.
+
+\newenvironment{publications}{
+\cleardoublepage
+\setsinglecolumn
+\chapter*{\centering \Large Publications}
 \thispagestyle{empty}
 }
 
