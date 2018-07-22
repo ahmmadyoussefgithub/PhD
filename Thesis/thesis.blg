@@ -1,0 +1,89 @@
+This is BibTeX, Version 0.99dThe top-level auxiliary file: thesis.aux
+The style file: apalike.bst
+A level-1 auxiliary file: Dedication/dedication.aux
+A level-1 auxiliary file: Declaration/declaration.aux
+A level-1 auxiliary file: Acknowledgement/acknowledgement.aux
+A level-1 auxiliary file: Abstract/abstract.aux
+A level-1 auxiliary file: Publications/publications.aux
+A level-1 auxiliary file: Chapter1/chapter1.aux
+A level-1 auxiliary file: Chapter2/chapter2.aux
+A level-1 auxiliary file: Chapter3/chapter3.aux
+A level-1 auxiliary file: Chapter4/chapter4.aux
+A level-1 auxiliary file: Chapter5/chapter5.aux
+A level-1 auxiliary file: Chapter6/chapter6.aux
+Database file #1: References/references.bib
+Warning--I'm ignoring mcconnell2017less's extra "year" field
+--line 232 of file References/references.bib
+Warning--I'm ignoring rhodecode's extra "year" field
+--line 240 of file References/references.bib
+Warning--I'm ignoring erickson2012are's extra "year" field
+--line 248 of file References/references.bib
+Warning--I'm ignoring meccia2015critical's extra "year" field
+--line 256 of file References/references.bib
+Warning--I'm ignoring miller2006critical's extra "year" field
+--line 264 of file References/references.bib
+Warning--I'm ignoring macheronne2013critical's extra "year" field
+--line 272 of file References/references.bib
+I was expecting a `,' or a `}'---line 277 of file References/references.bib
+ :   journal={URL: https://www. ibm. com/developerworks/rational/library/dec04/bessin}
+ :                                                                                    ",
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring plowman2015seven's extra "year" field
+--line 420 of file References/references.bib
+Warning--I'm ignoring linders2011establishing's extra "year" field
+--line 540 of file References/references.bib
+Warning--I'm ignoring grady2011what's extra "year" field
+--line 1220 of file References/references.bib
+Warning--I'm ignoring tiobe2017's extra "year" field
+--line 1226 of file References/references.bib
+Warning--I'm ignoring redmonk2011's extra "year" field
+--line 1235 of file References/references.bib
+Warning--I'm ignoring msdn2015code's extra "year" field
+--line 1307 of file References/references.bib
+Repeated entry---line 1387 of file References/references.bib
+ : @article{subramanyam2003empirical
+ :                                  ,
+I'm skipping whatever remains of this entry
+Warning--I'm ignoring shankland2006google's extra "year" field
+--line 1488 of file References/references.bib
+Warning--I'm ignoring dibona2006bidding's extra "year" field
+--line 1497 of file References/references.bib
+Repeated entry---line 1603 of file References/references.bib
+ : @inproceedings{nyman2011fork
+ :                             ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1621 of file References/references.bib
+ : @inproceedings{ray2012repertoire
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1639 of file References/references.bib
+ : @inproceedings{howison2006social
+ :                                 ,
+I'm skipping whatever remains of this entry
+Repeated entry---line 1780 of file References/references.bib
+ : @inproceedings{lee2010instant
+ :                              ,
+I'm skipping whatever remains of this entry
+Warning--empty journal in ampatzoglou2018framework
+Warning--there's a number but no volume in behrens1983measuring
+Warning--can't use both volume and number fields in bevan2005facilitating
+Warning--empty journal in blackburn2006brooks
+Warning--empty journal in boehm1978characteristics
+Warning--empty journal in english2009exploring
+Warning--can't use both volume and number fields in german2005framework
+Warning--empty title in license2007version
+Warning--empty journal in humphrey2005big
+Warning--empty author in ISO15504
+Warning--empty author in ISO9126
+Warning--can't use both volume and number fields in livshits2005dynamine
+Warning--there's a number but no volume in mccabe1976complexity
+Warning--empty journal in pirzadeh2010human
+Warning--empty booktitle in robles2004remote
+Warning--empty journal in rosenberg1998applying
+Warning--can't use both volume and number fields in saberwal2013empirical
+Warning--empty journal in sauer2003state
+Warning--empty booktitle in sec2013
+Warning--can't use both volume and number fields in sullivan2001structure
+Warning--empty journal in tukey1977exploratory
+Warning--empty journal in xu2008empirical
+(There were 6 error messages)
