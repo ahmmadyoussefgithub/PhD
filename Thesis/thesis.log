@@ -1585,7 +1585,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 \PHD@crest=\box54
 \PHD@collegecrest=\box55
 
-<Figs/CollegeShields/Brunel.jpg, id=407, 213.04594pt x 301.125pt>
+<Figs/CollegeShields/Brunel.jpg, id=411, 213.04594pt x 301.125pt>
 File: Figs/CollegeShields/Brunel.jpg Graphic file (type jpg)
 
 <use Figs/CollegeShields/Brunel.jpg>
@@ -1682,12 +1682,7 @@ or \DeclareInputMath before using this key.
 \tf@lof=\write7
 \openout7 = `thesis.lof'.
 
- [20] (thesis.lot
-
-Package natbib Warning: Citation `grady2011what' on page xxi undefined on input
- line 12.
-
-[21
+ [20] (thesis.lot [21
 
 ] [22])
 \tf@lot=\write8
@@ -1700,184 +1695,10 @@ Package natbib Warning: Citation `grady2011what' on page xxi undefined on input
 
  (Chapter1/chapter1.tex
 Chapter 1.
-
-Package natbib Warning: Citation `nasir2011critical' on page 1 undefined on inp
-ut line 8.
-
-
-Package natbib Warning: Citation `chow2008survey' on page 1 undefined on input 
-line 8.
-
-
-Package natbib Warning: Citation `rainer2002key' on page 1 undefined on input l
-ine 8.
-
-
-Package natbib Warning: Citation `lewis2016software' on page 1 undefined on inp
-ut line 8.
-
-
-Package natbib Warning: Citation `scheer2000enterprise' on page 1 undefined on 
-input line 8.
-
-
-Package natbib Warning: Citation `krishnan1998role' on page 1 undefined on inpu
-t line 8.
-
-
-Package natbib Warning: Citation `kuhrmann2015software' on page 1 undefined on 
-input line 10.
-
-
-Package natbib Warning: Citation `paulk1993capability' on page 1 undefined on i
-nput line 10.
-
-
-Package natbib Warning: Citation `ISO15504' on page 1 undefined on input line 1
-0.
-
-
-Package natbib Warning: Citation `harter2012does' on page 1 undefined on input 
-line 10.
-
-
-Package natbib Warning: Citation `abrahamsson2013measuring' on page 1 undefined
- on input line 10.
-
-
-Package natbib Warning: Citation `sulayman2012software' on page 1 undefined on 
-input line 10.
-
-
-Package natbib Warning: Citation `balla2001quality' on page 1 undefined on inpu
-t line 10.
-
-
-Package natbib Warning: Citation `sharp2003evaluating' on page 1 undefined on i
-nput line 10.
-
-
-Package natbib Warning: Citation `baker2006real' on page 1 undefined on input l
-ine 10.
-
-
-Package natbib Warning: Citation `gangwar2014web' on page 1 undefined on input 
-line 10.
-
-
-Package natbib Warning: Citation `mirheidari2012two' on page 1 undefined on inp
-ut line 10.
-
-
-Package natbib Warning: Citation `choukse2012developing' on page 1 undefined on
- input line 10.
-
-
-Package natbib Warning: Citation `portillo2012tools' on page 1 undefined on inp
-ut line 10.
-
-
-Package natbib Warning: Citation `von2012carrots' on page 1 undefined on input 
-line 10.
-
-
-Package natbib Warning: Citation `hoch2010most' on page 1 undefined on input li
-ne 10.
-
 [1
 
 
-]
-
-Package natbib Warning: Citation `trendowicz2009factors' on page 2 undefined on
- input line 12.
-
-
-Package natbib Warning: Citation `boehm1978characteristics' on page 2 undefined
- on input line 12.
-
-
-Package natbib Warning: Citation `pirzadeh2010human' on page 2 undefined on inp
-ut line 12.
-
-
-Package natbib Warning: Citation `nasir2011critical' on page 2 undefined on inp
-ut line 14.
-
-
-Package natbib Warning: Citation `schmidt2001identifying' on page 2 undefined o
-n input line 14.
-
-
-Package natbib Warning: Citation `kappelman2006early' on page 2 undefined on in
-put line 14.
-
-
-Package natbib Warning: Citation `humphrey2005big' on page 2 undefined on input
- line 14.
-
-
-Package natbib Warning: Citation `glass2006standish' on page 2 undefined on inp
-ut line 14.
-
-
-Package natbib Warning: Citation `sauer2003state' on page 2 undefined on input 
-line 14.
-
-
-Package natbib Warning: Citation `schweik2008brooks' on page 2 undefined on inp
-ut line 14.
-
-[2]
-
-Package natbib Warning: Citation `brooks1986mythical' on page 3 undefined on in
-put line 21.
-
-
-Package natbib Warning: Citation `schweik2008brooks' on page 3 undefined on inp
-ut line 21.
-
-
-Package natbib Warning: Citation `huckman2009team' on page 3 undefined on input
- line 23.
-
-
-Package natbib Warning: Citation `mcconnell2017less' on page 3 undefined on inp
-ut line 25.
-
-
-Package natbib Warning: Citation `macheronne2013critical' on page 3 undefined o
-n input line 25.
-
-
-Package natbib Warning: Citation `erickson2012are' on page 3 undefined on input
- line 25.
-
-
-Package natbib Warning: Citation `meccia2015critical' on page 3 undefined on in
-put line 25.
-
-
-Package natbib Warning: Citation `miller2006critical' on page 3 undefined on in
-put line 25.
-
-
-Package natbib Warning: Citation `plowman2015seven' on page 3 undefined on inpu
-t line 25.
-
-
-Package natbib Warning: Citation `sec2013' on page 3 undefined on input line 27
-.
-
-[3]
-
-Package natbib Warning: Citation `radatz1990ieee' on page 4 undefined on input 
-line 29.
-
-
-Package natbib Warning: Citation `ISO9126' on page 4 undefined on input line 29
-.
-
+] [2] [3]
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
@@ -1935,18 +1756,13 @@ You need to provide a definition with \DeclareInputText
 or \DeclareInputMath before using this key.
 
 [4]
-<Chapter1/Figures/PeopleInternalExternal.pdf, id=848, 682.95152pt x 167.9073pt>
+<Chapter1/Figures/PeopleInternalExternal.pdf, id=985, 682.95152pt x 167.9073pt>
 File: Chapter1/Figures/PeopleInternalExternal.pdf Graphic file (type pdf)
 <use Chapter1/Figures/PeopleInternalExternal.pdf>
 Package pdftex.def Info: Chapter1/Figures/PeopleInternalExternal.pdf used on in
 put line 42.
 (pdftex.def)             Requested size: 437.46112pt x 107.55252pt.
-
-
-Package natbib Warning: Citation `fenton2014software' on page 5 undefined on in
-put line 50.
-
-[5 <./Chapter1/Figures/PeopleInternalExternal.pdf>]
+ [5 <./Chapter1/Figures/PeopleInternalExternal.pdf>] [6]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -1959,7 +1775,7 @@ l.61  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter1/Tables/PriorArtSummary.pdf, id=881, 426.8748pt x 119.4864pt>
+<Chapter1/Tables/PriorArtSummary.pdf, id=1025, 426.8748pt x 119.4864pt>
 File: Chapter1/Tables/PriorArtSummary.pdf Graphic file (type pdf)
 
 <use Chapter1/Tables/PriorArtSummary.pdf>
@@ -1971,53 +1787,10 @@ Overfull \hbox (4.41263pt too wide) in paragraph at lines 60--65
 [][] 
  []
 
-[6]
 LaTeX Font Info:    Try loading font information for TS1+ptm on input line 70.
- ("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
+("C:\Program Files\MiKTeX 2.9\tex\latex\psnfss\ts1ptm.fd"
 File: ts1ptm.fd 2001/06/04 font definitions for TS1/ptm.
-)
-
-Package natbib Warning: Citation `brooks1986mythical' on page 7 undefined on in
-put line 73.
-
-
-Package natbib Warning: Citation `weyuker2008too' on page 7 undefined on input 
-line 73.
-
-
-Package natbib Warning: Citation `foucault2015usefulness' on page 7 undefined o
-n input line 73.
-
-
-Package natbib Warning: Citation `meneely2009secure' on page 7 undefined on inp
-ut line 73.
-
-
-Package natbib Warning: Citation `nagappan2008influence' on page 7 undefined on
- input line 73.
-
-
-Package natbib Warning: Citation `badri2011empirical' on page 7 undefined on in
-put line 74.
-
-
-Package natbib Warning: Citation `boehm1978characteristics' on page 7 undefined
- on input line 74.
-
-
-Package natbib Warning: Citation `elish2003investigation' on page 7 undefined o
-n input line 74.
-
-[7 <./Chapter1/Tables/PriorArtSummary.pdf>]
-
-Package natbib Warning: Citation `huckman2009team' on page 8 undefined on input
- line 79.
-
-
-Package natbib Warning: Citation `gardner2012dynamically' on page 8 undefined o
-n input line 79.
-
-[8] [9]
+) [7 <./Chapter1/Tables/PriorArtSummary.pdf>] [8] [9]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2030,7 +1803,7 @@ l.107  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter1/Tables/ResearchSummary.pdf, id=924, 426.8748pt x 446.8695pt>
+<Chapter1/Tables/ResearchSummary.pdf, id=1092, 426.8748pt x 446.8695pt>
 File: Chapter1/Tables/ResearchSummary.pdf Graphic file (type pdf)
 
 <use Chapter1/Tables/ResearchSummary.pdf>
@@ -2042,15 +1815,15 @@ Overfull \hbox (4.41263pt too wide) in paragraph at lines 106--111
 [][] 
  []
 
-[10] [11 <./Chapter1/Tables/ResearchSummary.pdf>] [12]
-<Chapter1/Figures/ThesisOverview.pdf, id=950, 1067.18695pt x 512.1534pt>
+[10] [11 <./Chapter1/Tables/ResearchSummary.pdf>] [12] [13]
+<Chapter1/Figures/ThesisOverview.pdf, id=1123, 1067.18695pt x 512.1534pt>
 File: Chapter1/Figures/ThesisOverview.pdf Graphic file (type pdf)
 
 <use Chapter1/Figures/ThesisOverview.pdf>
 Package pdftex.def Info: Chapter1/Figures/ThesisOverview.pdf used on input line
  132.
 (pdftex.def)             Requested size: 612.44289pt x 293.93106pt.
- [13
+ [14
 
  <./Chapter1/Figures/ThesisOverview.pdf>]
 Underfull \hbox (badness 10000) in paragraph at lines 138--151
@@ -2072,89 +1845,28 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--151
 
  []
 
-) [14
+) [15
 
 ]
 \openout2 = `Chapter2/chapter2.aux'.
 
- (Chapter2/chapter2.tex
+ (Chapter2/chapter2.tex [16
+
+
+
+]
 Chapter 2.
-<Chapter2/Figures/ChapterOverview.pdf, id=980, 691.38298pt x 432.41548pt>
+<Chapter2/Figures/ChapterOverview.pdf, id=1156, 691.38298pt x 432.41548pt>
 File: Chapter2/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter2/Figures/ChapterOverview.pdf>
 Package pdftex.def Info: Chapter2/Figures/ChapterOverview.pdf used on input lin
 e 15.
 (pdftex.def)             Requested size: 437.46112pt x 273.60426pt.
- [15
-
-
-
-]
+ [17]
 LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <14.4> not available
 (Font)              Font shape `T1/ptm/b/n' tried instead on input line 23.
-
-
-Package natbib Warning: Citation `brooks1986mythical' on page 16 undefined on i
-nput line 24.
-
-
-Package natbib Warning: Citation `hsia1999brooks' on page 16 undefined on input
- line 24.
-
-
-Package natbib Warning: Citation `rodger2011knowledge' on page 16 undefined on 
-input line 24.
-
-
-Package natbib Warning: Citation `lalsing2012people' on page 16 undefined on in
-put line 24.
-
-
-Package natbib Warning: Citation `mcleod2011factors' on page 16 undefined on in
-put line 24.
-
-
-Package natbib Warning: Citation `schweik2008brooks' on page 16 undefined on in
-put line 24.
-
-
-Package natbib Warning: Citation `rodriguez2012empirical' on page 16 undefined 
-on input line 24.
-
-[16 <./Chapter2/Figures/ChapterOverview.pdf>]
-
-Package natbib Warning: Citation `pendharkar2009relationship' on page 17 undefi
-ned on input line 26.
-
-
-Package natbib Warning: Citation `blackburn2006brooks' on page 17 undefined on 
-input line 26.
-
-
-Package natbib Warning: Citation `herivcko2008approach' on page 17 undefined on
- input line 26.
-
-
-Package natbib Warning: Citation `nagappan2008influence' on page 17 undefined o
-n input line 28.
-
-
-Package natbib Warning: Citation `caglayan2015merits' on page 17 undefined on i
-nput line 28.
-
-
-Package natbib Warning: Citation `mockus2010organizational' on page 17 undefine
-d on input line 28.
-
-
-Package natbib Warning: Citation `bird2011don' on page 17 undefined on input li
-ne 28.
-
-
-Package natbib Warning: Citation `bell2013limited' on page 17 undefined on inpu
-t line 28.
-
+ [18 <./Chapter2/Figures/ChapterOverview.pdf>]
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
@@ -2169,93 +1881,7 @@ l.28 ...y have a detrimental effect on the system’
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-
-Package natbib Warning: Citation `meneely2009secure' on page 17 undefined on in
-put line 28.
-
-[17]
-
-Package natbib Warning: Citation `huckman2013hidden' on page 18 undefined on in
-put line 31.
-
-
-Package natbib Warning: Citation `akgun2002antecedents' on page 18 undefined on
- input line 31.
-
-
-Package natbib Warning: Citation `yeh2005influences' on page 18 undefined on in
-put line 31.
-
-
-Package natbib Warning: Citation `carthey2001human' on page 18 undefined on inp
-ut line 31.
-
-
-Package natbib Warning: Citation `wiegmann2010improving' on page 18 undefined o
-n input line 31.
-
-
-Package natbib Warning: Citation `deemer2010scrum' on page 18 undefined on inpu
-t line 31.
-
-
-Package natbib Warning: Citation `tuckman1965developmental' on page 18 undefine
-d on input line 31.
-
-
-Package natbib Warning: Citation `linders2011establishing' on page 18 undefined
- on input line 31.
-
-
-Package natbib Warning: Citation `huckman2009team' on page 18 undefined on inpu
-t line 33.
-
-
-Package natbib Warning: Citation `gardner2012dynamically' on page 18 undefined 
-on input line 33.
-
-
-Package natbib Warning: Citation `mockus2010organizational' on page 18 undefine
-d on input line 33.
-
-[18]
-
-Package natbib Warning: Citation `akiyama1971example' on page 19 undefined on i
-nput line 39.
-
-
-Package natbib Warning: Citation `mccabe1976complexity' on page 19 undefined on
- input line 41.
-
-
-Package natbib Warning: Citation `halstead1977elements' on page 19 undefined on
- input line 41.
-
-
-Package natbib Warning: Citation `cote1988software' on page 19 undefined on inp
-ut line 43.
-
-
-Package natbib Warning: Citation `behrens1983measuring' on page 19 undefined on
- input line 43.
-
-
-Package natbib Warning: Citation `gaffney1981metrics' on page 19 undefined on i
-nput line 43.
-
-
-Package natbib Warning: Citation `boydston1984programming' on page 19 undefined
- on input line 43.
-
-
-Package natbib Warning: Citation `prather1984axiomatic' on page 19 undefined on
- input line 43.
-
-[19]
-
-Package natbib Warning: Citation `chidamber1994metrics' on page 20 undefined on
- input line 45.
-
+[19] [20] [21]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2268,7 +1894,7 @@ l.50  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter2/Tables/CKMetricSuite.pdf, id=1070, 426.8748pt x 312.92911pt>
+<Chapter2/Tables/CKMetricSuite.pdf, id=1341, 426.8748pt x 312.92911pt>
 File: Chapter2/Tables/CKMetricSuite.pdf Graphic file (type pdf)
 
 <use Chapter2/Tables/CKMetricSuite.pdf>
@@ -2281,15 +1907,6 @@ Overfull \hbox (4.41263pt too wide) in paragraph at lines 49--54
  []
 
 
-Package natbib Warning: Citation `rosenberg1998applying' on page 20 undefined o
-n input line 57.
-
-
-Package natbib Warning: Citation `rosenberg1998applying' on page 20 undefined o
-n input line 57.
-
-[20 <./Chapter2/Tables/CKMetricSuite.pdf>]
-
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
 See the array package documentation for explanation.
@@ -2301,7 +1918,7 @@ l.62  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter2/Tables/Rosenberg.pdf, id=1093, 426.8748pt x 147.9126pt>
+<Chapter2/Tables/Rosenberg.pdf, id=1347, 426.8748pt x 147.9126pt>
 File: Chapter2/Tables/Rosenberg.pdf Graphic file (type pdf)
 
 <use Chapter2/Tables/Rosenberg.pdf>
@@ -2312,55 +1929,12 @@ Overfull \hbox (4.41263pt too wide) in paragraph at lines 61--66
 [][] 
  []
 
-
-Package natbib Warning: Citation `shatnawi2010quantitative' on page 21 undefine
-d on input line 69.
+[22] [23 <./Chapter2/Tables/CKMetricSuite.pdf> <./Chapter2/Tables/Rosenberg.pdf
 
 
-Package natbib Warning: Citation `oliveira2015validating' on page 21 undefined 
-on input line 69.
-
-
-Package natbib Warning: Citation `chidamber1998managerial' on page 21 undefined
- on input line 71.
-
-[21 <./Chapter2/Tables/Rosenberg.pdf>]
-
-Package natbib Warning: Citation `basili1996validation' on page 22 undefined on
- input line 73.
-
-
-Package natbib Warning: Citation `subramanyam2003empirical' on page 22 undefine
-d on input line 75.
-
-
-Package natbib Warning: Citation `subramanyam2003empirical' on page 22 undefine
-d on input line 75.
-
-
-Package natbib Warning: Citation `el2001prediction' on page 22 undefined on inp
-ut line 75.
-
-
-Package natbib Warning: Citation `tang1999empirical' on page 22 undefined on in
-put line 75.
-
-
-Package natbib Warning: Citation `xu2008empirical' on page 22 undefined on inpu
-t line 75.
-
-
-Package natbib Warning: Citation `malhotra2012fault' on page 22 undefined on in
-put line 75.
-
-
-Package natbib Warning: Citation `el1999validation' on page 22 undefined on inp
-ut line 75.
-
-
-Package natbib Warning: Citation `cartwright2000empirical' on page 22 undefined
- on input line 75.
-
+pdfTeX warning: pdflatex (file ./Chapter2/Tables/Rosenberg.pdf): PDF inclusion:
+ multiple pdfs with page group included in a single page
+>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2373,7 +1947,7 @@ l.80  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter2/Tables/FaultModels.pdf, id=1115, 455.30101pt x 463.7325pt>
+<Chapter2/Tables/FaultModels.pdf, id=1421, 455.30101pt x 463.7325pt>
 File: Chapter2/Tables/FaultModels.pdf Graphic file (type pdf)
 
 <use Chapter2/Tables/FaultModels.pdf>
@@ -2385,48 +1959,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 79--84
 [][] 
  []
 
-
-Package natbib Warning: Citation `saberwal2013empirical' on page 22 undefined o
-n input line 86.
-
-
-Package natbib Warning: Citation `badri2011empirical' on page 22 undefined on i
-nput line 86.
-
-
-Package natbib Warning: Citation `herbold2011calculation' on page 22 undefined 
-on input line 89.
-
-[22] [23 <./Chapter2/Tables/FaultModels.pdf>]
-
-Package natbib Warning: Citation `correia2009survey' on page 24 undefined on in
-put line 91.
-
-
-Package natbib Warning: Citation `chong2015analyzing' on page 24 undefined on i
-nput line 91.
-
-
-Package natbib Warning: Citation `li1993object' on page 24 undefined on input l
-ine 91.
-
-
-Package natbib Warning: Citation `bruntink2006empirical' on page 24 undefined o
-n input line 96.
-
-
-Package natbib Warning: Citation `badri2011empirical' on page 24 undefined on i
-nput line 96.
-
-
-Package natbib Warning: Citation `harrison1998investigation' on page 24 undefin
-ed on input line 98.
-
-
-Package natbib Warning: Citation `boehm1978characteristics' on page 24 undefine
-d on input line 100.
-
-[24]
+[24] [25 <./Chapter2/Tables/FaultModels.pdf>] [26]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2440,7 +1973,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter2/Tables/BoehmUnderstandabilityModel.pdf, id=1137, 515.04419pt x 290.28
+<Chapter2/Tables/BoehmUnderstandabilityModel.pdf, id=1484, 515.04419pt x 290.28
 452pt>
 File: Chapter2/Tables/BoehmUnderstandabilityModel.pdf Graphic file (type pdf)
  <use Chapter2/Tables/BoehmUnderstandabilityModel.pdf>
@@ -2452,10 +1985,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 104--109
 [][] 
  []
 
-
-Package natbib Warning: Citation `elish2003investigation' on page 25 undefined 
-on input line 111.
-
+[27 <./Chapter2/Tables/BoehmUnderstandabilityModel.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2469,7 +1999,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter2/Tables/MaintainabilitySubatrributes.pdf, id=1140, 415.5525pt x 136.59
+<Chapter2/Tables/MaintainabilitySubatrributes.pdf, id=1504, 415.5525pt x 136.59
 03pt>
 File: Chapter2/Tables/MaintainabilitySubatrributes.pdf Graphic file (type pdf)
  <use Chapter2/Tables/MaintainabilitySubatrributes.pdf>
@@ -2490,7 +2020,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter2/Tables/MaintainabilityModels.pdf, id=1141, 475.29568pt x 492.3996pt>
+<Chapter2/Tables/MaintainabilityModels.pdf, id=1505, 475.29568pt x 492.3996pt>
 File: Chapter2/Tables/MaintainabilityModels.pdf Graphic file (type pdf)
 
 <use Chapter2/Tables/MaintainabilityModels.pdf>
@@ -2502,20 +2032,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 128--133
 [][] 
  []
 
-
-Package natbib Warning: Citation `kagdi2007survey' on page 25 undefined on inpu
-t line 136.
-
-[25 <./Chapter2/Tables/BoehmUnderstandabilityModel.pdf>]
-
-Package natbib Warning: Citation `german2004mining' on page 26 undefined on inp
-ut line 141.
-
-
-Package natbib Warning: Citation `german2005framework' on page 26 undefined on 
-input line 141.
-
-[26 <./Chapter2/Tables/MaintainabilitySubatrributes.pdf>] [27 <./Chapter2/Table
+[28 <./Chapter2/Tables/MaintainabilitySubatrributes.pdf>] [29 <./Chapter2/Table
 s/MaintainabilityModels.pdf>]
 
 ! LaTeX Error: There's no line here to end.
@@ -2530,26 +2047,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Package natbib Warning: Citation `german2004mining' on page 28 undefined on inp
-ut line 149.
-
-
-Package natbib Warning: Citation `bird2009promises' on page 28 undefined on inp
-ut line 149.
-
-
-Package natbib Warning: Citation `goeminne2013comparison' on page 28 undefined 
-on input line 151.
-
-
-Package natbib Warning: Citation `howison2004perils' on page 28 undefined on in
-put line 151.
-
-
-Package natbib Warning: Citation `kalliamvakou2014promises' on page 28 undefine
-d on input line 151.
-
+[30]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2563,137 +2061,28 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[28]
-
-Package natbib Warning: Citation `nyman2011fork' on page 29 undefined on input 
-line 158.
-
-
-Package natbib Warning: Citation `robles2006mining' on page 29 undefined on inp
-ut line 160.
-
-
-Package natbib Warning: Citation `ray2012repertoire' on page 29 undefined on in
-put line 162.
-
-
-Package natbib Warning: Citation `lozano2007evaluating' on page 29 undefined on
- input line 162.
-
-
-Package natbib Warning: Citation `lozano2008assessing' on page 29 undefined on 
-input line 162.
-
-
-Package natbib Warning: Citation `schwarz2012often' on page 29 undefined on inp
-ut line 162.
-
-
-Package natbib Warning: Citation `lee2010instant' on page 29 undefined on input
- line 162.
-
-[29]) [30]
+[31]) [32]
 \openout2 = `Chapter3/chapter3.aux'.
 
  (Chapter3/chapter3.tex
 Chapter 3.
-[31
+[33
 
 
 
 ]
-<Chapter3/Figures/ChapterOverview.pdf, id=1207, 682.95152pt x 463.85295pt>
+<Chapter3/Figures/ChapterOverview.pdf, id=1601, 682.95152pt x 463.85295pt>
 File: Chapter3/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/ChapterOverview.pdf>
 Package pdftex.def Info: Chapter3/Figures/ChapterOverview.pdf used on input lin
 e 14.
 (pdftex.def)             Requested size: 481.2099pt x 326.83235pt.
- [32
+ [34
 
- <./Chapter3/Figures/ChapterOverview.pdf>]
+ <./Chapter3/Figures/ChapterOverview.pdf>] [35
 
-Package natbib Warning: Citation `capra2008framework' on page 33 undefined on i
-nput line 22.
-
-
-Package natbib Warning: Citation `smith2001empirical' on page 33 undefined on i
-nput line 22.
-
-
-Package natbib Warning: Citation `nagappan2008influence' on page 33 undefined o
-n input line 22.
-
-
-Package natbib Warning: Citation `huckman2009team' on page 33 undefined on inpu
-t line 27.
-
-
-Package natbib Warning: Citation `hackman2002leading' on page 33 undefined on i
-nput line 27.
-
-
-Package natbib Warning: Citation `huckman2009team' on page 33 undefined on inpu
-t line 27.
-
-[33
-
-]
-
-Package natbib Warning: Citation `hassan2008road' on page 34 undefined on input
- line 31.
-
-
-Package natbib Warning: Citation `cvs' on page 34 undefined on input line 33.
-
-
-Package natbib Warning: Citation `git' on page 34 undefined on input line 33.
-
-
-Package natbib Warning: Citation `hassan2008road' on page 34 undefined on input
- line 35.
-
-
-Package natbib Warning: Citation `hemmati2013msr' on page 34 undefined on input
- line 35.
-
-
-Package natbib Warning: Citation `comino2005planning' on page 34 undefined on i
-nput line 38.
-
-
-Package natbib Warning: Citation `deshpande2008total' on page 34 undefined on i
-nput line 38.
-
-
-Package natbib Warning: Citation `license2007version' on page 34 undefined on i
-nput line 39.
-
-[34]
-
-Package natbib Warning: Citation `github' on page 35 undefined on input line 40
-.
-
-
-Package natbib Warning: Citation `googlecode' on page 35 undefined on input lin
-e 40.
-
-
-Package natbib Warning: Citation `howison2009flossmole' on page 35 undefined on
- input line 40.
-
-
-Package natbib Warning: Citation `grady2011what' on page 35 undefined on input 
-line 44.
-
-
-Package natbib Warning: Citation `grady2011what' on page 35 undefined on input 
-line 48.
-
-
-Package natbib Warning: Citation `grady2011what' on page 35 undefined on input 
-line 48.
-
+] [36]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2706,46 +2095,15 @@ l.50  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter3/Tables/LanguagePopularity.pdf, id=1280, 278.96222pt x 238.97281pt>
+<Chapter3/Tables/LanguagePopularity.pdf, id=1723, 278.96222pt x 238.97281pt>
 File: Chapter3/Tables/LanguagePopularity.pdf Graphic file (type pdf)
 
 <use Chapter3/Tables/LanguagePopularity.pdf>
 Package pdftex.def Info: Chapter3/Tables/LanguagePopularity.pdf used on input l
 ine 51.
 (pdftex.def)             Requested size: 278.96153pt x 238.97221pt.
-
-
-Package natbib Warning: Citation `tiobe2017' on page 35 undefined on input line
- 57.
-
-[35 <./Chapter3/Tables/LanguagePopularity.pdf>]
-
-Package natbib Warning: Citation `assembla' on page 36 undefined on input line 
-61.
-
-
-Package natbib Warning: Citation `gitlab' on page 36 undefined on input line 61
-.
-
-[36]
-
-Package natbib Warning: Citation `shankland2006google' on page 37 undefined on 
-input line 66.
-
-
-Package natbib Warning: Citation `dibona2006bidding' on page 37 undefined on in
-put line 66.
-
-
-Package natbib Warning: Citation `redmonk2011' on page 37 undefined on input li
-ne 66.
-
-
-Package natbib Warning: Citation `dabbish2012social' on page 37 undefined on in
-put line 66.
-
-
-<Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf, id=1298, 469.51411pt x 2
+ [37] [38 <./Chapter3/Tables/LanguagePopularity.pdf>]
+<Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf, id=1764, 469.51411pt x 2
 27.6505pt>
 File: Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf Graphic file (type p
 df)
@@ -2753,35 +2111,20 @@ df)
 Package pdftex.def Info: Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf u
 sed on input line 70.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [37 <./Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf>]
-<Chapter3/Charts/ProjectCreationHistogram.pdf, id=1318, 469.51411pt x 227.6505p
+ [39]
+<Chapter3/Charts/ProjectCreationHistogram.pdf, id=1775, 469.51411pt x 227.6505p
 t>
 File: Chapter3/Charts/ProjectCreationHistogram.pdf Graphic file (type pdf)
  <use Chapter3/Charts/ProjectCreationHistogram.pdf>
 Package pdftex.def Info: Chapter3/Charts/ProjectCreationHistogram.pdf used on i
 nput line 81.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [38 <./Chapter3/Charts/ProjectCreationHistogram.pdf>]
+ [40 <./Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf> <./Chapter3/Chart
+s/ProjectCreationHistogram.pdf
 
-Package natbib Warning: Citation `german2004mining' on page 39 undefined on inp
-ut line 102.
-
-
-Package natbib Warning: Citation `vcubranic2003hipikat' on page 39 undefined on
- input line 102.
-
-
-Package natbib Warning: Citation `livshits2005dynamine' on page 39 undefined on
- input line 102.
-
-
-Package natbib Warning: Citation `bevan2005facilitating' on page 39 undefined o
-n input line 102.
-
-
-Package natbib Warning: Citation `robles2004remote' on page 39 undefined on inp
-ut line 102.
-
+pdfTeX warning: pdflatex (file ./Chapter3/Charts/ProjectCreationHistogram.pdf):
+ PDF inclusion: multiple pdfs with page group included in a single page
+>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2794,7 +2137,7 @@ l.108  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter3/Tables/VCSMiningToolSummary.pdf, id=1334, 455.30101pt x 327.3831pt>
+<Chapter3/Tables/VCSMiningToolSummary.pdf, id=1812, 455.30101pt x 327.3831pt>
 File: Chapter3/Tables/VCSMiningToolSummary.pdf Graphic file (type pdf)
 
 <use Chapter3/Tables/VCSMiningToolSummary.pdf>
@@ -2806,35 +2149,15 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 107--112
  [][] 
  []
 
-[39] [40 <./Chapter3/Tables/VCSMiningToolSummary.pdf>]
-<Chapter3/Figures/Toolchain.pdf, id=1359, 739.92432pt x 540.70004pt>
+[41] [42 <./Chapter3/Tables/VCSMiningToolSummary.pdf>]
+<Chapter3/Figures/Toolchain.pdf, id=1842, 739.92432pt x 540.70004pt>
 File: Chapter3/Figures/Toolchain.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/Toolchain.pdf>
 Package pdftex.def Info: Chapter3/Figures/Toolchain.pdf used on input line 129.
 
 (pdftex.def)             Requested size: 437.46112pt x 319.67854pt.
- [41] [42 <./Chapter3/Figures/Toolchain.pdf>]
-
-Package natbib Warning: Citation `spinellis2005tool' on page 43 undefined on in
-put line 143.
-
-
-Package natbib Warning: Citation `scitools' on page 43 undefined on input line 
-143.
-
-
-Package natbib Warning: Citation `powersoftware' on page 43 undefined on input 
-line 143.
-
-
-Package natbib Warning: Citation `metricssourceforge' on page 43 undefined on i
-nput line 143.
-
-
-Package natbib Warning: Citation `ndepend' on page 43 undefined on input line 1
-43.
-
+ [43] [44 <./Chapter3/Figures/Toolchain.pdf>] [45]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2848,7 +2171,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter3/Tables/MetricMiningToolSummary.pdf, id=1409, 469.51411pt x 341.35529p
+<Chapter3/Tables/MetricMiningToolSummary.pdf, id=1912, 469.51411pt x 341.35529p
 t>
 File: Chapter3/Tables/MetricMiningToolSummary.pdf Graphic file (type pdf)
  <use Chapter3/Tables/MetricMiningToolSummary.pdf>
@@ -2872,7 +2195,7 @@ l.159  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter3/Tables/Understand.pdf, id=1410, 455.30101pt x 199.22429pt>
+<Chapter3/Tables/Understand.pdf, id=1913, 455.30101pt x 199.22429pt>
 File: Chapter3/Tables/Understand.pdf Graphic file (type pdf)
 
 <use Chapter3/Tables/Understand.pdf>
@@ -2884,174 +2207,24 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 158--163
  [][] 
  []
 
-[43] [44 <./Chapter3/Tables/MetricMiningToolSummary.pdf> <./Chapter3/Tables/Und
-erstand.pdf
-
-pdfTeX warning: pdflatex (file ./Chapter3/Tables/Understand.pdf): PDF inclusion
-: multiple pdfs with page group included in a single page
->] <Chapter3/Figures/Schema.pdf, id=1452, 625.97867pt x 469.51411pt>
+<Chapter3/Figures/Schema.pdf, id=1915, 625.97867pt x 469.51411pt>
 File: Chapter3/Figures/Schema.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/Schema.pdf>
 Package pdftex.def Info: Chapter3/Figures/Schema.pdf used on input line 169.
 (pdftex.def)             Requested size: 437.46112pt x 328.12033pt.
- [45 <./Chapter3/Figures/Schema.pdf>]
-<Chapter3/Figures/Analysis.pdf, id=1489, 739.80388pt x 520.8258pt>
+ [46 <./Chapter3/Tables/MetricMiningToolSummary.pdf>] [47 <./Chapter3/Tables/Un
+derstand.pdf> <./Chapter3/Figures/Schema.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter3/Figures/Schema.pdf): PDF inclusion: m
+ultiple pdfs with page group included in a single page
+>] <Chapter3/Figures/Analysis.pdf, id=1987, 739.80388pt x 520.8258pt>
 File: Chapter3/Figures/Analysis.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/Analysis.pdf>
 Package pdftex.def Info: Chapter3/Figures/Analysis.pdf used on input line 186.
 (pdftex.def)             Requested size: 437.46112pt x 307.97595pt.
- [46 <./Chapter3/Figures/Analysis.pdf>]
-[47]
-
-Package natbib Warning: Citation `coleman1994using' on page 48 undefined on inp
-ut line 207.
-
-
-Package natbib Warning: Citation `msdn2015code' on page 48 undefined on input l
-ine 207.
-
-
-Package natbib Warning: Citation `heitlager2007practical' on page 48 undefined 
-on input line 207.
-
-
-Package natbib Warning: Citation `akiyama1971example' on page 48 undefined on i
-nput line 211.
-
-
-Package natbib Warning: Citation `fenton2014software' on page 48 undefined on i
-nput line 211.
-
-[48]
-
-Package natbib Warning: Citation `ordonez2008state' on page 49 undefined on inp
-ut line 216.
-
-
-Package natbib Warning: Citation `parnas1972criteria' on page 49 undefined on i
-nput line 221.
-
-
-Package natbib Warning: Citation `pressman2005software' on page 49 undefined on
- input line 221.
-
-
-Package natbib Warning: Citation `chidamber1998managerial' on page 49 undefined
- on input line 221.
-
-
-Package natbib Warning: Citation `fenton2014software' on page 49 undefined on i
-nput line 223.
-
-
-Package natbib Warning: Citation `chidamber1998managerial' on page 49 undefined
- on input line 223.
-
-[49]
-
-Package natbib Warning: Citation `fenton2014software' on page 50 undefined on i
-nput line 225.
-
-
-Package natbib Warning: Citation `parnas1972criteria' on page 50 undefined on i
-nput line 227.
-
-
-Package natbib Warning: Citation `parnas1972criteria' on page 50 undefined on i
-nput line 227.
-
-
-Package natbib Warning: Citation `sullivan2001structure' on page 50 undefined o
-n input line 227.
-
-
-Package natbib Warning: Citation `mccabe1976complexity' on page 50 undefined on
- input line 231.
-
-
-Package natbib Warning: Citation `mccabe1989design' on page 50 undefined on inp
-ut line 231.
-
-
-Package natbib Warning: Citation `gomathi2013an' on page 50 undefined on input 
-line 231.
-
-
-Package natbib Warning: Citation `xenos2000object' on page 50 undefined on inpu
-t line 231.
-
-[50]
-
-Package natbib Warning: Citation `pressman2005software' on page 51 undefined on
- input line 234.
-
-
-Package natbib Warning: Citation `rosenberg1998applying' on page 51 undefined o
-n input line 236.
-
-
-Package natbib Warning: Citation `fenton2014software' on page 51 undefined on i
-nput line 236.
-
-
-Package natbib Warning: Citation `kitchenham2010s' on page 51 undefined on inpu
-t line 236.
-
-
-Package natbib Warning: Citation `rosenberg1998applying' on page 51 undefined o
-n input line 236.
-
-
-Package natbib Warning: Citation `el2001prediction' on page 51 undefined on inp
-ut line 236.
-
-
-Package natbib Warning: Citation `basili1984software' on page 51 undefined on i
-nput line 236.
-
-
-Package natbib Warning: Citation `subramanyam2003empirical' on page 51 undefine
-d on input line 236.
-
-
-Package natbib Warning: Citation `abreu1994object' on page 51 undefined on inpu
-t line 238.
-
-
-Package natbib Warning: Citation `harrison1998investigation' on page 51 undefin
-ed on input line 238.
-
-
-Package natbib Warning: Citation `abounader1997data' on page 51 undefined on in
-put line 238.
-
-
-Package natbib Warning: Citation `abounader1997data' on page 51 undefined on in
-put line 238.
-
-
-Package natbib Warning: Citation `harrison1998evaluation' on page 51 undefined 
-on input line 238.
-
-
-Package natbib Warning: Citation `lorenz1994object' on page 51 undefined on inp
-ut line 240.
-
-
-Package natbib Warning: Citation `nesi1998effort' on page 51 undefined on input
- line 240.
-
-
-Package natbib Warning: Citation `sharma2012metrics' on page 51 undefined on in
-put line 240.
-
-
-Package natbib Warning: Citation `harrison1998investigation' on page 51 undefin
-ed on input line 240.
-
-[51]
+ [48] [49 <./Chapter3/Figures/Analysis.pdf>] [50] [51] [52] [53] [54]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3064,7 +2237,7 @@ l.253  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter3/Tables/MetricSuites.pdf, id=1544, 455.30101pt x 341.35529pt>
+<Chapter3/Tables/MetricSuites.pdf, id=2138, 455.30101pt x 341.35529pt>
 File: Chapter3/Tables/MetricSuites.pdf Graphic file (type pdf)
 
 <use Chapter3/Tables/MetricSuites.pdf>
@@ -3076,60 +2249,37 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 252--257
  [][] 
  []
 
-) [52] [53 <./Chapter3/Tables/MetricSuites.pdf>]
+) [55] [56 <./Chapter3/Tables/MetricSuites.pdf>]
 \openout2 = `Chapter4/chapter4.aux'.
 
  (Chapter4/chapter4.tex
-[54
-
-
-
-]
 Chapter 4.
-[55] [56]
-<Chapter4/Figures/ChapterOverview.pdf, id=1592, 1124.03937pt x 515.04419pt>
+[57
+
+
+
+] [58]
+<Chapter4/Figures/ChapterOverview.pdf, id=2186, 1124.03937pt x 515.04419pt>
 File: Chapter4/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/ChapterOverview.pdf>
 Package pdftex.def Info: Chapter4/Figures/ChapterOverview.pdf used on input lin
 e 15.
 (pdftex.def)             Requested size: 612.44289pt x 280.63458pt.
- [57
+ [59
 
  <./Chapter4/Figures/ChapterOverview.pdf>]
-<Chapter4/Figures/MiningToolchain.pdf, id=1636, 586.23013pt x 284.62335pt>
+<Chapter4/Figures/MiningToolchain.pdf, id=2230, 586.23013pt x 284.62335pt>
 File: Chapter4/Figures/MiningToolchain.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/MiningToolchain.pdf>
 Package pdftex.def Info: Chapter4/Figures/MiningToolchain.pdf used on input lin
 e 23.
 (pdftex.def)             Requested size: 437.46112pt x 212.39426pt.
+ [60
 
-
-Package natbib Warning: Citation `basili1996validation' on page 58 undefined on
- input line 35.
-
-
-Package natbib Warning: Citation `subramanyam2003empirical' on page 58 undefine
-d on input line 35.
-
-
-Package natbib Warning: Citation `english2009exploring' on page 58 undefined on
- input line 35.
-
-[58
-
- <./Chapter4/Figures/MiningToolchain.pdf>]
-
-Package natbib Warning: Citation `rhodecode' on page 59 undefined on input line
- 41.
-
-
-Package natbib Warning: Citation `de2009software' on page 59 undefined on input
- line 41.
-
-[59]
-<Chapter4/Figures/ProjectCategorisation.pdf, id=1686, 469.51411pt x 227.6505pt>
+ <./Chapter4/Figures/MiningToolchain.pdf>] [61]
+<Chapter4/Figures/ProjectCategorisation.pdf, id=2292, 469.51411pt x 227.6505pt>
 File: Chapter4/Figures/ProjectCategorisation.pdf Graphic file (type pdf)
 <use Chapter4/Figures/ProjectCategorisation.pdf>
 Package pdftex.def Info: Chapter4/Figures/ProjectCategorisation.pdf used on inp
@@ -3148,14 +2298,14 @@ l.54  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/GoogleCodeLanguage.pdf, id=1687, 216.3282pt x 108.16411pt>
+<Chapter4/Tables/GoogleCodeLanguage.pdf, id=2293, 216.3282pt x 108.16411pt>
 File: Chapter4/Tables/GoogleCodeLanguage.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/GoogleCodeLanguage.pdf>
 Package pdftex.def Info: Chapter4/Tables/GoogleCodeLanguage.pdf used on input l
 ine 55.
 (pdftex.def)             Requested size: 216.32767pt x 108.16383pt.
- [60 <./Chapter4/Tables/GoogleCodeLanguage.pdf> <./Chapter4/Figures/ProjectCate
+ [62 <./Chapter4/Tables/GoogleCodeLanguage.pdf> <./Chapter4/Figures/ProjectCate
 gorisation.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Figures/ProjectCategorisation.pdf): P
@@ -3173,35 +2323,22 @@ l.68  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/GoogleCodeVCS.pdf, id=1712, 216.3282pt x 91.0602pt>
+<Chapter4/Tables/GoogleCodeVCS.pdf, id=2321, 216.3282pt x 91.0602pt>
 File: Chapter4/Tables/GoogleCodeVCS.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/GoogleCodeVCS.pdf>
 Package pdftex.def Info: Chapter4/Tables/GoogleCodeVCS.pdf used on input line 6
 9.
 (pdftex.def)             Requested size: 216.32767pt x 91.05997pt.
- [61 <./Chapter4/Tables/GoogleCodeVCS.pdf>]
-<Chapter4/Figures/AnalysisDataSets.pdf, id=1730, 711.37767pt x 256.07669pt>
+ [63 <./Chapter4/Tables/GoogleCodeVCS.pdf>]
+<Chapter4/Figures/AnalysisDataSets.pdf, id=2338, 711.37767pt x 256.07669pt>
 File: Chapter4/Figures/AnalysisDataSets.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/AnalysisDataSets.pdf>
 Package pdftex.def Info: Chapter4/Figures/AnalysisDataSets.pdf used on input li
 ne 80.
 (pdftex.def)             Requested size: 437.46112pt x 157.47255pt.
-
-
-Package natbib Warning: Citation `grechanik2010empirical' on page 62 undefined 
-on input line 86.
-
-
-Package natbib Warning: Citation `cartwright2000empirical' on page 62 undefined
- on input line 86.
-
-
-Package natbib Warning: Citation `tukey1977exploratory' on page 62 undefined on
- input line 86.
-
-[62 <./Chapter4/Figures/AnalysisDataSets.pdf>]
+ [64 <./Chapter4/Figures/AnalysisDataSets.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3214,7 +2351,7 @@ l.95  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/GoogleCodeExtensions.pdf, id=1776, 216.3282pt x 105.2733pt>
+<Chapter4/Tables/GoogleCodeExtensions.pdf, id=2392, 216.3282pt x 105.2733pt>
 File: Chapter4/Tables/GoogleCodeExtensions.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/GoogleCodeExtensions.pdf>
@@ -3222,7 +2359,7 @@ Package pdftex.def Info: Chapter4/Tables/GoogleCodeExtensions.pdf used on input
  line 96.
 (pdftex.def)             Requested size: 216.32767pt x 105.27304pt.
 
-<Chapter4/Charts/CumulativeCommitterCount.pdf, id=1779, 461.08258pt x 227.6505p
+<Chapter4/Charts/CumulativeCommitterCount.pdf, id=2395, 461.08258pt x 227.6505p
 t>
 File: Chapter4/Charts/CumulativeCommitterCount.pdf Graphic file (type pdf)
  <use Chapter4/Charts/CumulativeCommitterCount.pdf>
@@ -3242,20 +2379,20 @@ l.114  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/SampleTeamSizes.pdf, id=1780, 216.3282pt x 125.268pt>
+<Chapter4/Tables/SampleTeamSizes.pdf, id=2396, 216.3282pt x 125.268pt>
 File: Chapter4/Tables/SampleTeamSizes.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/SampleTeamSizes.pdf>
 Package pdftex.def Info: Chapter4/Tables/SampleTeamSizes.pdf used on input line
  115.
 (pdftex.def)             Requested size: 216.32767pt x 125.26768pt.
- [63 <./Chapter4/Tables/GoogleCodeExtensions.pdf> <./Chapter4/Tables/SampleTeam
+ [65 <./Chapter4/Tables/GoogleCodeExtensions.pdf> <./Chapter4/Tables/SampleTeam
 Sizes.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/SampleTeamSizes.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
 >]
-<Chapter4/Charts/CommitCountBarChart.pdf, id=1803, 469.51411pt x 227.6505pt>
+<Chapter4/Charts/CommitCountBarChart.pdf, id=2419, 469.51411pt x 227.6505pt>
 File: Chapter4/Charts/CommitCountBarChart.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/CommitCountBarChart.pdf>
@@ -3263,64 +2400,26 @@ Package pdftex.def Info: Chapter4/Charts/CommitCountBarChart.pdf used on input
 line 124.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
 
-<Chapter4/Figures/AffectedFiles.pdf, id=1805, 461.08258pt x 227.6505pt>
+<Chapter4/Figures/AffectedFiles.pdf, id=2421, 461.08258pt x 227.6505pt>
 File: Chapter4/Figures/AffectedFiles.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/AffectedFiles.pdf>
 Package pdftex.def Info: Chapter4/Figures/AffectedFiles.pdf used on input line 
 133.
 (pdftex.def)             Requested size: 437.46112pt x 215.99579pt.
-
-
-Package natbib Warning: Citation `succi2005empirical' on page 64 undefined on i
-nput line 139.
-
-
-Package natbib Warning: Citation `basili1996validation' on page 64 undefined on
- input line 139.
-
-
-Package natbib Warning: Citation `chidamber1994metrics' on page 64 undefined on
- input line 139.
-
-[64 <./Chapter4/Charts/CumulativeCommitterCount.pdf>] [65 <./Chapter4/Charts/Co
-mmitCountBarChart.pdf> <./Chapter4/Figures/AffectedFiles.pdf
+ [66 <./Chapter4/Charts/CumulativeCommitterCount.pdf>] [67 <./Chapter4/Charts/C
+ommitCountBarChart.pdf> <./Chapter4/Figures/AffectedFiles.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Figures/AffectedFiles.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
->]
-
-Package natbib Warning: Citation `kolmogorov1933sulla' on page 66 undefined on 
-input line 141.
-
-
-Package natbib Warning: Citation `smirnov1948table' on page 66 undefined on inp
-ut line 141.
-
-
-Package natbib Warning: Citation `succi2005empirical' on page 66 undefined on i
-nput line 143.
-
-
-Package natbib Warning: Citation `pendharkar2009relationship' on page 66 undefi
-ned on input line 143.
-
-
-Package natbib Warning: Citation `nagappan2008influence' on page 66 undefined o
-n input line 143.
-
-
-Package natbib Warning: Citation `caglayan2015merits' on page 66 undefined on i
-nput line 143.
-
-<Chapter4/Charts/Distributions.pdf, id=1854, 953.24129pt x 904.8204pt>
+>] [68] <Chapter4/Charts/Distributions.pdf, id=2496, 953.24129pt x 904.8204pt>
 File: Chapter4/Charts/Distributions.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/Distributions.pdf>
 Package pdftex.def Info: Chapter4/Charts/Distributions.pdf used on input line 1
 47.
 (pdftex.def)             Requested size: 437.46112pt x 415.24219pt.
- [66]
+
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3333,7 +2432,7 @@ l.156  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/KSTest.pdf, id=1859, 406.88008pt x 68.4156pt>
+<Chapter4/Tables/KSTest.pdf, id=2497, 406.88008pt x 68.4156pt>
 File: Chapter4/Tables/KSTest.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/KSTest.pdf>
@@ -3353,7 +2452,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/MetricCorrelationsSlim.pdf, id=1860, 461.08258pt x 202.1151pt>
+<Chapter4/Tables/MetricCorrelationsSlim.pdf, id=2498, 461.08258pt x 202.1151pt>
 File: Chapter4/Tables/MetricCorrelationsSlim.pdf Graphic file (type pdf)
 <use Chapter4/Tables/MetricCorrelationsSlim.pdf>
 Package pdftex.def Info: Chapter4/Tables/MetricCorrelationsSlim.pdf used on inp
@@ -3364,21 +2463,12 @@ Overfull \hbox (38.62033pt too wide) in paragraph at lines 165--170
  [][] 
  []
 
-[67 <./Chapter4/Charts/Distributions.pdf>] [68 <./Chapter4/Tables/KSTest.pdf> <
+[69 <./Chapter4/Charts/Distributions.pdf>] [70 <./Chapter4/Tables/KSTest.pdf> <
 ./Chapter4/Tables/MetricCorrelationsSlim.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/MetricCorrelationsSlim.pdf): P
 DF inclusion: multiple pdfs with page group included in a single page
->]
-
-Package natbib Warning: Citation `mockus2000case' on page 69 undefined on input
- line 179.
-
-
-Package natbib Warning: Citation `terceiro2010empirical' on page 69 undefined o
-n input line 179.
-
-<Chapter4/Figures/TimeSizeExample.pdf, id=1905, 515.04419pt x 312.92911pt>
+>] <Chapter4/Figures/TimeSizeExample.pdf, id=2547, 515.04419pt x 312.92911pt>
 File: Chapter4/Figures/TimeSizeExample.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/TimeSizeExample.pdf>
@@ -3386,35 +2476,40 @@ Package pdftex.def Info: Chapter4/Figures/TimeSizeExample.pdf used on input lin
 e 185.
 (pdftex.def)             Requested size: 437.46112pt x 265.79521pt.
 
-<Chapter4/Charts/CommitterCommitCount.pdf, id=1906, 461.08258pt x 227.6505pt>
+<Chapter4/Charts/CommitterCommitCount.pdf, id=2548, 461.08258pt x 227.6505pt>
 File: Chapter4/Charts/CommitterCommitCount.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/CommitterCommitCount.pdf>
 Package pdftex.def Info: Chapter4/Charts/CommitterCommitCount.pdf used on input
  line 192.
 (pdftex.def)             Requested size: 437.46112pt x 215.99579pt.
+ [71] [72 <./Chapter4/Figures/TimeSizeExample.pdf> <./Chapter4/Charts/Committer
+CommitCount.pdf
 
-<Chapter4/Figures/BasicAnalysisMetricMining.pdf, id=1908, 284.62335pt x 185.011
+pdfTeX warning: pdflatex (file ./Chapter4/Charts/CommitterCommitCount.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+>]
+<Chapter4/Figures/BasicAnalysisMetricMining.pdf, id=2613, 284.62335pt x 185.011
 2pt>
 File: Chapter4/Figures/BasicAnalysisMetricMining.pdf Graphic file (type pdf)
  <use Chapter4/Figures/BasicAnalysisMetricMining.pdf>
 Package pdftex.def Info: Chapter4/Figures/BasicAnalysisMetricMining.pdf used on
  input line 202.
 (pdftex.def)             Requested size: 306.22144pt x 199.06947pt.
- [69] [70 <./Chapter4/Figures/TimeSizeExample.pdf> <./Chapter4/Charts/Committer
-CommitCount.pdf
 
-pdfTeX warning: pdflatex (file ./Chapter4/Charts/CommitterCommitCount.pdf): PDF
- inclusion: multiple pdfs with page group included in a single page
->]
-<Chapter4/Figures/BasicBucketingStrategy.pdf, id=1971, 512.27383pt x 136.5903pt
+<Chapter4/Figures/BasicBucketingStrategy.pdf, id=2615, 512.27383pt x 136.5903pt
 >
 File: Chapter4/Figures/BasicBucketingStrategy.pdf Graphic file (type pdf)
  <use Chapter4/Figures/BasicBucketingStrategy.pdf>
 Package pdftex.def Info: Chapter4/Figures/BasicBucketingStrategy.pdf used on in
 put line 211.
 (pdftex.def)             Requested size: 437.46112pt x 116.64626pt.
+ [73 <./Chapter4/Figures/BasicAnalysisMetricMining.pdf> <./Chapter4/Figures/Bas
+icBucketingStrategy.pdf
 
+pdfTeX warning: pdflatex (file ./Chapter4/Figures/BasicBucketingStrategy.pdf): 
+PDF inclusion: multiple pdfs with page group included in a single page
+>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3428,7 +2523,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/MetricsComparisionStrategyTabular.pdf, id=1973, 364.2408pt x 1
+<Chapter4/Tables/MetricsComparisionStrategyTabular.pdf, id=2676, 364.2408pt x 1
 28.1588pt>
 File: Chapter4/Tables/MetricsComparisionStrategyTabular.pdf Graphic file (type 
 pdf)
@@ -3441,21 +2536,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 221--226
  [][] 
  []
 
-[71 <./Chapter4/Figures/BasicAnalysisMetricMining.pdf> <./Chapter4/Figures/Basi
-cBucketingStrategy.pdf
-
-pdfTeX warning: pdflatex (file ./Chapter4/Figures/BasicBucketingStrategy.pdf): 
-PDF inclusion: multiple pdfs with page group included in a single page
->]
-
-Package natbib Warning: Citation `mann1947test' on page 72 undefined on input l
-ine 228.
-
-
-Package natbib Warning: Citation `bonferroni1936teoria' on page 72 undefined on
- input line 228.
-
-[72 <./Chapter4/Tables/MetricsComparisionStrategyTabular.pdf>]
+[74 <./Chapter4/Tables/MetricsComparisionStrategyTabular.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3469,7 +2550,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/BasicResultsSignificance.pdf, id=2048, 529.25732pt x 173.68889
+<Chapter4/Tables/BasicResultsSignificance.pdf, id=2700, 529.25732pt x 173.68889
 pt>
 File: Chapter4/Tables/BasicResultsSignificance.pdf Graphic file (type pdf)
  <use Chapter4/Tables/BasicResultsSignificance.pdf>
@@ -3493,7 +2574,7 @@ l.253  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/BasicResultsAverages.pdf, id=2049, 466.6233pt x 122.3772pt>
+<Chapter4/Tables/BasicResultsAverages.pdf, id=2701, 466.6233pt x 122.3772pt>
 File: Chapter4/Tables/BasicResultsAverages.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/BasicResultsAverages.pdf>
@@ -3505,24 +2586,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 252--257
  [][] 
  []
 
-
-Package natbib Warning: Citation `el2001prediction' on page 73 undefined on inp
-ut line 260.
-
-
-Package natbib Warning: Citation `gil2017correlation' on page 73 undefined on i
-nput line 260.
-
-
-Package natbib Warning: Citation `zhou2006empirical' on page 73 undefined on in
-put line 260.
-
-[73 <./Chapter4/Tables/BasicResultsSignificance.pdf> <./Chapter4/Tables/BasicRe
-sultsAverages.pdf
-
-pdfTeX warning: pdflatex (file ./Chapter4/Tables/BasicResultsAverages.pdf): PDF
- inclusion: multiple pdfs with page group included in a single page
->]
+[75 <./Chapter4/Tables/BasicResultsSignificance.pdf>]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -3536,10 +2600,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Package natbib Warning: Citation `nguyen2007sloc' on page 74 undefined on input
- line 267.
-
+[76 <./Chapter4/Tables/BasicResultsAverages.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3552,7 +2613,7 @@ l.273  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/LOCCorrelations.pdf, id=2167, 461.08258pt x 99.7326pt>
+<Chapter4/Tables/LOCCorrelations.pdf, id=2834, 461.08258pt x 99.7326pt>
 File: Chapter4/Tables/LOCCorrelations.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/LOCCorrelations.pdf>
@@ -3564,7 +2625,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 272--277
  [][] 
  []
 
-<Chapter4/Charts/AllMetricsAgainstLOC.pdf, id=2168, 409.77089pt x 446.8695pt>
+<Chapter4/Charts/AllMetricsAgainstLOC.pdf, id=2835, 409.77089pt x 446.8695pt>
 File: Chapter4/Charts/AllMetricsAgainstLOC.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/AllMetricsAgainstLOC.pdf>
@@ -3585,24 +2646,15 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Package natbib Warning: Citation `prather1984axiomatic' on page 74 undefined on
- input line 289.
-
-[74] [75 <./Chapter4/Charts/AllMetricsAgainstLOC.pdf>]
-<Chapter4/Figures/PreciseRevisionLogs.pdf, id=2188, 458.19182pt x 79.7379pt>
+<Chapter4/Figures/PreciseRevisionLogs.pdf, id=2839, 458.19182pt x 79.7379pt>
 File: Chapter4/Figures/PreciseRevisionLogs.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/PreciseRevisionLogs.pdf>
 Package pdftex.def Info: Chapter4/Figures/PreciseRevisionLogs.pdf used on input
  line 293.
 (pdftex.def)             Requested size: 437.46112pt x 76.13017pt.
- [76 <./Chapter4/Tables/LOCCorrelations.pdf> <./Chapter4/Figures/PreciseRevisio
-nLogs.pdf
-
-pdfTeX warning: pdflatex (file ./Chapter4/Figures/PreciseRevisionLogs.pdf): PDF
- inclusion: multiple pdfs with page group included in a single page
->]
+ [77 <./Chapter4/Tables/LOCCorrelations.pdf>] [78 <./Chapter4/Charts/AllMetrics
+AgainstLOC.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3615,7 +2667,7 @@ l.308  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/RevisionCorrelations.pdf, id=2213, 461.08258pt x 99.7326pt>
+<Chapter4/Tables/RevisionCorrelations.pdf, id=2872, 461.08258pt x 99.7326pt>
 File: Chapter4/Tables/RevisionCorrelations.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/RevisionCorrelations.pdf>
@@ -3627,11 +2679,13 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 307--312
  [][] 
  []
 
+[79 <./Chapter4/Figures/PreciseRevisionLogs.pdf> <./Chapter4/Tables/RevisionCor
+relations.pdf
 
-Package natbib Warning: Citation `johari2012validation' on page 77 undefined on
- input line 314.
-
-<Chapter4/Charts/RevisionsCommitters.pdf, id=2216, 469.51411pt x 227.6505pt>
+pdfTeX warning: pdflatex (file ./Chapter4/Tables/RevisionCorrelations.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+>]
+<Chapter4/Charts/RevisionsCommitters.pdf, id=2901, 469.51411pt x 227.6505pt>
 File: Chapter4/Charts/RevisionsCommitters.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/RevisionsCommitters.pdf>
@@ -3639,15 +2693,15 @@ Package pdftex.def Info: Chapter4/Charts/RevisionsCommitters.pdf used on input
 line 318.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
 
-<Chapter4/Charts/MetricsRevisions.pdf, id=2217, 469.51411pt x 446.8695pt>
+<Chapter4/Charts/MetricsRevisions.pdf, id=2902, 469.51411pt x 446.8695pt>
 File: Chapter4/Charts/MetricsRevisions.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/MetricsRevisions.pdf>
 Package pdftex.def Info: Chapter4/Charts/MetricsRevisions.pdf used on input lin
 e 325.
 (pdftex.def)             Requested size: 437.46112pt x 416.36848pt.
- [77 <./Chapter4/Tables/RevisionCorrelations.pdf>]
-<Chapter4/Figures/AdvancedAnalysisMetricMining.pdf, id=2237, 284.62335pt x 173.
+
+<Chapter4/Figures/AdvancedAnalysisMetricMining.pdf, id=2905, 284.62335pt x 173.
 56845pt>
 File: Chapter4/Figures/AdvancedAnalysisMetricMining.pdf Graphic file (type pdf)
 
@@ -3655,9 +2709,9 @@ File: Chapter4/Figures/AdvancedAnalysisMetricMining.pdf Graphic file (type pdf)
 Package pdftex.def Info: Chapter4/Figures/AdvancedAnalysisMetricMining.pdf used
  on input line 337.
 (pdftex.def)             Requested size: 306.22144pt x 186.75722pt.
- [78 <./Chapter4/Charts/RevisionsCommitters.pdf>] [79 <./Chapter4/Charts/Metric
+ [80 <./Chapter4/Charts/RevisionsCommitters.pdf>] [81 <./Chapter4/Charts/Metric
 sRevisions.pdf>]
-<Chapter4/Figures/AdvancedBucketingStrategy.pdf, id=2270, 446.74904pt x 256.076
+<Chapter4/Figures/AdvancedBucketingStrategy.pdf, id=2938, 446.74904pt x 256.076
 69pt>
 File: Chapter4/Figures/AdvancedBucketingStrategy.pdf Graphic file (type pdf)
  <use Chapter4/Figures/AdvancedBucketingStrategy.pdf>
@@ -3692,6 +2746,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
+[82 <./Chapter4/Figures/AdvancedAnalysisMetricMining.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3704,7 +2759,7 @@ l.359  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/BucketPopulations.pdf, id=2273, 483.72722pt x 150.8034pt>
+<Chapter4/Tables/BucketPopulations.pdf, id=2968, 483.72722pt x 150.8034pt>
 File: Chapter4/Tables/BucketPopulations.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/BucketPopulations.pdf>
@@ -3717,19 +2772,19 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 358--363
  []
 
 
-<Chapter4/Figures/MetricsPopulationRevisions.pdf, id=2274, 469.51411pt x 227.65
+<Chapter4/Figures/MetricsPopulationRevisions.pdf, id=2969, 469.51411pt x 227.65
 05pt>
 File: Chapter4/Figures/MetricsPopulationRevisions.pdf Graphic file (type pdf)
  <use Chapter4/Figures/MetricsPopulationRevisions.pdf>
 Package pdftex.def Info: Chapter4/Figures/MetricsPopulationRevisions.pdf used o
 n input line 367.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [80 <./Chapter4/Figures/AdvancedAnalysisMetricMining.pdf>] [81 <./Chapter4/Fig
-ures/AdvancedBucketingStrategy.pdf> <./Chapter4/Tables/BucketPopulations.pdf
+ [83 <./Chapter4/Figures/AdvancedBucketingStrategy.pdf> <./Chapter4/Tables/Buck
+etPopulations.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/BucketPopulations.pdf): PDF in
 clusion: multiple pdfs with page group included in a single page
->] [82 <./Chapter4/Figures/MetricsPopulationRevisions.pdf>]
+>] [84 <./Chapter4/Figures/MetricsPopulationRevisions.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3743,7 +2798,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/ComplexResultsBucketComparisions.pdf, id=2363, 455.30101pt x 6
+<Chapter4/Tables/ComplexResultsBucketComparisions.pdf, id=3031, 455.30101pt x 6
 91.38298pt>
 File: Chapter4/Tables/ComplexResultsBucketComparisions.pdf Graphic file (type p
 df)
@@ -3772,7 +2827,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/ComplexResultsBucketAverages.pdf, id=2364, 452.4102pt x 256.07
+<Chapter4/Tables/ComplexResultsBucketAverages.pdf, id=3032, 452.4102pt x 256.07
 669pt>
 File: Chapter4/Tables/ComplexResultsBucketAverages.pdf Graphic file (type pdf)
  <use Chapter4/Tables/ComplexResultsBucketAverages.pdf>
@@ -3783,10 +2838,6 @@ on input line 402.
 Overfull \hbox (15.0pt too wide) in paragraph at lines 400--405
  [][] 
  []
-
-
-Package natbib Warning: Citation `menard2002applied' on page 83 undefined on in
-put line 408.
 
 
 LaTeX Font Warning: Command \large invalid in math mode on input line 412.
@@ -3804,7 +2855,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/BasicLinearRegression.pdf, id=2366, 455.30101pt x 261.8583pt>
+<Chapter4/Tables/BasicLinearRegression.pdf, id=3036, 455.30101pt x 261.8583pt>
 File: Chapter4/Tables/BasicLinearRegression.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/BasicLinearRegression.pdf>
@@ -3816,25 +2867,17 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 417--422
  [][] 
  []
 
-[83] [84 <./Chapter4/Tables/ComplexResultsBucketComparisions.pdf>] [85 <./Chapt
+[85] [86 <./Chapter4/Tables/ComplexResultsBucketComparisions.pdf>] [87 <./Chapt
 er4/Tables/ComplexResultsBucketAverages.pdf> <./Chapter4/Tables/BasicLinearRegr
 ession.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/BasicLinearRegression.pdf): PD
 F inclusion: multiple pdfs with page group included in a single page
->] [86] [87]
-
-Package natbib Warning: Citation `zhou2012genome' on page 88 undefined on input
- line 456.
-
-
-Package natbib Warning: Citation `bolker2009generalized' on page 88 undefined o
-n input line 456.
-
+>] [88] [89]
 
 LaTeX Font Warning: Command \large invalid in math mode on input line 460.
 
-[88]
+[90]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3848,7 +2891,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/RandomInterceptsLinearRegression.pdf, id=2913, 455.30101pt x 1
+<Chapter4/Tables/RandomInterceptsLinearRegression.pdf, id=3590, 455.30101pt x 1
 67.9073pt>
 File: Chapter4/Tables/RandomInterceptsLinearRegression.pdf Graphic file (type p
 df)
@@ -3861,15 +2904,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 478--483
  [][] 
  []
 
-[89 <./Chapter4/Tables/RandomInterceptsLinearRegression.pdf>]
-
-Package natbib Warning: Citation `pearson1901liii' on page 90 undefined on inpu
-t line 490.
-
-
-Package natbib Warning: Citation `timm10applied' on page 90 undefined on input 
-line 490.
-
+[91 <./Chapter4/Tables/RandomInterceptsLinearRegression.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3882,7 +2917,7 @@ l.497  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/TeamSizePCA.pdf, id=2938, 483.72722pt x 76.84709pt>
+<Chapter4/Tables/TeamSizePCA.pdf, id=3620, 483.72722pt x 76.84709pt>
 File: Chapter4/Tables/TeamSizePCA.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/TeamSizePCA.pdf>
@@ -3894,16 +2929,16 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 496--501
 [][] 
  []
 
-<Chapter4/Charts/TeamSizeScatter.pdf, id=2940, 466.6233pt x 213.4374pt>
+<Chapter4/Charts/TeamSizeScatter.pdf, id=3622, 466.6233pt x 213.4374pt>
 File: Chapter4/Charts/TeamSizeScatter.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/TeamSizeScatter.pdf>
 Package pdftex.def Info: Chapter4/Charts/TeamSizeScatter.pdf used on input line
  507.
 (pdftex.def)             Requested size: 437.46112pt x 200.11008pt.
- [90 <./Chapter4/Tables/TeamSizePCA.pdf>] [91 <./Chapter4/Charts/TeamSizeScatte
+ [92 <./Chapter4/Tables/TeamSizePCA.pdf>] [93 <./Chapter4/Charts/TeamSizeScatte
 r.pdf>]
-<Chapter4/Charts/PreciseCommitterAnalysis.pdf, id=2971, 469.51411pt x 196.33351
+<Chapter4/Charts/PreciseCommitterAnalysis.pdf, id=3654, 469.51411pt x 196.33351
 pt>
 File: Chapter4/Charts/PreciseCommitterAnalysis.pdf Graphic file (type pdf)
  <use Chapter4/Charts/PreciseCommitterAnalysis.pdf>
@@ -3911,15 +2946,15 @@ Package pdftex.def Info: Chapter4/Charts/PreciseCommitterAnalysis.pdf used on i
 nput line 521.
 (pdftex.def)             Requested size: 437.46112pt x 182.93279pt.
 
-<Chapter4/Charts/TeamSizesResultsCompare.pdf, id=2972, 466.6233pt x 483.72722pt
+<Chapter4/Charts/TeamSizesResultsCompare.pdf, id=3655, 466.6233pt x 483.72722pt
 >
 File: Chapter4/Charts/TeamSizesResultsCompare.pdf Graphic file (type pdf)
  <use Chapter4/Charts/TeamSizesResultsCompare.pdf>
 Package pdftex.def Info: Chapter4/Charts/TeamSizesResultsCompare.pdf used on in
 put line 528.
 (pdftex.def)             Requested size: 437.46112pt x 453.52267pt.
- [92 <./Chapter4/Charts/PreciseCommitterAnalysis.pdf>] [93 <./Chapter4/Charts/T
-eamSizesResultsCompare.pdf>] <Chapter4/Figures/BadCouplingExample.pdf, id=3007,
+ [94 <./Chapter4/Charts/PreciseCommitterAnalysis.pdf>] [95 <./Chapter4/Charts/T
+eamSizesResultsCompare.pdf>] <Chapter4/Figures/BadCouplingExample.pdf, id=3690,
  626.0991pt x 370.02242pt>
 File: Chapter4/Figures/BadCouplingExample.pdf Graphic file (type pdf)
 
@@ -3928,7 +2963,7 @@ Package pdftex.def Info: Chapter4/Figures/BadCouplingExample.pdf used on input
 line 539.
 (pdftex.def)             Requested size: 437.46112pt x 258.534pt.
 
-<Chapter4/Figures/BadCodeExample.pdf, id=3008, 626.0991pt x 426.8748pt>
+<Chapter4/Figures/BadCodeExample.pdf, id=3691, 626.0991pt x 426.8748pt>
 File: Chapter4/Figures/BadCodeExample.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/BadCodeExample.pdf>
@@ -3949,7 +2984,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf, id=3009,
+<Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf, id=3692,
  455.30101pt x 147.9126pt>
 File: Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf Grap
 hic file (type pdf)
@@ -3963,116 +2998,60 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 554--559
  [][] 
  []
 
-[94 <./Chapter4/Figures/BadCouplingExample.pdf>] [95 <./Chapter4/Figures/BadCod
+[96 <./Chapter4/Figures/BadCouplingExample.pdf>] [97 <./Chapter4/Figures/BadCod
 eExample.pdf> <./Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjec
 ts.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/RandomInterceptsLinearRegressi
 onSelectedProjects.pdf): PDF inclusion: multiple pdfs with page group included 
 in a single page
->]
-
-Package natbib Warning: Citation `nagappan2008influence' on page 96 undefined o
-n input line 566.
-
-
-Package natbib Warning: Citation `basili1996validation' on page 96 undefined on
- input line 566.
-
-[96]
-
-Package natbib Warning: Citation `bruntink2006empirical' on page 97 undefined o
-n input line 568.
-
-
-Package natbib Warning: Citation `badri2011empirical' on page 97 undefined on i
-nput line 568.
-
-
-Package natbib Warning: Citation `harrison1998investigation' on page 97 undefin
-ed on input line 568.
-
-
-Package natbib Warning: Citation `elish2003investigation' on page 97 undefined 
-on input line 568.
-
-<Chapter4/Figures/ResultOverview.pdf, id=3100, 580.56903pt x 284.5029pt>
+>] [98]
+<Chapter4/Figures/ResultOverview.pdf, id=3796, 580.56903pt x 284.5029pt>
 File: Chapter4/Figures/ResultOverview.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/ResultOverview.pdf>
 Package pdftex.def Info: Chapter4/Figures/ResultOverview.pdf used on input line
  574.
 (pdftex.def)             Requested size: 437.46112pt x 214.3751pt.
-) [97] [98 <./Chapter4/Figures/ResultOverview.pdf>]
+) [99] [100 <./Chapter4/Figures/ResultOverview.pdf>]
 \openout2 = `Chapter5/chapter5.aux'.
 
  (Chapter5/chapter5.tex
 Chapter 5.
-[99
+[101
 
 
 
-] [100]
-<Chapter5/Figures/ChapterOverview.pdf, id=3158, 1109.82635pt x 540.5796pt>
+] [102]
+<Chapter5/Figures/ChapterOverview.pdf, id=3853, 1109.82635pt x 540.5796pt>
 File: Chapter5/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/ChapterOverview.pdf>
 Package pdftex.def Info: Chapter5/Figures/ChapterOverview.pdf used on input lin
 e 18.
 (pdftex.def)             Requested size: 568.70079pt x 277.00346pt.
- [101
+ [103
 
  <./Chapter5/Figures/ChapterOverview.pdf>]
-<Chapter5/Figures/MiningAnalysisToolchain.pdf, id=3214, 617.4267pt x 264.74911p
+<Chapter5/Figures/MiningAnalysisToolchain.pdf, id=3910, 617.4267pt x 264.74911p
 t>
 File: Chapter5/Figures/MiningAnalysisToolchain.pdf Graphic file (type pdf)
  <use Chapter5/Figures/MiningAnalysisToolchain.pdf>
 Package pdftex.def Info: Chapter5/Figures/MiningAnalysisToolchain.pdf used on i
 nput line 26.
 (pdftex.def)             Requested size: 437.46112pt x 187.58536pt.
-
-
-Package natbib Warning: Citation `martinez2008using' on page 102 undefined on i
-nput line 32.
-
-
-Package natbib Warning: Citation `conaldi2013dual' on page 102 undefined on inp
-ut line 32.
-
-
-Package natbib Warning: Citation `daniel2016open' on page 102 undefined on inpu
-t line 32.
-
-
-Package natbib Warning: Citation `howison2006social' on page 102 undefined on i
-nput line 32.
-
-[102
+ [104
 
  <./Chapter5/Figures/MiningAnalysisToolchain.pdf>]
-<Chapter5/Figures/NetworkAnalysis.pdf, id=3262, 808.21951pt x 515.04419pt>
+<Chapter5/Figures/NetworkAnalysis.pdf, id=3970, 808.21951pt x 515.04419pt>
 File: Chapter5/Figures/NetworkAnalysis.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/NetworkAnalysis.pdf>
 Package pdftex.def Info: Chapter5/Figures/NetworkAnalysis.pdf used on input lin
 e 42.
 (pdftex.def)             Requested size: 437.46112pt x 278.77988pt.
-
-
-Package natbib Warning: Citation `robles2005developer' on page 103 undefined on
- input line 50.
-
-[103 <./Chapter5/Figures/NetworkAnalysis.pdf>]
-
-Package natbib Warning: Citation `robles2005developer' on page 104 undefined on
- input line 57.
-
-
-Package natbib Warning: Citation `bird2006mining' on page 104 undefined on inpu
-t line 59.
-
-[104]
-<Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf, id=3328, 463.7325pt x 185.
+ [105 <./Chapter5/Figures/NetworkAnalysis.pdf>] [106]
+<Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf, id=4045, 463.7325pt x 185.
 0112pt>
 File: Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf Graphic file (type pdf
 )
@@ -4094,44 +3073,23 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[105 <./Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf>]
-
-Package natbib Warning: Citation `kalliamvakou2014promises' on page 106 undefin
-ed on input line 85.
-
-
-Package natbib Warning: Citation `roy2009comparison' on page 106 undefined on i
-nput line 91.
-
-
-Package natbib Warning: Citation `brixtel2010language' on page 106 undefined on
- input line 91.
-
-
-Package natbib Warning: Citation `juergens2009clonedetective' on page 106 undef
-ined on input line 91.
-
-
-Package natbib Warning: Citation `lee2010instant' on page 106 undefined on inpu
-t line 91.
-
-[106]
-<Chapter5/Figures/ForkedImportedBinaries.pdf, id=3351, 207.6558pt x 162.1257pt>
+[107 <./Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf>] [108]
+<Chapter5/Figures/ForkedImportedBinaries.pdf, id=4080, 207.6558pt x 162.1257pt>
 File: Chapter5/Figures/ForkedImportedBinaries.pdf Graphic file (type pdf)
 <use Chapter5/Figures/ForkedImportedBinaries.pdf>
 Package pdftex.def Info: Chapter5/Figures/ForkedImportedBinaries.pdf used on in
 put line 95.
 (pdftex.def)             Requested size: 207.65529pt x 162.1253pt.
 
-<Chapter5/Figures/ForkedSameHistory.pdf, id=3353, 304.49759pt x 165.0165pt>
+<Chapter5/Figures/ForkedSameHistory.pdf, id=4082, 304.49759pt x 165.0165pt>
 File: Chapter5/Figures/ForkedSameHistory.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/ForkedSameHistory.pdf>
 Package pdftex.def Info: Chapter5/Figures/ForkedSameHistory.pdf used on input l
 ine 105.
 (pdftex.def)             Requested size: 304.49684pt x 165.01607pt.
- [107 <./Chapter5/Figures/ForkedImportedBinaries.pdf>]
-<Chapter5/Figures/ForkedOutsideForge.pdf, id=3367, 304.49759pt x 125.268pt>
+ [109 <./Chapter5/Figures/ForkedImportedBinaries.pdf>]
+<Chapter5/Figures/ForkedOutsideForge.pdf, id=4098, 304.49759pt x 125.268pt>
 File: Chapter5/Figures/ForkedOutsideForge.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/ForkedOutsideForge.pdf>
@@ -4152,24 +3110,12 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-
-Package natbib Warning: Citation `nyman2011fork' on page 108 undefined on input
- line 125.
-
-
-Package natbib Warning: Citation `robles2012comprehensive' on page 108 undefine
-d on input line 125.
-
-[108 <./Chapter5/Figures/ForkedSameHistory.pdf> <./Chapter5/Figures/ForkedOutsi
+[110 <./Chapter5/Figures/ForkedSameHistory.pdf> <./Chapter5/Figures/ForkedOutsi
 deForge.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter5/Figures/ForkedOutsideForge.pdf): PDF 
 inclusion: multiple pdfs with page group included in a single page
 >]
-
-Package natbib Warning: Citation `ray2012repertoire' on page 109 undefined on i
-nput line 127.
-
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
@@ -4198,15 +3144,15 @@ l.133 ...mmit description contains the term ‘fork’
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-[109] <Chapter5/Charts/ForkCounts.pdf, id=3393, 469.51411pt x 227.6505pt>
+[111] <Chapter5/Charts/ForkCounts.pdf, id=4130, 469.51411pt x 227.6505pt>
 File: Chapter5/Charts/ForkCounts.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/ForkCounts.pdf>
 Package pdftex.def Info: Chapter5/Charts/ForkCounts.pdf used on input line 141.
 
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [110 <./Chapter5/Charts/ForkCounts.pdf>]
-<Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf, id=3411, 469.51411pt x 2
+ [112 <./Chapter5/Charts/ForkCounts.pdf>]
+<Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf, id=4148, 469.51411pt x 2
 27.6505pt>
 File: Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf Graphic file (type p
 df)
@@ -4215,16 +3161,16 @@ Package pdftex.def Info: Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf u
 sed on input line 155.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
 
-<Chapter5/Charts/FrequencyEngagement.pdf, id=3412, 469.51411pt x 227.6505pt>
+<Chapter5/Charts/FrequencyEngagement.pdf, id=4149, 469.51411pt x 227.6505pt>
 File: Chapter5/Charts/FrequencyEngagement.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/FrequencyEngagement.pdf>
 Package pdftex.def Info: Chapter5/Charts/FrequencyEngagement.pdf used on input 
 line 162.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [111 <./Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf>] [112 <./Chapter
+ [113 <./Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf>] [114 <./Chapter
 5/Charts/FrequencyEngagement.pdf>]
-<Chapter5/Figures/ProjectPairEligability.pdf, id=3443, 426.8748pt x 370.02242pt
+<Chapter5/Figures/ProjectPairEligability.pdf, id=4180, 426.8748pt x 370.02242pt
 >
 File: Chapter5/Figures/ProjectPairEligability.pdf Graphic file (type pdf)
  <use Chapter5/Figures/ProjectPairEligability.pdf>
@@ -4232,20 +3178,16 @@ Package pdftex.def Info: Chapter5/Figures/ProjectPairEligability.pdf used on in
 put line 179.
 (pdftex.def)             Requested size: 437.46112pt x 379.22461pt.
 
-<Chapter5/Charts/ProjectCommitterCount.pdf, id=3446, 469.51411pt x 227.6505pt>
+<Chapter5/Charts/ProjectCommitterCount.pdf, id=4183, 469.51411pt x 227.6505pt>
 File: Chapter5/Charts/ProjectCommitterCount.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/ProjectCommitterCount.pdf>
 Package pdftex.def Info: Chapter5/Charts/ProjectCommitterCount.pdf used on inpu
 t line 192.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [113] [114 <./Chapter5/Figures/ProjectPairEligability.pdf>]
-
-Package natbib Warning: Citation `huckman2009team' on page 115 undefined on inp
-ut line 201.
-
-[115 <./Chapter5/Charts/ProjectCommitterCount.pdf>]
-<Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf, id=3534, 512.1534pt x 5
+ [115] [116 <./Chapter5/Figures/ProjectPairEligability.pdf>] [117 <./Chapter5/C
+harts/ProjectCommitterCount.pdf>]
+<Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf, id=4273, 512.1534pt x 5
 69.24669pt>
 File: Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf Graphic file (type 
 pdf)
@@ -4254,28 +3196,7 @@ Package pdftex.def Info: Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf
 used on input line 207.
 (pdftex.def)             Requested size: 437.46112pt x 486.25063pt.
 
-[116 <./Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf>]
-
-Package natbib Warning: Citation `jaccard1901distribution' on page 117 undefine
-d on input line 222.
-
-
-Package natbib Warning: Citation `kiefer2007mining' on page 117 undefined on in
-put line 222.
-
-
-Package natbib Warning: Citation `kpodjedo2013studying' on page 117 undefined o
-n input line 222.
-
-
-Package natbib Warning: Citation `jermakovics2011mining' on page 117 undefined 
-on input line 222.
-
-
-Package natbib Warning: Citation `sorensen1948method' on page 117 undefined on 
-input line 222.
-
-[117]
+[118 <./Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf>] [119]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -4316,4 +3237,667 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-La
+LaTeX Font Warning: Command \large invalid in math mode on input line 231.
+
+
+<Chapter5/Figures/IntraprojectStabilityCalc.pdf, id=4358, 577.67822pt x 278.962
+22pt>
+File: Chapter5/Figures/IntraprojectStabilityCalc.pdf Graphic file (type pdf)
+ <use Chapter5/Figures/IntraprojectStabilityCalc.pdf>
+Package pdftex.def Info: Chapter5/Figures/IntraprojectStabilityCalc.pdf used on
+ input line 235.
+(pdftex.def)             Requested size: 437.46112pt x 211.2558pt.
+
+<Chapter5/Charts/ProjectModuleCount.pdf, id=4361, 469.51411pt x 227.6505pt>
+File: Chapter5/Charts/ProjectModuleCount.pdf Graphic file (type pdf)
+
+<use Chapter5/Charts/ProjectModuleCount.pdf>
+Package pdftex.def Info: Chapter5/Charts/ProjectModuleCount.pdf used on input l
+ine 246.
+(pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
+
+<Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf, id=4362, 577.67822p
+t x 335.81459pt>
+File: Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf Graphic file (t
+ype pdf)
+
+<use Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf>
+Package pdftex.def Info: Chapter5/Figures/IntraprojectStabilityCalcModularised.
+pdf used on input line 253.
+(pdftex.def)             Requested size: 437.46112pt x 254.30965pt.
+ [120] [121 <./Chapter5/Figures/IntraprojectStabilityCalc.pdf> <./Chapter5/Char
+ts/ProjectModuleCount.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter5/Charts/ProjectModuleCount.pdf): PDF i
+nclusion: multiple pdfs with page group included in a single page
+>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.265  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/StabilityCorrelations.pdf, id=4424, 523.71661pt x 150.8034pt>
+File: Chapter5/Tables/StabilityCorrelations.pdf Graphic file (type pdf)
+
+<use Chapter5/Tables/StabilityCorrelations.pdf>
+Package pdftex.def Info: Chapter5/Tables/StabilityCorrelations.pdf used on inpu
+t line 266.
+(pdftex.def)             Requested size: 437.46112pt x 125.97215pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 264--269
+ [][] 
+ []
+
+[122 <./Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf>]
+<Chapter5/Charts/StabilityDistribution.pdf, id=4472, 458.19182pt x 293.1753pt>
+File: Chapter5/Charts/StabilityDistribution.pdf Graphic file (type pdf)
+
+<use Chapter5/Charts/StabilityDistribution.pdf>
+Package pdftex.def Info: Chapter5/Charts/StabilityDistribution.pdf used on inpu
+t line 277.
+(pdftex.def)             Requested size: 437.46112pt x 279.91068pt.
+
+<Chapter5/Figures/StabilityOutliers.pdf, id=4473, 626.0991pt x 512.1534pt>
+File: Chapter5/Figures/StabilityOutliers.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/StabilityOutliers.pdf>
+Package pdftex.def Info: Chapter5/Figures/StabilityOutliers.pdf used on input l
+ine 284.
+(pdftex.def)             Requested size: 437.46112pt x 357.84067pt.
+
+<Chapter5/Charts/ScatterDiagrams.pdf, id=4475, 762.68942pt x 665.84758pt>
+File: Chapter5/Charts/ScatterDiagrams.pdf Graphic file (type pdf)
+
+<use Chapter5/Charts/ScatterDiagrams.pdf>
+Package pdftex.def Info: Chapter5/Charts/ScatterDiagrams.pdf used on input line
+ 294.
+(pdftex.def)             Requested size: 437.46112pt x 381.9145pt.
+ [123 <./Chapter5/Tables/StabilityCorrelations.pdf>] [124 <./Chapter5/Charts/St
+abilityDistribution.pdf>] [125 <./Chapter5/Figures/StabilityOutliers.pdf>] [126
+ <./Chapter5/Charts/ScatterDiagrams.pdf>]
+<Chapter5/Charts/AverageMetricStability.pdf, id=4573, 367.1316pt x 435.30629pt>
+File: Chapter5/Charts/AverageMetricStability.pdf Graphic file (type pdf)
+<use Chapter5/Charts/AverageMetricStability.pdf>
+Package pdftex.def Info: Chapter5/Charts/AverageMetricStability.pdf used on inp
+ut line 303.
+(pdftex.def)             Requested size: 437.46112pt x 518.6984pt.
+
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 310.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.324  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf, id=4577, 455.30101pt x 
+193.4427pt>
+File: Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf Graphic file (type 
+pdf)
+ <use Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf>
+Package pdftex.def Info: Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf 
+used on input line 325.
+(pdftex.def)             Requested size: 437.46112pt x 185.86816pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 323--328
+ [][] 
+ []
+
+[127] [128 <./Chapter5/Charts/AverageMetricStability.pdf>]
+
+LaTeX Font Warning: Command \large invalid in math mode on input line 332.
+
+[129 <./Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.347  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf, id=4617, 455
+.30101pt x 156.585pt>
+File: Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf Graphic 
+file (type pdf)
+
+<use Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf>
+Package pdftex.def Info: Chapter5/Tables/RandomInterceptsLinearRegressionSingle
+Factor.pdf used on input line 348.
+(pdftex.def)             Requested size: 437.46112pt x 150.45367pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 346--351
+ [][] 
+ []
+
+[130 <./Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf>]
+<Chapter5/Figures/StabilityAnalysis.pdf, id=4636, 469.51411pt x 327.3831pt>
+File: Chapter5/Figures/StabilityAnalysis.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/StabilityAnalysis.pdf>
+Package pdftex.def Info: Chapter5/Figures/StabilityAnalysis.pdf used on input l
+ine 363.
+(pdftex.def)             Requested size: 437.46112pt x 305.03761pt.
+
+<Chapter5/Charts/InterprojectSignificance.pdf, id=4638, 458.19182pt x 204.765pt
+>
+File: Chapter5/Charts/InterprojectSignificance.pdf Graphic file (type pdf)
+ <use Chapter5/Charts/InterprojectSignificance.pdf>
+Package pdftex.def Info: Chapter5/Charts/InterprojectSignificance.pdf used on i
+nput line 373.
+(pdftex.def)             Requested size: 437.46112pt x 195.50046pt.
+ [131] [132 <./Chapter5/Figures/StabilityAnalysis.pdf>]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.382 ... for alternative hypothesis H1,2.1 that ’
+                                                  less stable development te...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.382 ...ity, lower cohesion and lower modularity’
+                                                  .
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.391  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf, id=4690, 455.3
+0101pt x 202.1151pt>
+File: Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf Graphic fi
+le (type pdf)
+
+<use Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf>
+Package pdftex.def Info: Chapter5/Tables/BasicLinearRegressionInterprojectStabi
+lity.pdf used on input line 392.
+(pdftex.def)             Requested size: 437.46112pt x 194.20097pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 390--395
+ [][] 
+ []
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.401  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf, id=4691, 469
+.51411pt x 150.8034pt>
+File: Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf Graphic 
+file (type pdf)
+
+<use Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf>
+Package pdftex.def Info: Chapter5/Tables/RandomInterceptsLinearRegressionInterp
+roject.pdf used on input line 402.
+(pdftex.def)             Requested size: 437.46112pt x 140.51033pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 400--405
+ [][] 
+ []
+
+[133 <./Chapter5/Charts/InterprojectSignificance.pdf>] [134 <./Chapter5/Tables/
+BasicLinearRegressionInterprojectStability.pdf> <./Chapter5/Tables/RandomInterc
+eptsLinearRegressionInterproject.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter5/Tables/RandomInterceptsLinearRegressi
+onInterproject.pdf): PDF inclusion: multiple pdfs with page group included in a
+ single page
+>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.415  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter5/Tables/TeamStabilityPCA.pdf, id=4742, 492.3996pt x 76.84709pt>
+File: Chapter5/Tables/TeamStabilityPCA.pdf Graphic file (type pdf)
+
+<use Chapter5/Tables/TeamStabilityPCA.pdf>
+Package pdftex.def Info: Chapter5/Tables/TeamStabilityPCA.pdf used on input lin
+e 416.
+(pdftex.def)             Requested size: 437.46112pt x 68.27525pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 414--419
+[][] 
+ []
+
+<Chapter5/Charts/TeamStabilityScatter.pdf, id=4743, 466.6233pt x 213.4374pt>
+File: Chapter5/Charts/TeamStabilityScatter.pdf Graphic file (type pdf)
+
+<use Chapter5/Charts/TeamStabilityScatter.pdf>
+Package pdftex.def Info: Chapter5/Charts/TeamStabilityScatter.pdf used on input
+ line 423.
+(pdftex.def)             Requested size: 437.46112pt x 200.11008pt.
+ [135 <./Chapter5/Tables/TeamStabilityPCA.pdf> <./Chapter5/Charts/TeamStability
+Scatter.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter5/Charts/TeamStabilityScatter.pdf): PDF
+ inclusion: multiple pdfs with page group included in a single page
+>]
+
+! Package inputenc Error: Unicode char íoP (U+CC)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.430 ... the basis of a company called Montepío P
+                                                  lus which operates as an o...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+<Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf, id=4767, 469.514
+11pt x 398.4486pt>
+File: Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf Graphic file
+ (type pdf)
+
+<use Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf>
+Package pdftex.def Info: Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalys
+is.pdf used on input line 436.
+(pdftex.def)             Requested size: 437.46112pt x 371.25253pt.
+
+<Chapter5/Charts/TeamStabilityResultsCompare.pdf, id=4768, 466.6233pt x 227.650
+5pt>
+File: Chapter5/Charts/TeamStabilityResultsCompare.pdf Graphic file (type pdf)
+ <use Chapter5/Charts/TeamStabilityResultsCompare.pdf>
+Package pdftex.def Info: Chapter5/Charts/TeamStabilityResultsCompare.pdf used o
+n input line 443.
+(pdftex.def)             Requested size: 437.46112pt x 213.4357pt.
+ [136] [137 <./Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf>]
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.453 ... project, the regression line will have ’
+                                                  further to travel’ along t...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package inputenc Error: Keyboard character used is undefined
+(inputenc)                in inputencoding `utf8'.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.453 ...ession line will have ’further to travel’
+                                                   along the x-axis in order...
+
+You need to provide a definition with \DeclareInputText 
+or \DeclareInputMath before using this key.
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.459  \centering
+                 
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+<Chapter5/Tables/RandomInterceptsSelectedProjects.pdf, id=4795, 455.30101pt x 1
+47.9126pt>
+File: Chapter5/Tables/RandomInterceptsSelectedProjects.pdf Graphic file (type p
+df)
+ <use Chapter5/Tables/RandomInterceptsSelectedProjects.pdf>
+Package pdftex.def Info: Chapter5/Tables/RandomInterceptsSelectedProjects.pdf u
+sed on input line 460.
+(pdftex.def)             Requested size: 437.46112pt x 142.12086pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 458--463
+ [][] 
+ []
+
+<Chapter5/Figures/StabilityExample.pdf, id=4796, 529.25732pt x 739.80388pt>
+File: Chapter5/Figures/StabilityExample.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/StabilityExample.pdf>
+Package pdftex.def Info: Chapter5/Figures/StabilityExample.pdf used on input li
+ne 469.
+(pdftex.def)             Requested size: 437.46112pt x 611.48587pt.
+
+
+LaTeX Warning: Float too large for page by 16.70073pt on input line 472.
+
+[138 <./Chapter5/Charts/TeamStabilityResultsCompare.pdf>] [139 <./Chapter5/Tabl
+es/RandomInterceptsSelectedProjects.pdf>] [140 <./Chapter5/Figures/StabilityExa
+mple.pdf>]
+<Chapter5/Figures/ResultOverview.pdf, id=4875, 580.56903pt x 284.5029pt>
+File: Chapter5/Figures/ResultOverview.pdf Graphic file (type pdf)
+
+<use Chapter5/Figures/ResultOverview.pdf>
+Package pdftex.def Info: Chapter5/Figures/ResultOverview.pdf used on input line
+ 481.
+(pdftex.def)             Requested size: 437.46112pt x 214.3751pt.
+) [141 <./Chapter5/Figures/ResultOverview.pdf>]
+\openout2 = `Chapter6/chapter6.aux'.
+
+ (Chapter6/chapter6.tex [142
+
+
+
+]
+Chapter 6.
+[143]
+<Chapter6/Figures/ChapterOverview.pdf, id=4930, 939.02821pt x 483.72722pt>
+File: Chapter6/Figures/ChapterOverview.pdf Graphic file (type pdf)
+
+<use Chapter6/Figures/ChapterOverview.pdf>
+Package pdftex.def Info: Chapter6/Figures/ChapterOverview.pdf used on input lin
+e 12.
+(pdftex.def)             Requested size: 568.70079pt x 292.96217pt.
+ [144
+
+ <./Chapter6/Figures/ChapterOverview.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.27  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter6/Tables/ObjectiveOutcome.pdf, id=4975, 483.72722pt x 483.72722pt>
+File: Chapter6/Tables/ObjectiveOutcome.pdf Graphic file (type pdf)
+
+<use Chapter6/Tables/ObjectiveOutcome.pdf>
+Package pdftex.def Info: Chapter6/Tables/ObjectiveOutcome.pdf used on input lin
+e 28.
+(pdftex.def)             Requested size: 437.46112pt x 437.46146pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 26--31
+[][] 
+ []
+
+[145
+
+] [146 <./Chapter6/Tables/ObjectiveOutcome.pdf>]
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.42  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter6/Tables/HypothesisResult.pdf, id=5010, 483.72722pt x 142.3719pt>
+File: Chapter6/Tables/HypothesisResult.pdf Graphic file (type pdf)
+
+<use Chapter6/Tables/HypothesisResult.pdf>
+Package pdftex.def Info: Chapter6/Tables/HypothesisResult.pdf used on input lin
+e 43.
+(pdftex.def)             Requested size: 437.46112pt x 128.75482pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 41--46
+[][] 
+ []
+
+
+! Package array Error:  Illegal pream-token (\centering): `c' used.
+
+See the array package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.53  \centering
+                
+Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+<Chapter6/Tables/QuestionAnswer.pdf, id=5012, 483.72722pt x 145.2627pt>
+File: Chapter6/Tables/QuestionAnswer.pdf Graphic file (type pdf)
+
+<use Chapter6/Tables/QuestionAnswer.pdf>
+Package pdftex.def Info: Chapter6/Tables/QuestionAnswer.pdf used on input line 
+54.
+(pdftex.def)             Requested size: 437.46112pt x 131.36913pt.
+
+Overfull \hbox (15.0pt too wide) in paragraph at lines 52--57
+[][] 
+ []
+
+[147 <./Chapter6/Tables/HypothesisResult.pdf> <./Chapter6/Tables/QuestionAnswer
+.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter6/Tables/QuestionAnswer.pdf): PDF inclu
+sion: multiple pdfs with page group included in a single page
+>] [148] [149] [150] [151] [152]
+<Chapter6/Figures/ContrastingSystems.pdf, id=5095, 532.14807pt x 426.8748pt>
+File: Chapter6/Figures/ContrastingSystems.pdf Graphic file (type pdf)
+
+<use Chapter6/Figures/ContrastingSystems.pdf>
+Package pdftex.def Info: Chapter6/Figures/ContrastingSystems.pdf used on input 
+line 121.
+(pdftex.def)             Requested size: 437.46112pt x 350.93195pt.
+ [153] [154 <./Chapter6/Figures/ContrastingSystems.pdf>] [155] [156] [157] [158
+]
+<Chapter6/Figures/ForkingUML.pdf, id=5162, 939.02821pt x 626.0991pt>
+File: Chapter6/Figures/ForkingUML.pdf Graphic file (type pdf)
+
+<use Chapter6/Figures/ForkingUML.pdf>
+Package pdftex.def Info: Chapter6/Figures/ForkingUML.pdf used on input line 168
+.
+(pdftex.def)             Requested size: 393.71233pt x 262.5108pt.
+
+<Chapter6/Figures/ForkedNetworkGraph.pdf, id=5163, 483.72722pt x 321.6015pt>
+File: Chapter6/Figures/ForkedNetworkGraph.pdf Graphic file (type pdf)
+
+<use Chapter6/Figures/ForkedNetworkGraph.pdf>
+Package pdftex.def Info: Chapter6/Figures/ForkedNetworkGraph.pdf used on input 
+line 175.
+(pdftex.def)             Requested size: 349.97023pt x 232.67665pt.
+ [159 <./Chapter6/Figures/ForkingUML.pdf>] [160 <./Chapter6/Figures/ForkedNetwo
+rkGraph.pdf>] [161]
+<Chapter6/Figures/BigData.pdf, id=5236, 455.30101pt x 412.6617pt>
+File: Chapter6/Figures/BigData.pdf Graphic file (type pdf)
+
+<use Chapter6/Figures/BigData.pdf>
+Package pdftex.def Info: Chapter6/Figures/BigData.pdf used on input line 195.
+(pdftex.def)             Requested size: 455.2999pt x 412.66068pt.
+
+Overfull \hbox (17.83878pt too wide) in paragraph at lines 195--196
+ [][] 
+ []
+
+) [162 <./Chapter6/Figures/BigData.pdf>] (thesis.bbl [163
+
+
+] [164] [165]
+Underfull \hbox (badness 10000) in paragraph at lines 322--327
+[]\T1/ptm/m/n/12 (+20) Erickson, C. (2012).  \T1/ptm/m/it/12 (+20) Small Teams 
+Are Dra-mat-i-cally More Ef-fi-
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--327
+\T1/ptm/m/it/12 (+20) cient than Large Teams\T1/ptm/m/n/12 (+20) .  [][]$https 
+: / / spin . atomicobject . com / 2012 / 01 / 11 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 322--327
+\T1/ptm/m/n/12 (+20) small-[]teams-[]are-[]dramatically-[]more-[]ecient-[]than
+-[]large-[]teams/$[][] ac-cessed 2017-03-
+ []
+
+[166]
+! Misplaced alignment tab character &.
+l.405 ...ternational Journal of Computer Science &
+                                                   Engineering
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+[167] [168]
+
+! Package inputenc Error: Unicode char ï¿½ (U+FFFD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.600 \newblock Whatï¿½
+                       s up with software metrics? a preliminary mapping study.
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[169] [170]
+Underfull \hbox (badness 5091) in paragraph at lines 760--766
+[]\T1/ptm/m/n/12 (+20) Miller, J. (2006).  \T1/ptm/m/it/12 (+20) Want pro-duc-t
+iv-ity? Try some team con-ti-nu-ity (and a
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 760--766
+\T1/ptm/m/it/12 (+20) side of em-pow-er-ment too)\T1/ptm/m/n/12 (+20) .  [][]$h
+ttp : / / codebetter . com / jeremymiller / 2006 / 05 / 06 /
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 760--766
+\T1/ptm/m/n/12 (+20) want-[]productivity-[]try-[]some-[]team-[]continuity-[]and
+-[]a-[]side-[]of-[]empowerment-[]too/$[][] ac-
+ []
+
+[171] [172] [173] [174]
+
+! Package inputenc Error: Unicode char ï¿½ (U+FFFD)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1134   productivityï¿½
+                        state-of-the-art and industrial experiences.
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[175]) [176] (thesis.ind)
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 69.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
+ (thesis.aux (Dedication/dedication.aux)
+(Declaration/declaration.aux) (Acknowledgement/acknowledgement.aux)
+(Abstract/abstract.aux) (Publications/publications.aux) (Chapter1/chapter1.aux)
+(Chapter2/chapter2.aux) (Chapter3/chapter3.aux) (Chapter4/chapter4.aux)
+(Chapter5/chapter5.aux) (Chapter6/chapter6.aux))
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 69.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
+Package rerunfilecheck Info: File `thesis.out' has not changed.
+(rerunfilecheck)             Checksum: 434949E84C78AEB9BCF22A39AD1A7254;19964.
+
+
+LaTeX Warning: There were multiply-defined labels.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 27589 strings out of 493333
+ 497702 string characters out of 3139194
+ 541031 words of memory out of 3000000
+ 29693 multiletter control sequences out of 15000+200000
+ 62488 words of font info for 248 fonts, out of 3000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,12n,92p,10385b,1266s stack positions out of 5000i,500n,10000p,200000b,50000s
+{C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
+KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
+/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
+ype1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/publ
+ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/u
+syr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Progr
+am Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2
+.9/fonts/type1/urw/times/utmri8a.pfb>
+Output written on thesis.pdf (200 pages, 14975896 bytes).
+PDF statistics:
+ 5541 PDF objects out of 6186 (max. 8388607)
+ 617 named destinations out of 1000 (max. 500000)
+ 32077 words of extra memory for PDF output out of 35830 (max. 10000000)
+
