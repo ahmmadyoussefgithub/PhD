@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  18 SEP 2018 00:36
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  25 SEP 2018 10:24
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1585,7 +1585,7 @@ LaTeX Font Info:    Font shape `T1/ptm/bx/n' in size <24.88> not available
 \PHD@crest=\box54
 \PHD@collegecrest=\box55
 
-<Figs/CollegeShields/Brunel.jpg, id=411, 213.04594pt x 301.125pt>
+<Figs/CollegeShields/Brunel.jpg, id=415, 213.04594pt x 301.125pt>
 File: Figs/CollegeShields/Brunel.jpg Graphic file (type jpg)
 
 <use Figs/CollegeShields/Brunel.jpg>
@@ -1756,7 +1756,7 @@ You need to provide a definition with \DeclareInputText
 or \DeclareInputMath before using this key.
 
 [4]
-<Chapter1/Figures/PeopleInternalExternal.pdf, id=1007, 682.95152pt x 167.9073pt
+<Chapter1/Figures/PeopleInternalExternal.pdf, id=1012, 682.95152pt x 167.9073pt
 >
 File: Chapter1/Figures/PeopleInternalExternal.pdf Graphic file (type pdf)
  <use Chapter1/Figures/PeopleInternalExternal.pdf>
@@ -1776,7 +1776,7 @@ l.61  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter1/Tables/PriorArtSummary.pdf, id=1050, 426.8748pt x 119.4864pt>
+<Chapter1/Tables/PriorArtSummary.pdf, id=1055, 426.8748pt x 119.4864pt>
 File: Chapter1/Tables/PriorArtSummary.pdf Graphic file (type pdf)
 
 <use Chapter1/Tables/PriorArtSummary.pdf>
@@ -1804,7 +1804,7 @@ l.107  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter1/Tables/ResearchSummary.pdf, id=1121, 426.8748pt x 446.8695pt>
+<Chapter1/Tables/ResearchSummary.pdf, id=1126, 426.8748pt x 446.8695pt>
 File: Chapter1/Tables/ResearchSummary.pdf Graphic file (type pdf)
 
 <use Chapter1/Tables/ResearchSummary.pdf>
@@ -1817,7 +1817,7 @@ Overfull \hbox (4.41263pt too wide) in paragraph at lines 106--111
  []
 
 [11] [12 <./Chapter1/Tables/ResearchSummary.pdf>] [13]
-<Chapter1/Figures/ThesisOverview.pdf, id=1148, 1067.18695pt x 512.1534pt>
+<Chapter1/Figures/ThesisOverview.pdf, id=1153, 1067.18695pt x 512.1534pt>
 File: Chapter1/Figures/ThesisOverview.pdf Graphic file (type pdf)
 
 <use Chapter1/Figures/ThesisOverview.pdf>
@@ -1857,7 +1857,7 @@ Underfull \hbox (badness 10000) in paragraph at lines 138--151
 
 ]
 Chapter 2.
-<Chapter2/Figures/ChapterOverview.pdf, id=1181, 691.38298pt x 432.41548pt>
+<Chapter2/Figures/ChapterOverview.pdf, id=1186, 691.38298pt x 432.41548pt>
 File: Chapter2/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter2/Figures/ChapterOverview.pdf>
@@ -1880,7 +1880,7 @@ l.52  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter2/Tables/CKMetricSuite.pdf, id=1383, 426.8748pt x 312.92911pt>
+<Chapter2/Tables/CKMetricSuite.pdf, id=1388, 426.8748pt x 312.92911pt>
 File: Chapter2/Tables/CKMetricSuite.pdf Graphic file (type pdf)
 
 <use Chapter2/Tables/CKMetricSuite.pdf>
@@ -1905,7 +1905,7 @@ l.64  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter2/Tables/Rosenberg.pdf, id=1423, 426.8748pt x 147.9126pt>
+<Chapter2/Tables/Rosenberg.pdf, id=1428, 426.8748pt x 147.9126pt>
 File: Chapter2/Tables/Rosenberg.pdf Graphic file (type pdf)
 
 <use Chapter2/Tables/Rosenberg.pdf>
@@ -1929,7 +1929,7 @@ l.82  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter2/Tables/FaultModels.pdf, id=1481, 483.72722pt x 500.83109pt>
+<Chapter2/Tables/FaultModels.pdf, id=1486, 483.72722pt x 500.83109pt>
 File: Chapter2/Tables/FaultModels.pdf Graphic file (type pdf)
 
 <use Chapter2/Tables/FaultModels.pdf>
@@ -1955,7 +1955,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter2/Tables/BoehmUnderstandabilityModel.pdf, id=1561, 515.04419pt x 290.28
+<Chapter2/Tables/BoehmUnderstandabilityModel.pdf, id=1566, 515.04419pt x 290.28
 452pt>
 File: Chapter2/Tables/BoehmUnderstandabilityModel.pdf Graphic file (type pdf)
  <use Chapter2/Tables/BoehmUnderstandabilityModel.pdf>
@@ -1980,7 +1980,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter2/Tables/MaintainabilitySubatrributes.pdf, id=1566, 415.5525pt x 136.59
+<Chapter2/Tables/MaintainabilitySubatrributes.pdf, id=1571, 415.5525pt x 136.59
 03pt>
 File: Chapter2/Tables/MaintainabilitySubatrributes.pdf Graphic file (type pdf)
  <use Chapter2/Tables/MaintainabilitySubatrributes.pdf>
@@ -2001,7 +2001,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter2/Tables/MaintainabilityModels.pdf, id=1567, 475.29568pt x 512.1534pt>
+<Chapter2/Tables/MaintainabilityModels.pdf, id=1572, 475.29568pt x 512.1534pt>
 File: Chapter2/Tables/MaintainabilityModels.pdf Graphic file (type pdf)
 
 <use Chapter2/Tables/MaintainabilityModels.pdf>
@@ -2017,14 +2017,31 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 130--135
 /MaintainabilitySubatrributes.pdf>] [30 <./Chapter2/Tables/MaintainabilityModel
 s.pdf>]
 
-! LaTeX Error: There's no line here to end.
+! Package inputenc Error: Unicode char éni (U+E0)
+(inputenc)                not set up for use with LaTeX.
 
-See the LaTeX manual or LaTeX Companion for explanation.
+See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.148 \newline
-              
+l.145 Eilhard and Méni
+                      ère conducted an empirical study of 10,533 projects on...
+
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! Package inputenc Error: Unicode char ère (U+DF)
+(inputenc)                not set up for use with LaTeX.
+
+See the inputenc package documentation for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.145 Eilhard and Ménière
+                          conducted an empirical study of 10,533 projects on...
+
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
@@ -2043,28 +2060,42 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[32]) [33]
+[32]
+
+! LaTeX Error: There's no line here to end.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.164 \newline
+              
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+[33] [34]) [35]
 \openout2 = `Chapter3/chapter3.aux'.
 
- (Chapter3/chapter3.tex [34
+ (Chapter3/chapter3.tex [36
 
 
 
 ]
 Chapter 3.
-[35]
-<Chapter3/Figures/ChapterOverview.pdf, id=1720, 682.95152pt x 463.85295pt>
+[37]
+<Chapter3/Figures/ChapterOverview.pdf, id=1762, 682.95152pt x 463.85295pt>
 File: Chapter3/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/ChapterOverview.pdf>
 Package pdftex.def Info: Chapter3/Figures/ChapterOverview.pdf used on input lin
 e 14.
 (pdftex.def)             Requested size: 481.2099pt x 326.83235pt.
- [36
+ [38
 
- <./Chapter3/Figures/ChapterOverview.pdf>] [37
+ <./Chapter3/Figures/ChapterOverview.pdf>] [39
 
-] [38]
+] [40]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2077,15 +2108,15 @@ l.50  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter3/Tables/LanguagePopularity.pdf, id=1844, 278.96222pt x 238.97281pt>
+<Chapter3/Tables/LanguagePopularity.pdf, id=1885, 278.96222pt x 238.97281pt>
 File: Chapter3/Tables/LanguagePopularity.pdf Graphic file (type pdf)
 
 <use Chapter3/Tables/LanguagePopularity.pdf>
 Package pdftex.def Info: Chapter3/Tables/LanguagePopularity.pdf used on input l
 ine 51.
 (pdftex.def)             Requested size: 278.96153pt x 238.97221pt.
- [39] [40 <./Chapter3/Tables/LanguagePopularity.pdf>]
-<Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf, id=1885, 469.51411pt x 2
+ [41] [42 <./Chapter3/Tables/LanguagePopularity.pdf>]
+<Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf, id=1926, 469.51411pt x 2
 27.6505pt>
 File: Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf Graphic file (type p
 df)
@@ -2093,15 +2124,15 @@ df)
 Package pdftex.def Info: Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf u
 sed on input line 70.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [41]
-<Chapter3/Charts/ProjectCreationHistogram.pdf, id=1896, 469.51411pt x 227.6505p
+ [43]
+<Chapter3/Charts/ProjectCreationHistogram.pdf, id=1938, 469.51411pt x 227.6505p
 t>
 File: Chapter3/Charts/ProjectCreationHistogram.pdf Graphic file (type pdf)
  <use Chapter3/Charts/ProjectCreationHistogram.pdf>
 Package pdftex.def Info: Chapter3/Charts/ProjectCreationHistogram.pdf used on i
 nput line 81.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [42 <./Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf>] [43 <./Chapter3/
+ [44 <./Chapter3/Charts/HistoricGoogleCodeActivityLevels.pdf>] [45 <./Chapter3/
 Charts/ProjectCreationHistogram.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
@@ -2115,7 +2146,7 @@ l.108  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter3/Tables/VCSMiningToolSummary.pdf, id=1939, 455.30101pt x 327.3831pt>
+<Chapter3/Tables/VCSMiningToolSummary.pdf, id=1980, 455.30101pt x 327.3831pt>
 File: Chapter3/Tables/VCSMiningToolSummary.pdf Graphic file (type pdf)
 
 <use Chapter3/Tables/VCSMiningToolSummary.pdf>
@@ -2127,15 +2158,15 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 107--112
  [][] 
  []
 
-[44 <./Chapter3/Tables/VCSMiningToolSummary.pdf>]
-<Chapter3/Figures/Toolchain.pdf, id=1965, 739.92432pt x 540.70004pt>
+[46 <./Chapter3/Tables/VCSMiningToolSummary.pdf>]
+<Chapter3/Figures/Toolchain.pdf, id=2006, 739.92432pt x 540.70004pt>
 File: Chapter3/Figures/Toolchain.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/Toolchain.pdf>
 Package pdftex.def Info: Chapter3/Figures/Toolchain.pdf used on input line 129.
 
 (pdftex.def)             Requested size: 437.46112pt x 319.67854pt.
- [45] [46 <./Chapter3/Figures/Toolchain.pdf>]
+ [47] [48 <./Chapter3/Figures/Toolchain.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2149,7 +2180,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter3/Tables/MetricMiningToolSummary.pdf, id=2028, 469.51411pt x 341.35529p
+<Chapter3/Tables/MetricMiningToolSummary.pdf, id=2069, 469.51411pt x 341.35529p
 t>
 File: Chapter3/Tables/MetricMiningToolSummary.pdf Graphic file (type pdf)
  <use Chapter3/Tables/MetricMiningToolSummary.pdf>
@@ -2173,7 +2204,7 @@ l.159  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter3/Tables/Understand.pdf, id=2029, 455.30101pt x 199.22429pt>
+<Chapter3/Tables/Understand.pdf, id=2070, 455.30101pt x 199.22429pt>
 File: Chapter3/Tables/Understand.pdf Graphic file (type pdf)
 
 <use Chapter3/Tables/Understand.pdf>
@@ -2185,25 +2216,25 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 158--163
  [][] 
  []
 
-[47] [48 <./Chapter3/Tables/MetricMiningToolSummary.pdf> <./Chapter3/Tables/Und
+[49] [50 <./Chapter3/Tables/MetricMiningToolSummary.pdf> <./Chapter3/Tables/Und
 erstand.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter3/Tables/Understand.pdf): PDF inclusion
 : multiple pdfs with page group included in a single page
->] <Chapter3/Figures/Schema.pdf, id=2075, 625.97867pt x 469.51411pt>
+>] <Chapter3/Figures/Schema.pdf, id=2117, 625.97867pt x 469.51411pt>
 File: Chapter3/Figures/Schema.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/Schema.pdf>
 Package pdftex.def Info: Chapter3/Figures/Schema.pdf used on input line 169.
 (pdftex.def)             Requested size: 437.46112pt x 328.12033pt.
- [49 <./Chapter3/Figures/Schema.pdf>]
-<Chapter3/Figures/Analysis.pdf, id=2113, 739.80388pt x 520.8258pt>
+ [51 <./Chapter3/Figures/Schema.pdf>]
+<Chapter3/Figures/Analysis.pdf, id=2154, 739.80388pt x 520.8258pt>
 File: Chapter3/Figures/Analysis.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/Analysis.pdf>
 Package pdftex.def Info: Chapter3/Figures/Analysis.pdf used on input line 186.
 (pdftex.def)             Requested size: 437.46112pt x 307.97595pt.
- [50] [51 <./Chapter3/Figures/Analysis.pdf>] [52] [53] [54] [55] [56]
+ [52] [53 <./Chapter3/Figures/Analysis.pdf>] [54] [55] [56] [57] [58]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2216,7 +2247,7 @@ l.253  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter3/Tables/MetricSuites.pdf, id=2275, 455.30101pt x 341.35529pt>
+<Chapter3/Tables/MetricSuites.pdf, id=2316, 455.30101pt x 341.35529pt>
 File: Chapter3/Tables/MetricSuites.pdf Graphic file (type pdf)
 
 <use Chapter3/Tables/MetricSuites.pdf>
@@ -2228,37 +2259,37 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 252--257
  [][] 
  []
 
-) [57] [58 <./Chapter3/Tables/MetricSuites.pdf>]
+) [59] [60 <./Chapter3/Tables/MetricSuites.pdf>]
 \openout2 = `Chapter4/chapter4.aux'.
 
  (Chapter4/chapter4.tex
 Chapter 4.
-[59
+[61
 
 
 
-] [60]
-<Chapter4/Figures/ChapterOverview.pdf, id=2318, 1124.03937pt x 515.04419pt>
+] [62]
+<Chapter4/Figures/ChapterOverview.pdf, id=2360, 1124.03937pt x 515.04419pt>
 File: Chapter4/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/ChapterOverview.pdf>
 Package pdftex.def Info: Chapter4/Figures/ChapterOverview.pdf used on input lin
 e 15.
 (pdftex.def)             Requested size: 612.44289pt x 280.63458pt.
- [61
+ [63
 
  <./Chapter4/Figures/ChapterOverview.pdf>]
-<Chapter4/Figures/MiningToolchain.pdf, id=2363, 586.23013pt x 284.62335pt>
+<Chapter4/Figures/MiningToolchain.pdf, id=2404, 586.23013pt x 284.62335pt>
 File: Chapter4/Figures/MiningToolchain.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/MiningToolchain.pdf>
 Package pdftex.def Info: Chapter4/Figures/MiningToolchain.pdf used on input lin
 e 23.
 (pdftex.def)             Requested size: 437.46112pt x 212.39426pt.
- [62
+ [64
 
- <./Chapter4/Figures/MiningToolchain.pdf>] [63]
-<Chapter4/Figures/ProjectCategorisation.pdf, id=2424, 469.51411pt x 227.6505pt>
+ <./Chapter4/Figures/MiningToolchain.pdf>] [65]
+<Chapter4/Figures/ProjectCategorisation.pdf, id=2465, 469.51411pt x 227.6505pt>
 File: Chapter4/Figures/ProjectCategorisation.pdf Graphic file (type pdf)
 <use Chapter4/Figures/ProjectCategorisation.pdf>
 Package pdftex.def Info: Chapter4/Figures/ProjectCategorisation.pdf used on inp
@@ -2277,14 +2308,14 @@ l.54  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/GoogleCodeLanguage.pdf, id=2425, 216.3282pt x 108.16411pt>
+<Chapter4/Tables/GoogleCodeLanguage.pdf, id=2466, 216.3282pt x 108.16411pt>
 File: Chapter4/Tables/GoogleCodeLanguage.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/GoogleCodeLanguage.pdf>
 Package pdftex.def Info: Chapter4/Tables/GoogleCodeLanguage.pdf used on input l
 ine 55.
 (pdftex.def)             Requested size: 216.32767pt x 108.16383pt.
- [64 <./Chapter4/Tables/GoogleCodeLanguage.pdf> <./Chapter4/Figures/ProjectCate
+ [66 <./Chapter4/Tables/GoogleCodeLanguage.pdf> <./Chapter4/Figures/ProjectCate
 gorisation.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Figures/ProjectCategorisation.pdf): P
@@ -2302,22 +2333,22 @@ l.68  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/GoogleCodeVCS.pdf, id=2453, 216.3282pt x 91.0602pt>
+<Chapter4/Tables/GoogleCodeVCS.pdf, id=2494, 216.3282pt x 91.0602pt>
 File: Chapter4/Tables/GoogleCodeVCS.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/GoogleCodeVCS.pdf>
 Package pdftex.def Info: Chapter4/Tables/GoogleCodeVCS.pdf used on input line 6
 9.
 (pdftex.def)             Requested size: 216.32767pt x 91.05997pt.
- [65 <./Chapter4/Tables/GoogleCodeVCS.pdf>]
-<Chapter4/Figures/AnalysisDataSets.pdf, id=2470, 711.37767pt x 256.07669pt>
+ [67 <./Chapter4/Tables/GoogleCodeVCS.pdf>]
+<Chapter4/Figures/AnalysisDataSets.pdf, id=2512, 711.37767pt x 256.07669pt>
 File: Chapter4/Figures/AnalysisDataSets.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/AnalysisDataSets.pdf>
 Package pdftex.def Info: Chapter4/Figures/AnalysisDataSets.pdf used on input li
 ne 80.
 (pdftex.def)             Requested size: 437.46112pt x 157.47255pt.
- [66 <./Chapter4/Figures/AnalysisDataSets.pdf>]
+ [68 <./Chapter4/Figures/AnalysisDataSets.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2330,7 +2361,7 @@ l.95  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/GoogleCodeExtensions.pdf, id=2524, 216.3282pt x 105.2733pt>
+<Chapter4/Tables/GoogleCodeExtensions.pdf, id=2566, 216.3282pt x 105.2733pt>
 File: Chapter4/Tables/GoogleCodeExtensions.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/GoogleCodeExtensions.pdf>
@@ -2338,7 +2369,7 @@ Package pdftex.def Info: Chapter4/Tables/GoogleCodeExtensions.pdf used on input
  line 96.
 (pdftex.def)             Requested size: 216.32767pt x 105.27304pt.
 
-<Chapter4/Charts/CumulativeCommitterCount.pdf, id=2527, 461.08258pt x 227.6505p
+<Chapter4/Charts/CumulativeCommitterCount.pdf, id=2569, 461.08258pt x 227.6505p
 t>
 File: Chapter4/Charts/CumulativeCommitterCount.pdf Graphic file (type pdf)
  <use Chapter4/Charts/CumulativeCommitterCount.pdf>
@@ -2358,20 +2389,20 @@ l.114  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/SampleTeamSizes.pdf, id=2528, 216.3282pt x 125.268pt>
+<Chapter4/Tables/SampleTeamSizes.pdf, id=2570, 216.3282pt x 125.268pt>
 File: Chapter4/Tables/SampleTeamSizes.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/SampleTeamSizes.pdf>
 Package pdftex.def Info: Chapter4/Tables/SampleTeamSizes.pdf used on input line
  115.
 (pdftex.def)             Requested size: 216.32767pt x 125.26768pt.
- [67 <./Chapter4/Tables/GoogleCodeExtensions.pdf> <./Chapter4/Tables/SampleTeam
+ [69 <./Chapter4/Tables/GoogleCodeExtensions.pdf> <./Chapter4/Tables/SampleTeam
 Sizes.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/SampleTeamSizes.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
 >]
-<Chapter4/Charts/CommitCountBarChart.pdf, id=2552, 469.51411pt x 227.6505pt>
+<Chapter4/Charts/CommitCountBarChart.pdf, id=2593, 469.51411pt x 227.6505pt>
 File: Chapter4/Charts/CommitCountBarChart.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/CommitCountBarChart.pdf>
@@ -2379,19 +2410,19 @@ Package pdftex.def Info: Chapter4/Charts/CommitCountBarChart.pdf used on input
 line 124.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
 
-<Chapter4/Figures/AffectedFiles.pdf, id=2554, 461.08258pt x 227.6505pt>
+<Chapter4/Figures/AffectedFiles.pdf, id=2595, 461.08258pt x 227.6505pt>
 File: Chapter4/Figures/AffectedFiles.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/AffectedFiles.pdf>
 Package pdftex.def Info: Chapter4/Figures/AffectedFiles.pdf used on input line 
 133.
 (pdftex.def)             Requested size: 437.46112pt x 215.99579pt.
- [68 <./Chapter4/Charts/CumulativeCommitterCount.pdf>] [69 <./Chapter4/Charts/C
+ [70 <./Chapter4/Charts/CumulativeCommitterCount.pdf>] [71 <./Chapter4/Charts/C
 ommitCountBarChart.pdf> <./Chapter4/Figures/AffectedFiles.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Figures/AffectedFiles.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
->] [70] <Chapter4/Charts/Distributions.pdf, id=2628, 953.24129pt x 904.8204pt>
+>] [72] <Chapter4/Charts/Distributions.pdf, id=2669, 953.24129pt x 904.8204pt>
 File: Chapter4/Charts/Distributions.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/Distributions.pdf>
@@ -2411,7 +2442,7 @@ l.156  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/KSTest.pdf, id=2629, 406.88008pt x 68.4156pt>
+<Chapter4/Tables/KSTest.pdf, id=2670, 406.88008pt x 68.4156pt>
 File: Chapter4/Tables/KSTest.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/KSTest.pdf>
@@ -2431,7 +2462,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/MetricCorrelationsSlim.pdf, id=2630, 461.08258pt x 202.1151pt>
+<Chapter4/Tables/MetricCorrelationsSlim.pdf, id=2671, 461.08258pt x 202.1151pt>
 File: Chapter4/Tables/MetricCorrelationsSlim.pdf Graphic file (type pdf)
 <use Chapter4/Tables/MetricCorrelationsSlim.pdf>
 Package pdftex.def Info: Chapter4/Tables/MetricCorrelationsSlim.pdf used on inp
@@ -2442,12 +2473,12 @@ Overfull \hbox (38.62033pt too wide) in paragraph at lines 165--170
  [][] 
  []
 
-[71 <./Chapter4/Charts/Distributions.pdf>] [72 <./Chapter4/Tables/KSTest.pdf> <
+[73 <./Chapter4/Charts/Distributions.pdf>] [74 <./Chapter4/Tables/KSTest.pdf> <
 ./Chapter4/Tables/MetricCorrelationsSlim.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/MetricCorrelationsSlim.pdf): P
 DF inclusion: multiple pdfs with page group included in a single page
->] <Chapter4/Figures/TimeSizeExample.pdf, id=2679, 515.04419pt x 312.92911pt>
+>] <Chapter4/Figures/TimeSizeExample.pdf, id=2721, 515.04419pt x 312.92911pt>
 File: Chapter4/Figures/TimeSizeExample.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/TimeSizeExample.pdf>
@@ -2455,20 +2486,20 @@ Package pdftex.def Info: Chapter4/Figures/TimeSizeExample.pdf used on input lin
 e 185.
 (pdftex.def)             Requested size: 437.46112pt x 265.79521pt.
 
-<Chapter4/Charts/CommitterCommitCount.pdf, id=2680, 461.08258pt x 227.6505pt>
+<Chapter4/Charts/CommitterCommitCount.pdf, id=2722, 461.08258pt x 227.6505pt>
 File: Chapter4/Charts/CommitterCommitCount.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/CommitterCommitCount.pdf>
 Package pdftex.def Info: Chapter4/Charts/CommitterCommitCount.pdf used on input
  line 192.
 (pdftex.def)             Requested size: 437.46112pt x 215.99579pt.
- [73] [74 <./Chapter4/Figures/TimeSizeExample.pdf> <./Chapter4/Charts/Committer
+ [75] [76 <./Chapter4/Figures/TimeSizeExample.pdf> <./Chapter4/Charts/Committer
 CommitCount.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Charts/CommitterCommitCount.pdf): PDF
  inclusion: multiple pdfs with page group included in a single page
 >]
-<Chapter4/Figures/BasicAnalysisMetricMining.pdf, id=2746, 284.62335pt x 185.011
+<Chapter4/Figures/BasicAnalysisMetricMining.pdf, id=2787, 284.62335pt x 185.011
 2pt>
 File: Chapter4/Figures/BasicAnalysisMetricMining.pdf Graphic file (type pdf)
  <use Chapter4/Figures/BasicAnalysisMetricMining.pdf>
@@ -2476,14 +2507,14 @@ Package pdftex.def Info: Chapter4/Figures/BasicAnalysisMetricMining.pdf used on
  input line 202.
 (pdftex.def)             Requested size: 306.22144pt x 199.06947pt.
 
-<Chapter4/Figures/BasicBucketingStrategy.pdf, id=2748, 512.27383pt x 136.5903pt
+<Chapter4/Figures/BasicBucketingStrategy.pdf, id=2789, 512.27383pt x 136.5903pt
 >
 File: Chapter4/Figures/BasicBucketingStrategy.pdf Graphic file (type pdf)
  <use Chapter4/Figures/BasicBucketingStrategy.pdf>
 Package pdftex.def Info: Chapter4/Figures/BasicBucketingStrategy.pdf used on in
 put line 211.
 (pdftex.def)             Requested size: 437.46112pt x 116.64626pt.
- [75 <./Chapter4/Figures/BasicAnalysisMetricMining.pdf> <./Chapter4/Figures/Bas
+ [77 <./Chapter4/Figures/BasicAnalysisMetricMining.pdf> <./Chapter4/Figures/Bas
 icBucketingStrategy.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Figures/BasicBucketingStrategy.pdf): 
@@ -2502,7 +2533,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/MetricsComparisionStrategyTabular.pdf, id=2808, 364.2408pt x 1
+<Chapter4/Tables/MetricsComparisionStrategyTabular.pdf, id=2849, 364.2408pt x 1
 28.1588pt>
 File: Chapter4/Tables/MetricsComparisionStrategyTabular.pdf Graphic file (type 
 pdf)
@@ -2515,7 +2546,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 221--226
  [][] 
  []
 
-[76 <./Chapter4/Tables/MetricsComparisionStrategyTabular.pdf>]
+[78 <./Chapter4/Tables/MetricsComparisionStrategyTabular.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2529,7 +2560,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/BasicResultsSignificance.pdf, id=2832, 529.25732pt x 173.68889
+<Chapter4/Tables/BasicResultsSignificance.pdf, id=2873, 529.25732pt x 173.68889
 pt>
 File: Chapter4/Tables/BasicResultsSignificance.pdf Graphic file (type pdf)
  <use Chapter4/Tables/BasicResultsSignificance.pdf>
@@ -2553,7 +2584,7 @@ l.253  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/BasicResultsAverages.pdf, id=2833, 466.6233pt x 122.3772pt>
+<Chapter4/Tables/BasicResultsAverages.pdf, id=2874, 466.6233pt x 122.3772pt>
 File: Chapter4/Tables/BasicResultsAverages.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/BasicResultsAverages.pdf>
@@ -2565,7 +2596,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 252--257
  [][] 
  []
 
-[77 <./Chapter4/Tables/BasicResultsSignificance.pdf>]
+[79 <./Chapter4/Tables/BasicResultsSignificance.pdf>]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -2579,7 +2610,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[78 <./Chapter4/Tables/BasicResultsAverages.pdf>]
+[80 <./Chapter4/Tables/BasicResultsAverages.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2592,7 +2623,7 @@ l.273  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/LOCCorrelations.pdf, id=2966, 461.08258pt x 99.7326pt>
+<Chapter4/Tables/LOCCorrelations.pdf, id=3008, 461.08258pt x 99.7326pt>
 File: Chapter4/Tables/LOCCorrelations.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/LOCCorrelations.pdf>
@@ -2604,7 +2635,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 272--277
  [][] 
  []
 
-<Chapter4/Charts/AllMetricsAgainstLOC.pdf, id=2967, 409.77089pt x 446.8695pt>
+<Chapter4/Charts/AllMetricsAgainstLOC.pdf, id=3009, 409.77089pt x 446.8695pt>
 File: Chapter4/Charts/AllMetricsAgainstLOC.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/AllMetricsAgainstLOC.pdf>
@@ -2625,14 +2656,14 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<Chapter4/Figures/PreciseRevisionLogs.pdf, id=2971, 458.19182pt x 79.7379pt>
+<Chapter4/Figures/PreciseRevisionLogs.pdf, id=3013, 458.19182pt x 79.7379pt>
 File: Chapter4/Figures/PreciseRevisionLogs.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/PreciseRevisionLogs.pdf>
 Package pdftex.def Info: Chapter4/Figures/PreciseRevisionLogs.pdf used on input
  line 293.
 (pdftex.def)             Requested size: 437.46112pt x 76.13017pt.
- [79 <./Chapter4/Tables/LOCCorrelations.pdf>] [80 <./Chapter4/Charts/AllMetrics
+ [81 <./Chapter4/Tables/LOCCorrelations.pdf>] [82 <./Chapter4/Charts/AllMetrics
 AgainstLOC.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
@@ -2646,7 +2677,7 @@ l.308  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/RevisionCorrelations.pdf, id=3005, 461.08258pt x 99.7326pt>
+<Chapter4/Tables/RevisionCorrelations.pdf, id=3046, 461.08258pt x 99.7326pt>
 File: Chapter4/Tables/RevisionCorrelations.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/RevisionCorrelations.pdf>
@@ -2658,13 +2689,13 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 307--312
  [][] 
  []
 
-[81 <./Chapter4/Figures/PreciseRevisionLogs.pdf> <./Chapter4/Tables/RevisionCor
+[83 <./Chapter4/Figures/PreciseRevisionLogs.pdf> <./Chapter4/Tables/RevisionCor
 relations.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/RevisionCorrelations.pdf): PDF
  inclusion: multiple pdfs with page group included in a single page
 >]
-<Chapter4/Charts/RevisionsCommitters.pdf, id=3033, 469.51411pt x 227.6505pt>
+<Chapter4/Charts/RevisionsCommitters.pdf, id=3074, 469.51411pt x 227.6505pt>
 File: Chapter4/Charts/RevisionsCommitters.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/RevisionsCommitters.pdf>
@@ -2672,7 +2703,7 @@ Package pdftex.def Info: Chapter4/Charts/RevisionsCommitters.pdf used on input
 line 318.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
 
-<Chapter4/Charts/MetricsRevisions.pdf, id=3034, 469.51411pt x 446.8695pt>
+<Chapter4/Charts/MetricsRevisions.pdf, id=3075, 469.51411pt x 446.8695pt>
 File: Chapter4/Charts/MetricsRevisions.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/MetricsRevisions.pdf>
@@ -2680,7 +2711,7 @@ Package pdftex.def Info: Chapter4/Charts/MetricsRevisions.pdf used on input lin
 e 325.
 (pdftex.def)             Requested size: 437.46112pt x 416.36848pt.
 
-<Chapter4/Figures/AdvancedAnalysisMetricMining.pdf, id=3037, 284.62335pt x 173.
+<Chapter4/Figures/AdvancedAnalysisMetricMining.pdf, id=3078, 284.62335pt x 173.
 56845pt>
 File: Chapter4/Figures/AdvancedAnalysisMetricMining.pdf Graphic file (type pdf)
 
@@ -2688,9 +2719,9 @@ File: Chapter4/Figures/AdvancedAnalysisMetricMining.pdf Graphic file (type pdf)
 Package pdftex.def Info: Chapter4/Figures/AdvancedAnalysisMetricMining.pdf used
  on input line 337.
 (pdftex.def)             Requested size: 306.22144pt x 186.75722pt.
- [82 <./Chapter4/Charts/RevisionsCommitters.pdf>] [83 <./Chapter4/Charts/Metric
+ [84 <./Chapter4/Charts/RevisionsCommitters.pdf>] [85 <./Chapter4/Charts/Metric
 sRevisions.pdf>]
-<Chapter4/Figures/AdvancedBucketingStrategy.pdf, id=3070, 446.74904pt x 256.076
+<Chapter4/Figures/AdvancedBucketingStrategy.pdf, id=3112, 446.74904pt x 256.076
 69pt>
 File: Chapter4/Figures/AdvancedBucketingStrategy.pdf Graphic file (type pdf)
  <use Chapter4/Figures/AdvancedBucketingStrategy.pdf>
@@ -2725,7 +2756,7 @@ misspelled it (e.g., `\hobx'), type `I' and the correct
 spelling (e.g., `I\hbox'). Otherwise just continue,
 and I'll forget about whatever was undefined.
 
-[84 <./Chapter4/Figures/AdvancedAnalysisMetricMining.pdf>]
+[86 <./Chapter4/Figures/AdvancedAnalysisMetricMining.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2738,7 +2769,7 @@ l.359  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/BucketPopulations.pdf, id=3100, 483.72722pt x 150.8034pt>
+<Chapter4/Tables/BucketPopulations.pdf, id=3142, 483.72722pt x 150.8034pt>
 File: Chapter4/Tables/BucketPopulations.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/BucketPopulations.pdf>
@@ -2751,19 +2782,19 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 358--363
  []
 
 
-<Chapter4/Figures/MetricsPopulationRevisions.pdf, id=3101, 469.51411pt x 227.65
+<Chapter4/Figures/MetricsPopulationRevisions.pdf, id=3143, 469.51411pt x 227.65
 05pt>
 File: Chapter4/Figures/MetricsPopulationRevisions.pdf Graphic file (type pdf)
  <use Chapter4/Figures/MetricsPopulationRevisions.pdf>
 Package pdftex.def Info: Chapter4/Figures/MetricsPopulationRevisions.pdf used o
 n input line 367.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [85 <./Chapter4/Figures/AdvancedBucketingStrategy.pdf> <./Chapter4/Tables/Buck
+ [87 <./Chapter4/Figures/AdvancedBucketingStrategy.pdf> <./Chapter4/Tables/Buck
 etPopulations.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/BucketPopulations.pdf): PDF in
 clusion: multiple pdfs with page group included in a single page
->] [86 <./Chapter4/Figures/MetricsPopulationRevisions.pdf>]
+>] [88 <./Chapter4/Figures/MetricsPopulationRevisions.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2777,7 +2808,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/ComplexResultsBucketComparisions.pdf, id=3164, 455.30101pt x 6
+<Chapter4/Tables/ComplexResultsBucketComparisions.pdf, id=3205, 455.30101pt x 6
 91.38298pt>
 File: Chapter4/Tables/ComplexResultsBucketComparisions.pdf Graphic file (type p
 df)
@@ -2806,7 +2837,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/ComplexResultsBucketAverages.pdf, id=3165, 452.4102pt x 256.07
+<Chapter4/Tables/ComplexResultsBucketAverages.pdf, id=3206, 452.4102pt x 256.07
 669pt>
 File: Chapter4/Tables/ComplexResultsBucketAverages.pdf Graphic file (type pdf)
  <use Chapter4/Tables/ComplexResultsBucketAverages.pdf>
@@ -2834,7 +2865,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/BasicLinearRegression.pdf, id=3169, 455.30101pt x 261.8583pt>
+<Chapter4/Tables/BasicLinearRegression.pdf, id=3210, 455.30101pt x 261.8583pt>
 File: Chapter4/Tables/BasicLinearRegression.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/BasicLinearRegression.pdf>
@@ -2846,17 +2877,17 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 417--422
  [][] 
  []
 
-[87] [88 <./Chapter4/Tables/ComplexResultsBucketComparisions.pdf>] [89 <./Chapt
+[89] [90 <./Chapter4/Tables/ComplexResultsBucketComparisions.pdf>] [91 <./Chapt
 er4/Tables/ComplexResultsBucketAverages.pdf> <./Chapter4/Tables/BasicLinearRegr
 ession.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/BasicLinearRegression.pdf): PD
 F inclusion: multiple pdfs with page group included in a single page
->] [90] [91]
+>] [92] [93]
 
 LaTeX Font Warning: Command \large invalid in math mode on input line 460.
 
-[92]
+[94]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2870,7 +2901,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/RandomInterceptsLinearRegression.pdf, id=3723, 455.30101pt x 1
+<Chapter4/Tables/RandomInterceptsLinearRegression.pdf, id=3764, 455.30101pt x 1
 67.9073pt>
 File: Chapter4/Tables/RandomInterceptsLinearRegression.pdf Graphic file (type p
 df)
@@ -2883,7 +2914,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 478--483
  [][] 
  []
 
-[93 <./Chapter4/Tables/RandomInterceptsLinearRegression.pdf>]
+[95 <./Chapter4/Tables/RandomInterceptsLinearRegression.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2896,7 +2927,7 @@ l.497  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/TeamSizePCA.pdf, id=3752, 483.72722pt x 76.84709pt>
+<Chapter4/Tables/TeamSizePCA.pdf, id=3793, 483.72722pt x 76.84709pt>
 File: Chapter4/Tables/TeamSizePCA.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/TeamSizePCA.pdf>
@@ -2908,16 +2939,16 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 496--501
 [][] 
  []
 
-<Chapter4/Charts/TeamSizeScatter.pdf, id=3754, 466.6233pt x 213.4374pt>
+<Chapter4/Charts/TeamSizeScatter.pdf, id=3795, 466.6233pt x 213.4374pt>
 File: Chapter4/Charts/TeamSizeScatter.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/TeamSizeScatter.pdf>
 Package pdftex.def Info: Chapter4/Charts/TeamSizeScatter.pdf used on input line
  507.
 (pdftex.def)             Requested size: 437.46112pt x 200.11008pt.
- [94 <./Chapter4/Tables/TeamSizePCA.pdf>] [95 <./Chapter4/Charts/TeamSizeScatte
+ [96 <./Chapter4/Tables/TeamSizePCA.pdf>] [97 <./Chapter4/Charts/TeamSizeScatte
 r.pdf>]
-<Chapter4/Charts/PreciseCommitterAnalysis.pdf, id=3786, 469.51411pt x 196.33351
+<Chapter4/Charts/PreciseCommitterAnalysis.pdf, id=3828, 469.51411pt x 196.33351
 pt>
 File: Chapter4/Charts/PreciseCommitterAnalysis.pdf Graphic file (type pdf)
  <use Chapter4/Charts/PreciseCommitterAnalysis.pdf>
@@ -2925,15 +2956,15 @@ Package pdftex.def Info: Chapter4/Charts/PreciseCommitterAnalysis.pdf used on i
 nput line 521.
 (pdftex.def)             Requested size: 437.46112pt x 182.93279pt.
 
-<Chapter4/Charts/TeamSizesResultsCompare.pdf, id=3787, 466.6233pt x 483.72722pt
+<Chapter4/Charts/TeamSizesResultsCompare.pdf, id=3829, 466.6233pt x 483.72722pt
 >
 File: Chapter4/Charts/TeamSizesResultsCompare.pdf Graphic file (type pdf)
  <use Chapter4/Charts/TeamSizesResultsCompare.pdf>
 Package pdftex.def Info: Chapter4/Charts/TeamSizesResultsCompare.pdf used on in
 put line 528.
 (pdftex.def)             Requested size: 437.46112pt x 453.52267pt.
- [96 <./Chapter4/Charts/PreciseCommitterAnalysis.pdf>] [97 <./Chapter4/Charts/T
-eamSizesResultsCompare.pdf>] <Chapter4/Figures/BadCouplingExample.pdf, id=3823,
+ [98 <./Chapter4/Charts/PreciseCommitterAnalysis.pdf>] [99 <./Chapter4/Charts/T
+eamSizesResultsCompare.pdf>] <Chapter4/Figures/BadCouplingExample.pdf, id=3864,
  626.0991pt x 370.02242pt>
 File: Chapter4/Figures/BadCouplingExample.pdf Graphic file (type pdf)
 
@@ -2942,7 +2973,7 @@ Package pdftex.def Info: Chapter4/Figures/BadCouplingExample.pdf used on input
 line 539.
 (pdftex.def)             Requested size: 437.46112pt x 258.534pt.
 
-<Chapter4/Figures/BadCodeExample.pdf, id=3824, 626.0991pt x 426.8748pt>
+<Chapter4/Figures/BadCodeExample.pdf, id=3865, 626.0991pt x 426.8748pt>
 File: Chapter4/Figures/BadCodeExample.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/BadCodeExample.pdf>
@@ -2963,7 +2994,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf, id=3825,
+<Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf, id=3866,
  455.30101pt x 147.9126pt>
 File: Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf Grap
 hic file (type pdf)
@@ -2977,60 +3008,60 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 554--559
  [][] 
  []
 
-[98 <./Chapter4/Figures/BadCouplingExample.pdf>] [99 <./Chapter4/Figures/BadCod
-eExample.pdf> <./Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjec
-ts.pdf
+[100 <./Chapter4/Figures/BadCouplingExample.pdf>] [101 <./Chapter4/Figures/BadC
+odeExample.pdf> <./Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProj
+ects.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/RandomInterceptsLinearRegressi
 onSelectedProjects.pdf): PDF inclusion: multiple pdfs with page group included 
 in a single page
->] [100]
-<Chapter4/Figures/ResultOverview.pdf, id=3928, 580.56903pt x 284.5029pt>
+>] [102]
+<Chapter4/Figures/ResultOverview.pdf, id=3969, 580.56903pt x 284.5029pt>
 File: Chapter4/Figures/ResultOverview.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/ResultOverview.pdf>
 Package pdftex.def Info: Chapter4/Figures/ResultOverview.pdf used on input line
  574.
 (pdftex.def)             Requested size: 437.46112pt x 214.3751pt.
-) [101] [102 <./Chapter4/Figures/ResultOverview.pdf>]
+) [103] [104 <./Chapter4/Figures/ResultOverview.pdf>]
 \openout2 = `Chapter5/chapter5.aux'.
 
  (Chapter5/chapter5.tex
 Chapter 5.
-[103
+[105
 
 
 
-] [104]
-<Chapter5/Figures/ChapterOverview.pdf, id=3986, 1109.82635pt x 540.5796pt>
+] [106]
+<Chapter5/Figures/ChapterOverview.pdf, id=4027, 1109.82635pt x 540.5796pt>
 File: Chapter5/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/ChapterOverview.pdf>
 Package pdftex.def Info: Chapter5/Figures/ChapterOverview.pdf used on input lin
 e 18.
 (pdftex.def)             Requested size: 568.70079pt x 277.00346pt.
- [105
+ [107
 
  <./Chapter5/Figures/ChapterOverview.pdf>]
-<Chapter5/Figures/MiningAnalysisToolchain.pdf, id=4042, 617.4267pt x 264.74911p
+<Chapter5/Figures/MiningAnalysisToolchain.pdf, id=4083, 617.4267pt x 264.74911p
 t>
 File: Chapter5/Figures/MiningAnalysisToolchain.pdf Graphic file (type pdf)
  <use Chapter5/Figures/MiningAnalysisToolchain.pdf>
 Package pdftex.def Info: Chapter5/Figures/MiningAnalysisToolchain.pdf used on i
 nput line 26.
 (pdftex.def)             Requested size: 437.46112pt x 187.58536pt.
- [106
+ [108
 
  <./Chapter5/Figures/MiningAnalysisToolchain.pdf>]
-<Chapter5/Figures/NetworkAnalysis.pdf, id=4105, 808.21951pt x 515.04419pt>
+<Chapter5/Figures/NetworkAnalysis.pdf, id=4146, 808.21951pt x 515.04419pt>
 File: Chapter5/Figures/NetworkAnalysis.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/NetworkAnalysis.pdf>
 Package pdftex.def Info: Chapter5/Figures/NetworkAnalysis.pdf used on input lin
 e 42.
 (pdftex.def)             Requested size: 437.46112pt x 278.77988pt.
- [107 <./Chapter5/Figures/NetworkAnalysis.pdf>] [108]
-<Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf, id=4180, 463.7325pt x 185.
+ [109 <./Chapter5/Figures/NetworkAnalysis.pdf>] [110]
+<Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf, id=4222, 463.7325pt x 185.
 0112pt>
 File: Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf Graphic file (type pdf
 )
@@ -3052,23 +3083,23 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[109 <./Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf>] [110]
-<Chapter5/Figures/ForkedImportedBinaries.pdf, id=4216, 207.6558pt x 162.1257pt>
+[111 <./Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf>] [112]
+<Chapter5/Figures/ForkedImportedBinaries.pdf, id=4257, 207.6558pt x 162.1257pt>
 File: Chapter5/Figures/ForkedImportedBinaries.pdf Graphic file (type pdf)
 <use Chapter5/Figures/ForkedImportedBinaries.pdf>
 Package pdftex.def Info: Chapter5/Figures/ForkedImportedBinaries.pdf used on in
 put line 95.
 (pdftex.def)             Requested size: 207.65529pt x 162.1253pt.
 
-<Chapter5/Figures/ForkedSameHistory.pdf, id=4218, 304.49759pt x 165.0165pt>
+<Chapter5/Figures/ForkedSameHistory.pdf, id=4259, 304.49759pt x 165.0165pt>
 File: Chapter5/Figures/ForkedSameHistory.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/ForkedSameHistory.pdf>
 Package pdftex.def Info: Chapter5/Figures/ForkedSameHistory.pdf used on input l
 ine 105.
 (pdftex.def)             Requested size: 304.49684pt x 165.01607pt.
- [111 <./Chapter5/Figures/ForkedImportedBinaries.pdf>]
-<Chapter5/Figures/ForkedOutsideForge.pdf, id=4233, 304.49759pt x 125.268pt>
+ [113 <./Chapter5/Figures/ForkedImportedBinaries.pdf>]
+<Chapter5/Figures/ForkedOutsideForge.pdf, id=4274, 304.49759pt x 125.268pt>
 File: Chapter5/Figures/ForkedOutsideForge.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/ForkedOutsideForge.pdf>
@@ -3089,7 +3120,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[112 <./Chapter5/Figures/ForkedSameHistory.pdf> <./Chapter5/Figures/ForkedOutsi
+[114 <./Chapter5/Figures/ForkedSameHistory.pdf> <./Chapter5/Figures/ForkedOutsi
 deForge.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter5/Figures/ForkedOutsideForge.pdf): PDF 
@@ -3123,15 +3154,15 @@ l.133 ...mmit description contains the term ‘fork’
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-[113] <Chapter5/Charts/ForkCounts.pdf, id=4265, 469.51411pt x 227.6505pt>
+[115] <Chapter5/Charts/ForkCounts.pdf, id=4307, 469.51411pt x 227.6505pt>
 File: Chapter5/Charts/ForkCounts.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/ForkCounts.pdf>
 Package pdftex.def Info: Chapter5/Charts/ForkCounts.pdf used on input line 141.
 
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [114 <./Chapter5/Charts/ForkCounts.pdf>]
-<Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf, id=4283, 469.51411pt x 2
+ [116 <./Chapter5/Charts/ForkCounts.pdf>]
+<Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf, id=4325, 469.51411pt x 2
 27.6505pt>
 File: Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf Graphic file (type p
 df)
@@ -3140,16 +3171,16 @@ Package pdftex.def Info: Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf u
 sed on input line 155.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
 
-<Chapter5/Charts/FrequencyEngagement.pdf, id=4284, 469.51411pt x 227.6505pt>
+<Chapter5/Charts/FrequencyEngagement.pdf, id=4326, 469.51411pt x 227.6505pt>
 File: Chapter5/Charts/FrequencyEngagement.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/FrequencyEngagement.pdf>
 Package pdftex.def Info: Chapter5/Charts/FrequencyEngagement.pdf used on input 
 line 162.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [115 <./Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf>] [116 <./Chapter
+ [117 <./Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf>] [118 <./Chapter
 5/Charts/FrequencyEngagement.pdf>]
-<Chapter5/Figures/ProjectPairEligability.pdf, id=4316, 426.8748pt x 370.02242pt
+<Chapter5/Figures/ProjectPairEligability.pdf, id=4357, 426.8748pt x 370.02242pt
 >
 File: Chapter5/Figures/ProjectPairEligability.pdf Graphic file (type pdf)
  <use Chapter5/Figures/ProjectPairEligability.pdf>
@@ -3157,16 +3188,16 @@ Package pdftex.def Info: Chapter5/Figures/ProjectPairEligability.pdf used on in
 put line 179.
 (pdftex.def)             Requested size: 437.46112pt x 379.22461pt.
 
-<Chapter5/Charts/ProjectCommitterCount.pdf, id=4319, 469.51411pt x 227.6505pt>
+<Chapter5/Charts/ProjectCommitterCount.pdf, id=4360, 469.51411pt x 227.6505pt>
 File: Chapter5/Charts/ProjectCommitterCount.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/ProjectCommitterCount.pdf>
 Package pdftex.def Info: Chapter5/Charts/ProjectCommitterCount.pdf used on inpu
 t line 192.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
- [117] [118 <./Chapter5/Figures/ProjectPairEligability.pdf>] [119 <./Chapter5/C
+ [119] [120 <./Chapter5/Figures/ProjectPairEligability.pdf>] [121 <./Chapter5/C
 harts/ProjectCommitterCount.pdf>]
-<Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf, id=4408, 512.1534pt x 5
+<Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf, id=4450, 512.1534pt x 5
 69.24669pt>
 File: Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf Graphic file (type 
 pdf)
@@ -3175,7 +3206,7 @@ Package pdftex.def Info: Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf
 used on input line 207.
 (pdftex.def)             Requested size: 437.46112pt x 486.25063pt.
 
-[120 <./Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf>] [121]
+[122 <./Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf>] [123]
 
 ! LaTeX Error: There's no line here to end.
 
@@ -3219,7 +3250,7 @@ or  <return>  to continue without it.
 LaTeX Font Warning: Command \large invalid in math mode on input line 231.
 
 
-<Chapter5/Figures/IntraprojectStabilityCalc.pdf, id=4494, 577.67822pt x 278.962
+<Chapter5/Figures/IntraprojectStabilityCalc.pdf, id=4535, 577.67822pt x 278.962
 22pt>
 File: Chapter5/Figures/IntraprojectStabilityCalc.pdf Graphic file (type pdf)
  <use Chapter5/Figures/IntraprojectStabilityCalc.pdf>
@@ -3227,7 +3258,7 @@ Package pdftex.def Info: Chapter5/Figures/IntraprojectStabilityCalc.pdf used on
  input line 235.
 (pdftex.def)             Requested size: 437.46112pt x 211.2558pt.
 
-<Chapter5/Charts/ProjectModuleCount.pdf, id=4497, 469.51411pt x 227.6505pt>
+<Chapter5/Charts/ProjectModuleCount.pdf, id=4538, 469.51411pt x 227.6505pt>
 File: Chapter5/Charts/ProjectModuleCount.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/ProjectModuleCount.pdf>
@@ -3235,7 +3266,7 @@ Package pdftex.def Info: Chapter5/Charts/ProjectModuleCount.pdf used on input l
 ine 246.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
 
-<Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf, id=4498, 577.67822p
+<Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf, id=4539, 577.67822p
 t x 335.81459pt>
 File: Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf Graphic file (t
 ype pdf)
@@ -3244,7 +3275,7 @@ ype pdf)
 Package pdftex.def Info: Chapter5/Figures/IntraprojectStabilityCalcModularised.
 pdf used on input line 253.
 (pdftex.def)             Requested size: 437.46112pt x 254.30965pt.
- [122] [123 <./Chapter5/Figures/IntraprojectStabilityCalc.pdf> <./Chapter5/Char
+ [124] [125 <./Chapter5/Figures/IntraprojectStabilityCalc.pdf> <./Chapter5/Char
 ts/ProjectModuleCount.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter5/Charts/ProjectModuleCount.pdf): PDF i
@@ -3263,7 +3294,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/StabilityCorrelations.pdf, id=4559, 523.71661pt x 150.8034pt>
+<Chapter5/Tables/StabilityCorrelations.pdf, id=4600, 523.71661pt x 150.8034pt>
 File: Chapter5/Tables/StabilityCorrelations.pdf Graphic file (type pdf)
 
 <use Chapter5/Tables/StabilityCorrelations.pdf>
@@ -3275,8 +3306,8 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 264--269
  [][] 
  []
 
-[124 <./Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf>]
-<Chapter5/Charts/StabilityDistribution.pdf, id=4607, 458.19182pt x 293.1753pt>
+[126 <./Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf>]
+<Chapter5/Charts/StabilityDistribution.pdf, id=4648, 458.19182pt x 293.1753pt>
 File: Chapter5/Charts/StabilityDistribution.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/StabilityDistribution.pdf>
@@ -3284,7 +3315,7 @@ Package pdftex.def Info: Chapter5/Charts/StabilityDistribution.pdf used on inpu
 t line 277.
 (pdftex.def)             Requested size: 437.46112pt x 279.91068pt.
 
-<Chapter5/Figures/StabilityOutliers.pdf, id=4608, 626.0991pt x 512.1534pt>
+<Chapter5/Figures/StabilityOutliers.pdf, id=4649, 626.0991pt x 512.1534pt>
 File: Chapter5/Figures/StabilityOutliers.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/StabilityOutliers.pdf>
@@ -3292,17 +3323,17 @@ Package pdftex.def Info: Chapter5/Figures/StabilityOutliers.pdf used on input l
 ine 284.
 (pdftex.def)             Requested size: 437.46112pt x 357.84067pt.
 
-<Chapter5/Charts/ScatterDiagrams.pdf, id=4610, 762.68942pt x 665.84758pt>
+<Chapter5/Charts/ScatterDiagrams.pdf, id=4651, 762.68942pt x 665.84758pt>
 File: Chapter5/Charts/ScatterDiagrams.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/ScatterDiagrams.pdf>
 Package pdftex.def Info: Chapter5/Charts/ScatterDiagrams.pdf used on input line
  294.
 (pdftex.def)             Requested size: 437.46112pt x 381.9145pt.
- [125 <./Chapter5/Tables/StabilityCorrelations.pdf>] [126 <./Chapter5/Charts/St
-abilityDistribution.pdf>] [127 <./Chapter5/Figures/StabilityOutliers.pdf>] [128
+ [127 <./Chapter5/Tables/StabilityCorrelations.pdf>] [128 <./Chapter5/Charts/St
+abilityDistribution.pdf>] [129 <./Chapter5/Figures/StabilityOutliers.pdf>] [130
  <./Chapter5/Charts/ScatterDiagrams.pdf>]
-<Chapter5/Charts/AverageMetricStability.pdf, id=4709, 367.1316pt x 435.30629pt>
+<Chapter5/Charts/AverageMetricStability.pdf, id=4750, 367.1316pt x 435.30629pt>
 File: Chapter5/Charts/AverageMetricStability.pdf Graphic file (type pdf)
 <use Chapter5/Charts/AverageMetricStability.pdf>
 Package pdftex.def Info: Chapter5/Charts/AverageMetricStability.pdf used on inp
@@ -3325,7 +3356,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf, id=4713, 455.30101pt x 
+<Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf, id=4754, 455.30101pt x 
 193.4427pt>
 File: Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf Graphic file (type 
 pdf)
@@ -3338,11 +3369,11 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 323--328
  [][] 
  []
 
-[129] [130 <./Chapter5/Charts/AverageMetricStability.pdf>]
+[131] [132 <./Chapter5/Charts/AverageMetricStability.pdf>]
 
 LaTeX Font Warning: Command \large invalid in math mode on input line 332.
 
-[131 <./Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf>]
+[133 <./Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3356,7 +3387,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf, id=4752, 455
+<Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf, id=4794, 455
 .30101pt x 156.585pt>
 File: Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf Graphic 
 file (type pdf)
@@ -3370,8 +3401,8 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 346--351
  [][] 
  []
 
-[132 <./Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf>]
-<Chapter5/Figures/StabilityAnalysis.pdf, id=4771, 469.51411pt x 327.3831pt>
+[134 <./Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf>]
+<Chapter5/Figures/StabilityAnalysis.pdf, id=4813, 469.51411pt x 327.3831pt>
 File: Chapter5/Figures/StabilityAnalysis.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/StabilityAnalysis.pdf>
@@ -3379,14 +3410,14 @@ Package pdftex.def Info: Chapter5/Figures/StabilityAnalysis.pdf used on input l
 ine 363.
 (pdftex.def)             Requested size: 437.46112pt x 305.03761pt.
 
-<Chapter5/Charts/InterprojectSignificance.pdf, id=4773, 458.19182pt x 204.765pt
+<Chapter5/Charts/InterprojectSignificance.pdf, id=4815, 458.19182pt x 204.765pt
 >
 File: Chapter5/Charts/InterprojectSignificance.pdf Graphic file (type pdf)
  <use Chapter5/Charts/InterprojectSignificance.pdf>
 Package pdftex.def Info: Chapter5/Charts/InterprojectSignificance.pdf used on i
 nput line 373.
 (pdftex.def)             Requested size: 437.46112pt x 195.50046pt.
- [133] [134 <./Chapter5/Figures/StabilityAnalysis.pdf>]
+ [135] [136 <./Chapter5/Figures/StabilityAnalysis.pdf>]
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
@@ -3427,7 +3458,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf, id=4826, 455.3
+<Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf, id=4867, 455.3
 0101pt x 202.1151pt>
 File: Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf Graphic fi
 le (type pdf)
@@ -3454,7 +3485,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf, id=4827, 469
+<Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf, id=4868, 469
 .51411pt x 150.8034pt>
 File: Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf Graphic 
 file (type pdf)
@@ -3468,7 +3499,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 400--405
  [][] 
  []
 
-[135 <./Chapter5/Charts/InterprojectSignificance.pdf>] [136 <./Chapter5/Tables/
+[137 <./Chapter5/Charts/InterprojectSignificance.pdf>] [138 <./Chapter5/Tables/
 BasicLinearRegressionInterprojectStability.pdf> <./Chapter5/Tables/RandomInterc
 eptsLinearRegressionInterproject.pdf
 
@@ -3488,7 +3519,7 @@ l.415  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter5/Tables/TeamStabilityPCA.pdf, id=4877, 492.3996pt x 76.84709pt>
+<Chapter5/Tables/TeamStabilityPCA.pdf, id=4918, 492.3996pt x 76.84709pt>
 File: Chapter5/Tables/TeamStabilityPCA.pdf Graphic file (type pdf)
 
 <use Chapter5/Tables/TeamStabilityPCA.pdf>
@@ -3500,14 +3531,14 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 414--419
 [][] 
  []
 
-<Chapter5/Charts/TeamStabilityScatter.pdf, id=4878, 466.6233pt x 213.4374pt>
+<Chapter5/Charts/TeamStabilityScatter.pdf, id=4919, 466.6233pt x 213.4374pt>
 File: Chapter5/Charts/TeamStabilityScatter.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/TeamStabilityScatter.pdf>
 Package pdftex.def Info: Chapter5/Charts/TeamStabilityScatter.pdf used on input
  line 423.
 (pdftex.def)             Requested size: 437.46112pt x 200.11008pt.
- [137 <./Chapter5/Tables/TeamStabilityPCA.pdf> <./Chapter5/Charts/TeamStability
+ [139 <./Chapter5/Tables/TeamStabilityPCA.pdf> <./Chapter5/Charts/TeamStability
 Scatter.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter5/Charts/TeamStabilityScatter.pdf): PDF
@@ -3529,7 +3560,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-<Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf, id=4902, 469.514
+<Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf, id=4944, 469.514
 11pt x 398.4486pt>
 File: Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf Graphic file
  (type pdf)
@@ -3539,14 +3570,14 @@ Package pdftex.def Info: Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalys
 is.pdf used on input line 436.
 (pdftex.def)             Requested size: 437.46112pt x 371.25253pt.
 
-<Chapter5/Charts/TeamStabilityResultsCompare.pdf, id=4903, 466.6233pt x 227.650
+<Chapter5/Charts/TeamStabilityResultsCompare.pdf, id=4945, 466.6233pt x 227.650
 5pt>
 File: Chapter5/Charts/TeamStabilityResultsCompare.pdf Graphic file (type pdf)
  <use Chapter5/Charts/TeamStabilityResultsCompare.pdf>
 Package pdftex.def Info: Chapter5/Charts/TeamStabilityResultsCompare.pdf used o
 n input line 443.
 (pdftex.def)             Requested size: 437.46112pt x 213.4357pt.
- [138] [139 <./Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf>]
+ [140] [141 <./Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf>]
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
@@ -3588,7 +3619,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/RandomInterceptsSelectedProjects.pdf, id=4931, 455.30101pt x 1
+<Chapter5/Tables/RandomInterceptsSelectedProjects.pdf, id=4972, 455.30101pt x 1
 47.9126pt>
 File: Chapter5/Tables/RandomInterceptsSelectedProjects.pdf Graphic file (type p
 df)
@@ -3601,7 +3632,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 458--463
  [][] 
  []
 
-<Chapter5/Figures/StabilityExample.pdf, id=4932, 529.25732pt x 739.80388pt>
+<Chapter5/Figures/StabilityExample.pdf, id=4973, 529.25732pt x 739.80388pt>
 File: Chapter5/Figures/StabilityExample.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/StabilityExample.pdf>
@@ -3612,34 +3643,34 @@ ne 469.
 
 LaTeX Warning: Float too large for page by 16.70073pt on input line 472.
 
-[140 <./Chapter5/Charts/TeamStabilityResultsCompare.pdf>] [141 <./Chapter5/Tabl
-es/RandomInterceptsSelectedProjects.pdf>] [142 <./Chapter5/Figures/StabilityExa
+[142 <./Chapter5/Charts/TeamStabilityResultsCompare.pdf>] [143 <./Chapter5/Tabl
+es/RandomInterceptsSelectedProjects.pdf>] [144 <./Chapter5/Figures/StabilityExa
 mple.pdf>]
-<Chapter5/Figures/ResultOverview.pdf, id=5010, 580.56903pt x 284.5029pt>
+<Chapter5/Figures/ResultOverview.pdf, id=5051, 580.56903pt x 284.5029pt>
 File: Chapter5/Figures/ResultOverview.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/ResultOverview.pdf>
 Package pdftex.def Info: Chapter5/Figures/ResultOverview.pdf used on input line
  481.
 (pdftex.def)             Requested size: 437.46112pt x 214.3751pt.
-) [143 <./Chapter5/Figures/ResultOverview.pdf>]
+) [145 <./Chapter5/Figures/ResultOverview.pdf>]
 \openout2 = `Chapter6/chapter6.aux'.
 
- (Chapter6/chapter6.tex [144
+ (Chapter6/chapter6.tex [146
 
 
 
 ]
 Chapter 6.
-[145]
-<Chapter6/Figures/ChapterOverview.pdf, id=5066, 939.02821pt x 483.72722pt>
+[147]
+<Chapter6/Figures/ChapterOverview.pdf, id=5107, 939.02821pt x 483.72722pt>
 File: Chapter6/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/ChapterOverview.pdf>
 Package pdftex.def Info: Chapter6/Figures/ChapterOverview.pdf used on input lin
 e 12.
 (pdftex.def)             Requested size: 568.70079pt x 292.96217pt.
- [146
+ [148
 
  <./Chapter6/Figures/ChapterOverview.pdf>]
 
@@ -3654,7 +3685,7 @@ l.27  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter6/Tables/ObjectiveOutcome.pdf, id=5111, 483.72722pt x 483.72722pt>
+<Chapter6/Tables/ObjectiveOutcome.pdf, id=5152, 483.72722pt x 483.72722pt>
 File: Chapter6/Tables/ObjectiveOutcome.pdf Graphic file (type pdf)
 
 <use Chapter6/Tables/ObjectiveOutcome.pdf>
@@ -3666,9 +3697,9 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 26--31
 [][] 
  []
 
-[147
+[149
 
-] [148 <./Chapter6/Tables/ObjectiveOutcome.pdf>]
+] [150 <./Chapter6/Tables/ObjectiveOutcome.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -3681,7 +3712,7 @@ l.42  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter6/Tables/HypothesisResult.pdf, id=5145, 483.72722pt x 142.3719pt>
+<Chapter6/Tables/HypothesisResult.pdf, id=5186, 483.72722pt x 142.3719pt>
 File: Chapter6/Tables/HypothesisResult.pdf Graphic file (type pdf)
 
 <use Chapter6/Tables/HypothesisResult.pdf>
@@ -3705,7 +3736,7 @@ l.53  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter6/Tables/QuestionAnswer.pdf, id=5147, 483.72722pt x 145.2627pt>
+<Chapter6/Tables/QuestionAnswer.pdf, id=5188, 483.72722pt x 145.2627pt>
 File: Chapter6/Tables/QuestionAnswer.pdf Graphic file (type pdf)
 
 <use Chapter6/Tables/QuestionAnswer.pdf>
@@ -3717,22 +3748,22 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 52--57
 [][] 
  []
 
-[149 <./Chapter6/Tables/HypothesisResult.pdf> <./Chapter6/Tables/QuestionAnswer
+[151 <./Chapter6/Tables/HypothesisResult.pdf> <./Chapter6/Tables/QuestionAnswer
 .pdf
 
 pdfTeX warning: pdflatex (file ./Chapter6/Tables/QuestionAnswer.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
->] [150] [151] [152] [153] [154]
-<Chapter6/Figures/ContrastingSystems.pdf, id=5230, 532.14807pt x 426.8748pt>
+>] [152] [153] [154] [155] [156]
+<Chapter6/Figures/ContrastingSystems.pdf, id=5270, 532.14807pt x 426.8748pt>
 File: Chapter6/Figures/ContrastingSystems.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/ContrastingSystems.pdf>
 Package pdftex.def Info: Chapter6/Figures/ContrastingSystems.pdf used on input 
 line 121.
 (pdftex.def)             Requested size: 437.46112pt x 350.93195pt.
- [155] [156 <./Chapter6/Figures/ContrastingSystems.pdf>] [157] [158] [159] [160
+ [157] [158 <./Chapter6/Figures/ContrastingSystems.pdf>] [159] [160] [161] [162
 ]
-<Chapter6/Figures/ForkingUML.pdf, id=5299, 939.02821pt x 626.0991pt>
+<Chapter6/Figures/ForkingUML.pdf, id=5339, 939.02821pt x 626.0991pt>
 File: Chapter6/Figures/ForkingUML.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/ForkingUML.pdf>
@@ -3740,16 +3771,16 @@ Package pdftex.def Info: Chapter6/Figures/ForkingUML.pdf used on input line 168
 .
 (pdftex.def)             Requested size: 393.71233pt x 262.5108pt.
 
-<Chapter6/Figures/ForkedNetworkGraph.pdf, id=5300, 483.72722pt x 321.6015pt>
+<Chapter6/Figures/ForkedNetworkGraph.pdf, id=5340, 483.72722pt x 321.6015pt>
 File: Chapter6/Figures/ForkedNetworkGraph.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/ForkedNetworkGraph.pdf>
 Package pdftex.def Info: Chapter6/Figures/ForkedNetworkGraph.pdf used on input 
 line 175.
 (pdftex.def)             Requested size: 349.97023pt x 232.67665pt.
- [161 <./Chapter6/Figures/ForkingUML.pdf>] [162 <./Chapter6/Figures/ForkedNetwo
-rkGraph.pdf>] [163]
-<Chapter6/Figures/BigData.pdf, id=5385, 455.30101pt x 412.6617pt>
+ [163 <./Chapter6/Figures/ForkingUML.pdf>] [164 <./Chapter6/Figures/ForkedNetwo
+rkGraph.pdf>] [165]
+<Chapter6/Figures/BigData.pdf, id=5425, 455.30101pt x 412.6617pt>
 File: Chapter6/Figures/BigData.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/BigData.pdf>
@@ -3760,10 +3791,10 @@ Overfull \hbox (17.83878pt too wide) in paragraph at lines 197--198
  [][] 
  []
 
-) [164] [165 <./Chapter6/Figures/BigData.pdf>] (thesis.bbl [166
+) [166] [167 <./Chapter6/Figures/BigData.pdf>] (thesis.bbl [168
 
 
-] [167]
+] [169]
 
 ! Package inputenc Error: Keyboard character used is undefined
 (inputenc)                in inputencoding `utf8'.
@@ -3772,33 +3803,33 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.128 \newblock The relation between developers’
+l.137 \newblock The relation between developers’
                                                  communication and fix-inducing
 
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-[168] [169] [170]
-Underfull \hbox (badness 10000) in paragraph at lines 389--394
+[170] [171] [172]
+Underfull \hbox (badness 10000) in paragraph at lines 416--421
 []\T1/ptm/m/n/12 (+20) Erickson, C. (2012).  \T1/ptm/m/it/12 (+20) Small Teams 
 Are Dra-mat-i-cally More Ef-fi-
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--394
+Underfull \hbox (badness 10000) in paragraph at lines 416--421
 \T1/ptm/m/it/12 (+20) cient than Large Teams\T1/ptm/m/n/12 (+20) .  [][]$https 
 : / / spin . atomicobject . com / 2012 / 01 / 11 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 389--394
+Underfull \hbox (badness 10000) in paragraph at lines 416--421
 \T1/ptm/m/n/12 (+20) small-[]teams-[]are-[]dramatically-[]more-[]ecient-[]than
 -[]large-[]teams/$[][] ac-cessed 2018-09-
  []
 
-[171]
+[173]
 ! Misplaced alignment tab character &.
-l.489 ...ternational Journal of Computer Science &
+l.516 ...ternational Journal of Computer Science &
                                                    Engineering
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -3807,7 +3838,7 @@ up above has ended a previous alignment prematurely,
 you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
-[172] [173] [174]
+[174] [175] [176]
 
 ! Package inputenc Error: Unicode char ï¿½ (U+FFFD)
 (inputenc)                not set up for use with LaTeX.
@@ -3816,32 +3847,32 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.709 \newblock Whatï¿½
+l.742 \newblock Whatï¿½
                        s up with software metrics? a preliminary mapping study.
 
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[175] [176]
-Underfull \hbox (badness 5091) in paragraph at lines 895--901
+[177] [178]
+Underfull \hbox (badness 5091) in paragraph at lines 928--934
 []\T1/ptm/m/n/12 (+20) Miller, J. (2006).  \T1/ptm/m/it/12 (+20) Want pro-duc-t
 iv-ity? Try some team con-ti-nu-ity (and a
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 895--901
+Underfull \hbox (badness 10000) in paragraph at lines 928--934
 \T1/ptm/m/it/12 (+20) side of em-pow-er-ment too)\T1/ptm/m/n/12 (+20) .  [][]$h
 ttp : / / codebetter . com / jeremymiller / 2006 / 05 / 06 /
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 895--901
+Underfull \hbox (badness 10000) in paragraph at lines 928--934
 \T1/ptm/m/n/12 (+20) want-[]productivity-[]try-[]some-[]team-[]continuity-[]and
 -[]a-[]side-[]of-[]empowerment-[]too/$[][] ac-
  []
 
-[177] [178] [179] [180] [181]
+[179] [180] [181] [182] [183]
 
 ! Package inputenc Error: Unicode char ï¿½ (U+FFFD)
 (inputenc)                not set up for use with LaTeX.
@@ -3850,15 +3881,13 @@ See the inputenc package documentation for explanation.
 Type  H <return>  for immediate help.
  ...                                              
                                                   
-l.1361   productivityï¿½
+l.1406   productivityï¿½
                         state-of-the-art and industrial experiences.
 Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-[182]) [183] [184
-
-] (thesis.ind)
+[184] [185]) [186] (thesis.ind)
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 69.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
  (thesis.aux (Dedication/dedication.aux)
@@ -3869,20 +3898,20 @@ Package atveryend Info: Empty hook `AfterLastShipout' on input line 69.
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 69.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 69.
 Package rerunfilecheck Info: File `thesis.out' has not changed.
-(rerunfilecheck)             Checksum: 434949E84C78AEB9BCF22A39AD1A7254;19964.
+(rerunfilecheck)             Checksum: B25B3210B36E6841B962824B861DE0F7;20118.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 27761 strings out of 493333
- 501843 string characters out of 3139194
- 542464 words of memory out of 3000000
- 29816 multiletter control sequences out of 15000+200000
- 62488 words of font info for 248 fonts, out of 3000000 for 9000
+ 27802 strings out of 493333
+ 502784 string characters out of 3139194
+ 542750 words of memory out of 3000000
+ 29843 multiletter control sequences out of 15000+200000
+ 62713 words of font info for 250 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 55i,12n,92p,10385b,1348s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 55i,12n,92p,10385b,1378s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Program Files/MiKTeX 2.9/fonts/enc/dvips/base/8r.enc}<C:/Program Files/Mi
 KTeX 2.9/fonts/type1/public/amsfonts/cm/cmex10.pfb><C:/Program Files/MiKTeX 2.9
 /fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Program Files/MiKTeX 2.9/fonts/t
@@ -3891,9 +3920,9 @@ ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/u
 syr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (208 pages, 15082084 bytes).
+Output written on thesis.pdf (210 pages, 15094503 bytes).
 PDF statistics:
- 5730 PDF objects out of 6186 (max. 8388607)
- 666 named destinations out of 1000 (max. 500000)
- 32077 words of extra memory for PDF output out of 35830 (max. 10000000)
+ 5772 PDF objects out of 6186 (max. 8388607)
+ 677 named destinations out of 1000 (max. 500000)
+ 32085 words of extra memory for PDF output out of 35830 (max. 10000000)
 
