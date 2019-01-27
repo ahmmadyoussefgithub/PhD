@@ -224,7 +224,7 @@ The Jaccard index is the simplest of several similarity measures and was develop
 \newline
 \[J(A,B)\ = \frac{\left |A\bigcap B \right |}{\left |A\bigcup   B\right |}\]
 
-While the Jaccard Index is designed to establish the similarity between two finite data sets, the LSR calculation is an adaptation of this approach to take into account the fact that there can be more than two committer time-frames that need to be factored into the stability ratio. It is essential that LSR is in the form of a ratio to avoid calculating a number which has a strong direct correlation to committer count which would simply lead to tracking that factor and, ultimately, confounding results. As expressed in the equation below, LSR is the inverse of the simple averages of the Jaccard Indexes of each unique pair of committer time-series:
+While the Jaccard Index is designed to establish the similarity between two finite data sets, the LSR calculation is an adaptation of this approach to take into account the fact that there can be more than two committer time-frames that need to be factored into the stability ratio. It is essential that LSR is in the form of a ratio to avoid calculating a number which has a strong direct correlation to committer count which would simply lead to tracking that factor and, ultimately, confounding results. As expressed in the equation below, LSR is the inverse of the simple means of the Jaccard Indexes of each unique pair of committer time-series:
 
 \newline
 \newline
@@ -287,7 +287,7 @@ The probability distribution for LSR across the stability project sample is illu
 \end{figure}
 
 \subsection{Results}
-The initial set of results visualisations are represented as scatter diagrams showing the average CK metric values at a project level plotted against LSR for those projects. Averaging CK metrics may be misleading as it can be heavily skewed by outlier values and thus misrepresentative of the data set. That said, it can be helpful as a first step in determining if there any clear trends manifest which can then be explored further. There are two observations that can immediately be made. First, the majority of the data points exist on the left-hand-side of the plots. This is a natural given that the majority of projects exhibit LSR values lower than 0.5 as confirmed by the probability distribution depicted in ~\ref{fig:StabilityDistribution}. The second observation is that there is no clear and powerful relationship between LSR and the project averaged metric values that manifest in these plots. 
+The initial set of results visualisations are represented as scatter diagrams showing the mean CK metric values at a project level plotted against LSR for those projects. Averaging CK metrics may be misleading as it can be heavily skewed by outlier values and thus misrepresentative of the data set. That said, it can be helpful as a first step in determining if there any clear trends manifest which can then be explored further. There are two observations that can immediately be made. First, the majority of the data points exist on the left-hand-side of the plots. This is a natural given that the majority of projects exhibit LSR values lower than 0.5 as confirmed by the probability distribution depicted in ~\ref{fig:StabilityDistribution}. The second observation is that there is no clear and powerful relationship between LSR and the project averaged metric values that manifest in these plots. 
 
 \begin{figure}[htbp!] 
 \centering    
@@ -296,12 +296,12 @@ The initial set of results visualisations are represented as scatter diagrams sh
 \label{fig:ScatterDiagrams}
 \end{figure}
 
-The charts in Figure ~\ref{fig:AverageMetricStability} average metric values for projects exhibiting a range of stability ratios. There is a noticeable upward trend across all metric types with the exception of CBO and NOC, implying at this early stage of analysis that teams with greater stability produce projects with higher cohesion and lower inheritance complexity. 
+The charts in Figure ~\ref{fig:AverageMetricStability} show mean metric values for projects exhibiting a range of stability ratios. There is a noticeable upward trend across all metric types with the exception of CBO and NOC, implying at this early stage of analysis that teams with greater stability produce projects with higher cohesion and lower inheritance complexity. 
 
 \begin{figure}[htbp!] 
 \centering    
 \includegraphics[width=1.0\textwidth]{AverageMetricStability.pdf}
-\caption{Averaged project-level metrics grouped by stability ratio (rounded up to one decimal place).}
+\caption{Mean project-level metrics grouped by stability ratio (rounded up to one decimal place).}
 \label{fig:AverageMetricStability}
 \end{figure}
 

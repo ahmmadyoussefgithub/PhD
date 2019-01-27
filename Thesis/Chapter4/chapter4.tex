@@ -231,7 +231,7 @@ Table ~\ref{tab:BasicResultsSignificance} summarises the results of this analysi
 
 \begin{itemize}
 \item  \textbf{Rejecting null hypothesis H0,1:} The null hypothesis can be rejected in the case of all metrics with the exception of NOC as p-values are lower than the  $\alpha$ for most of the remaining metrics comparison tests. NOC excepted, 44 out of 50 comparisons show p-values under the $\alpha$ threshold. 
-\item  \textbf{Metrics not overwhelmingly trending in a one direction:} Based on the analysis of simple averages, there is a roughly even split between metric values increasing in value by committer count and those decreasing in value. Looking at the trends in more detail, DIT and RFC bucket comparisons show a dominant trend of decreasing metric values with increasing committer count. However, DIT shows the opposing trend where 1 committer bucket is compared to 2, 3, and 4 committer buckets. Similarly, the LCOM bucket comparisons show a dominant trend of increasing metric values with increasing committer count.
+\item  \textbf{Metrics not overwhelmingly trending in a one direction:} Based on the analysis of simple means, there is a roughly even split between metric values increasing in value by committer count and those decreasing in value. Looking at the trends in more detail, DIT and RFC bucket comparisons show a dominant trend of decreasing metric values with increasing committer count. However, DIT shows the opposing trend where 1 committer bucket is compared to 2, 3, and 4 committer buckets. Similarly, the LCOM bucket comparisons show a dominant trend of increasing metric values with increasing committer count.
 \end{itemize}
 
 While some trends do emerge from this analysis, it is important from the perspective of the validity of this research to ascertain whether there are any potentially confounding factors that may be impacting these results. That is the subject of the next section.
@@ -264,7 +264,7 @@ This research differs from the prior art in that the CK metrics are essentially 
 \newline
 \textbf{4.4.3.1 Class Size}
 \newline
-The typical measure of class size is  Lines of Code (or LOC). This is a simple measure of the number of lines within a class to the exclusion of comment lines \citep{nguyen2007sloc}. Table ~\ref{tab:LOCCorrelations} shows the Pearson correlation coefficients between class-level LoC, team size and CK metrics.  The very weak correlations between LOC and team size imply the absence of a linear relationship between these two factors. This is not surprising in an object-oriented language where one could reasonably hypothesise that a larger team is likely to work on a codebase which has more class files rather than larger class files per se. Similarly, LOC shows very weak negative correlations to the DIT and NOC metrics with almost no correlation to the rest of the metrics. On this basis it is accurate to say that class size has no relationship to either the dependent or independent variables in the model that was established in the previous section and therefore cannot be considered a confounding factor that should be controlled. Figure ~\ref{fig:AllMetricsAgainstLOC}  depicts how CK metrics trend against project size showing the average metric values across individual projects against their aggregate Lines of Code (LOC) count. These charts show that at a project level there is no obvious relationship between code volume and metric values.
+The typical measure of class size is  Lines of Code (or LOC). This is a simple measure of the number of lines within a class to the exclusion of comment lines \citep{nguyen2007sloc}. Table ~\ref{tab:LOCCorrelations} shows the Pearson correlation coefficients between class-level LoC, team size and CK metrics.  The very weak correlations between LOC and team size imply the absence of a linear relationship between these two factors. This is not surprising in an object-oriented language where one could reasonably hypothesise that a larger team is likely to work on a codebase which has more class files rather than larger class files per se. Similarly, LOC shows very weak negative correlations to the DIT and NOC metrics with almost no correlation to the rest of the metrics. On this basis it is accurate to say that class size has no relationship to either the dependent or independent variables in the model that was established in the previous section and therefore cannot be considered a confounding factor that should be controlled. Figure ~\ref{fig:AllMetricsAgainstLOC}  depicts how CK metrics trend against project size showing the mean metric values across individual projects against their aggregate Lines of Code (LOC) count. These charts show that at a project level there is no obvious relationship between code volume and metric values.
 
 \begin{table}
 \centering 
@@ -279,7 +279,7 @@ The typical measure of class size is  Lines of Code (or LOC). This is a simple m
 \begin{figure}[htbp!] 
 \centering    
 \includegraphics[width=1.0\textwidth]{AllMetricsAgainstLOC.pdf}
-\caption{Average project-level structural metric values plotted against the cumulative Lines of Code for that project.}
+\caption{Mean project-level structural metric values plotted against the cumulative Lines of Code for that project.}
 \label{fig:AllMetricsAgainstLOC}
 \end{figure}
 
@@ -323,7 +323,7 @@ This relationship between revisions and team size is confirmed at a project leve
 \begin{figure}[htbp!] 
 \centering    
 \includegraphics[width=1.0\textwidth]{MetricsRevisions.pdf}
-\caption{Average metric values at a class level plotted against the cumulative revision count of those files.}
+\caption{Mean metric values at a class level plotted against the cumulative revision count of those files.}
 \label{fig:MetricsRevisions}
 \end{figure}
 
@@ -365,7 +365,7 @@ It is logical that there would be a greater number of metric results pertaining 
 \begin{figure}[htbp!] 
 \centering    
 \includegraphics[width=1.0\textwidth]{MetricsPopulationRevisions.pdf}
-\caption{Average metric values against revision count.}
+\caption{Mean metric values against revision count.}
 \label{fig:MetricsPopulationRevisions}
 \end{figure}
 
@@ -509,7 +509,7 @@ Figure ~\ref{fig:TeamSizeScatter} shows a depiction of the team size sample scat
 \label{fig:TeamSizeScatter}
 \end{figure}
 
-Aviator and Precise are two projects that exhibit metric values that, relative to each other, are consistent with the wider forge trends for the given team sizes: one and five committers respectively. Aviator is located on the edge of the main cluster while Precise appears very much as an outlier - likely owing to its higher than average LOC. Figure ~\ref{fig:TeamSizesResultsCompare} shows a comparison of the metric profiles between these two projects plotted against revision counts. Aviator is an expression engine that dynamically compiles expressions into Java byte-code and delivers them to a running JVM. It is a single committer project with the full codebase in Java and no graphical user interface. The project comprises 233 Java class files. The committer is currently a prolific contributor to open-source projects with an active public GitHub profile. The Aviator project represented one of his early efforts started after he had accumulated roughly 2 years of development experience. 
+Aviator and Precise are two projects that exhibit metric values that, relative to each other, are consistent with the wider forge trends for the given team sizes: one and five committers respectively. Aviator is located on the edge of the main cluster while Precise appears very much as an outlier - likely owing to its higher than mean LOC. Figure ~\ref{fig:TeamSizesResultsCompare} shows a comparison of the metric profiles between these two projects plotted against revision counts. Aviator is an expression engine that dynamically compiles expressions into Java byte-code and delivers them to a running JVM. It is a single committer project with the full codebase in Java and no graphical user interface. The project comprises 233 Java class files. The committer is currently a prolific contributor to open-source projects with an active public GitHub profile. The Aviator project represented one of his early efforts started after he had accumulated roughly 2 years of development experience. 
 
 Precise is a requirements modelling and tracking tool designed to plug into the Eclipse IDE, with no dedicated user-interface as such. The project codebase comprises 524 Java class files alongside some modelling artefacts. Four distinct committers contributed to this project over a period of two years with the activity levels shown in ~\ref{fig:PreciseCommitterAnalysis}. It is notable that one committer contributes very little commits to the project while two committers contribute the majority of commits and unique files. The definition of team size within this research does not distinguish between the activity levels of committers in assigning a value to this measure. However, the final chapter of this thesis does consider avenues of future work to assess the impact to regression models by distinguishing between core and peripheral committers in the calculation of team size.
 
