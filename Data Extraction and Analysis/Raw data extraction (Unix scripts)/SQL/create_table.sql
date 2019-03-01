@@ -1,0 +1,1 @@
+CREATE TABLE svn_logs(PROJECT_NAME char(100), REVISION char(20), AUTHOR char(300), DATE char(300));

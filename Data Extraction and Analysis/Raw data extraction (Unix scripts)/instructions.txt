@@ -1,0 +1,71 @@
+**********(A) EXTRACT PROJECT LIST*********
+
+1. Navigate to code.google.com
+2. Enter "flossmole" in the seach field
+3. Select the "Downloads" tab
+4. Enter "google code" in search field
+5. Download the gcProjectInfo2011-May.txt.bz2 file
+6. Untar the file and edit to strip out the file header (i.e. everything prefixed with a "#" character and the field names row.
+7. Run parseProjectNames.sh passing in the edit file name in step 6 as an argument
+	> ./parseProjectNames.sh gcProjectInfo2011-May.txt >> projectNames.txt
+
+
+**********(B) EXTRACT SOURCE CONTROL LOCATIONS********
+
+1. Run sourceCmdParse.sh passing in the project names list in step A.7
+	> ./sourceCmdParse.sh projectNames.txt >> sourceControlLocations.txt
+
+**********(C) DOWNLOAD SVN PROJECT REVISION LOGS********
+1. Run svnLog.sh passing in the source control locations file. This will launch 100 threads that will retrieve write each svn log into a directory with the project name under the output folder. As there are over 180,000 projects in SVN this can take over a day to complete. The script is very unlikely to download all project revision logs correctly first time about. Hence, the script is rerunnable - i.e when it is run subsequent times, it does not download data it has already retrieved. It is expected that the script will be required to be run 5-10 times in order to retrieve all required data. This will be done manually.  
+	> ./svnLog.sh sourceControlLocations.txt
+
+2. To check if all relevent project revision logs have been downloaded, run the following commands:
+	To determine number of downloaded revision logs: ls -ltr output | wc -l
+	To determine number of hosted svn projects: grep "/svn/" sourceControlLocations.txt | wc -l
+
+3. Re-run the script in step C.1 until the numbers produced by C.2 match up.
+
+4. Consolidate all SVN Logs into a single file in pipe delimited form passing in the project list.
+	./consolidateSvnLog.sh projectNames.txt >> consolidatedSvnLog.txt
+
+5. Run the following script to reformat the date in the consolidated SVN log 
+	./formatSvnDate.sh consolidatedSvnLog.txt >> formattedSvnLog.txt
+
+***********(D) DOWNLOAD Mercurial and GIT projects************
+1. Using the following two commands filter out the Mercurial and GIT source commands:
+	> grep "hg " sourceControlLocations.txt >> nonSvnSourceControlLocations.txt
+	> grep "git " sourceControlLocations.txt >> nonSvnSourceControlLocations.txt 
+
+2. As Mercurial and GIT do not permit the retrieval of revision logs for remote repositories, run the nonSvnCheckout.sh script passing in the file created in D.1. This will spawn three threads that will simultaneously download the full head version of the git projects and the skeleton Mercurial projects.
+	> ./nonSvnCheckout.sh nonSvnSourceControlLocations.txt
+
+**********(E) RETRIEVE THE REVISION HISTORY FOR THE MERCURIAL AND GIT PROJECTS*******
+
+1. Under the home directory create a directory called "nonSvn" and copy into it the scripts in StepE
+
+2. Run the following script:
+	./nonSvnLogParent.sh projectNames.txt
+   This should create a file under ~/nonSvn/nonSvnLogs/ for each project containing its revision history.
+
+3. Run the following script to consolidate the revision history into a single file of usable format:
+	./consolidateNonSvnLog.sh sourceControlLocations.txt >> nonSvnLog.txt
+
+4. Run the following script to format the date to yyyy-MM-dd format:
+	./formatNonSvnDate.sh nonSvnLog.txt >> formattedNonSvnLog.txt
+
+**********(F) COMBINE SVN AND NON-SVN LOGS*******
+
+1. run the following two commands:
+	cat formattedSvnLog.txt >> revisionLog.txt
+	cat formattedNonSvnLog.txt >> revisionLog.txt
+
+**********(G) CREATE DATABASE AND BULK COPY REVISION HISTORY**********
+
+mysql -u root -p
+mysql> GRANT ALL PRIVILEGES ON *.* TO 'root'@'localhost' IDENTIFIED BY 'MYPASSWORD' WITH GRANT OPTION;
+mysql> CREATE DATABASE REVISION_LOGS;
+mysql> USE REVISION_LOGS;
+mysql> CREATE TABLE history(PROJECT_NAME char(255), REVISION char(255), AUTHOR char(255), DATE char(255), SOURCE_CONTROL char(10));
+mysql> \. bcp_import.sql
+
+
