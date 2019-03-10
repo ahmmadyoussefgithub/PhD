@@ -136,18 +136,9 @@ The final aspect of sample analysis concerns the nature of the individual commit
 \end{figure}
 
 \subsection{Distributions and Correlations}
-To conduct robust hypothesis testing and apply linear regression techniques, it is necessary to understand how the key parameters of the data set distribute. Figure ~\ref{fig:Distributions} illustrates the probability density distributions for each metric throughout the sample. While an in-depth qualitative analysis of these distributions is not the focus of this work, it is worth noting that these distributions are visually non-normal revealing multiple peaks in the case of most of the metrics. Some outliers have caused the x-axis to extend significantly in the case of NOC, RFC and WMC. The LCOM distribution shows a steady rise from the origin with the exception of a spike at the 10\% mark. It is also worth noting that the isolated peaks for DIT and NOC reflect the categorical nature of these metrics. Succi et al. \citep{succi2005empirical} and Basili et al. \citep{basili1996validation} offer a deeper analysis into the typical distribution of CK metrics for Java and C++ software respectively, observing similar distributions to those depicted in Figure ~\ref{fig:Distributions}. DIT shows a highest peak at a depth of 1 followed by 2 and so on indicating that flat inheritance hierarchies are prevalent. The lower NOC numbers indicate that classes typically have few children, consistent with the findings of Chidamber and Kemerer \citep{chidamber1994metrics}. The LCOM distribution peak at a lower metric value is quite pronounced and Basili et al. attribute this to the fact that LCOM does not permit a negative measure and, as a result, tends to show a tight range of values across those classes with lower metric values.
+To conduct robust hypothesis testing and apply linear regression techniques, it is necessary to understand how the key parameters of the data set distribute relative to a normal distrubtion. An in-depth qualitative analysis of the distributions of CK metrics is not the focus of this work and the reader is referred to the work of Succi et al. \citep{succi2005empirical} and Basili et al. \citep{basili1996validation} for an analysis into the typical distribution of CK metrics for Java and C++ software respectively. For the purposes of this research the Kolmogorov-Smirnov test was used to compare the population of values of each CK metric against a normal distribution \citep{kolmogorov1933sulla, smirnov1948table}. This test makes no assumptions of the distribution of those data sets being compared and produces a p-value and a D-statistic as an output. Table ~\ref{tab:KSTest} shows zero p-values allowing the rejection of the null hypothesis of normality. The D-statistic indicates the ratio of the data sets that exists outside the normal distribution. This insight will influence the choice of statistical methods later in this thesis.
 
-The Kolmogorov-Smirnov test was also used to compare the population of values of each metric against a normal distribution \citep{kolmogorov1933sulla, smirnov1948table}. This test makes no assumptions of the distribution of those data sets being compared and produces a p-value and a D-statistic as an output. Table ~\ref{tab:KSTest} shows zero p-values allowing the rejection of the null hypothesis of normality. The D-statistic indicates the ratio of the data sets that exists outside the normal distribution. This insight will influence the choice of statistical methods later in this thesis.
-
-To analyse the relationship between the metrics within the sample, the Pearson correlation coefficients are analysed in Figure ~\ref{tab:MetricCorrelations}. The correlation matrix shows positive correlations between CBO, RFC and WMC. Very weak correlations exist DIT, NOC and the remainder of the metrics. These observations are in-line with prior analysis by Succi et al. \citep{succi2005empirical}. Team size is found to be correlated to CBO and, to a lesser extent the rest of the CK metric suite. It is worth stressing that, for reasons explained in the next section, team size is measured at a project level while the metric values are at an individual class level. This initial result implies that greater team sizes cause metrics to trend counter to the objective as articulated by Rosenberg and others (detailed earlier in Chapter 2) - something which has been empirically associated with degraded external attributes. This adds further weight to the empirical evidence of prior research associating larger team sizes to lower productivity \citep{pendharkar2009relationship} and greater fault-proneness \citep{nagappan2008influence, caglayan2015merits}.
-
-\begin{figure}[htbp!] 
-\centering    
-\includegraphics[width=1.0\textwidth]{Distributions.pdf}
-\caption{The probability density distribution for the CK metrics across the sample.}
-\label{fig:Distributions}
-\end{figure}
+To analyse the relationship between the metrics within the sample, the Spearman correlation coefficients are analysed in Figure ~\ref{tab:MetricCorrelations}. The Spearman measure of correlation was chosen as it makes no assumptions of the normality of the distribution of the data being analysed \citep{spearman1904proof}. The correlation matrix shows positive correlations between CBO, LCOM, RFC and WMC. Weak correlations exist DIT, NOC and the remainder of the metrics. These observations are in-line with prior analysis by Succi et al. \citep{succi2005empirical}. Team size is found to be correlated to CBO and, to a lesser extent DIT, NOC and RFC. It is worth stressing that, for reasons explained in the next section, team size is measured at a project level while the metric values are at an individual class level. This initial result implies that greater team sizes cause metrics to trend counter to the objective as articulated by Rosenberg and others (detailed earlier in Chapter 2) - something which has been empirically associated with degraded external attributes. This adds further weight to the empirical evidence of prior research associating larger team sizes to lower productivity \citep{pendharkar2009relationship} and greater fault-proneness \citep{nagappan2008influence, caglayan2015merits}.
 
 \begin{table}
 \centering 
@@ -161,10 +152,10 @@ To analyse the relationship between the metrics within the sample, the Pearson c
 
 \begin{table}
 \centering 
-\captionof{table}{Pearson correlation matrix for Team Size and the CK metrics.}
+\captionof{table}{Spearman correlation matrix for Team Size and the CK metrics.}
 \begin{tabular}
  \centering 
- \includegraphics{MetricCorrelationsSlim.pdf}
+ \includegraphics[width=1.0\textwidth]{MetricCorrelationsSpearman.pdf}
  \label{tab:MetricCorrelations}
 \end{tabular}
 \end{table}
@@ -264,17 +255,7 @@ This research differs from the prior literature in that the CK metrics are essen
 \newline
 \textbf{4.4.3.1 Class Size}
 \newline
-The typical measure of class size is  Lines of Code (or LOC). This is a simple measure of the number of lines within a class to the exclusion of comment lines \citep{nguyen2007sloc}. Table ~\ref{tab:LOCCorrelations} shows the Pearson correlation coefficients between class-level LoC, team size and CK metrics.  The very weak correlations between LOC and team size imply the absence of a linear relationship between these two factors. This is not surprising in an object-oriented language where one could reasonably hypothesise that a larger team is likely to work on a codebase which has more class files rather than larger class files per se. Similarly, LOC shows very weak negative correlations to the DIT and NOC metrics with almost no correlation to the rest of the metrics. On this basis it is accurate to say that class size has no relationship to either the dependent or independent variables in the model that was established in the previous section and therefore cannot be considered a confounding factor that should be controlled. Figure ~\ref{fig:AllMetricsAgainstLOC}  depicts how CK metrics trend against project size showing the mean metric values across individual projects against their aggregate Lines of Code (LOC) count. These charts show that at a project level there is no obvious relationship between code volume and metric values.
-
-\begin{table}
-\centering 
-\captionof{table}{Pearson correlation coefficients for LOC against team size and each CK metric.}
-\begin{tabular}
- \centering 
- \includegraphics[width=1.0\textwidth]{LOCCorrelations.pdf}
- \label{tab:LOCCorrelations}
-\end{tabular}
-\end{table}
+The typical measure of class size is  Lines of Code (or LOC). This is a simple measure of the number of lines within a class to the exclusion of comment lines \citep{nguyen2007sloc}. An analysis of the Spearman correlation p-values show no correlation between class-level LoC, team size and CK metrics. This is not surprising in an object-oriented language where one could reasonably hypothesise that a larger team is likely to work on a codebase which has more class files rather than larger class files per se. Similarly, LOC shows very weak negative correlations to the DIT and NOC metrics with almost no correlation to the rest of the metrics. On this basis it is accurate to say that class size has no relationship to either the dependent or independent variables in the model that was established in the previous section and therefore cannot be considered a confounding factor that should be controlled. Figure ~\ref{fig:AllMetricsAgainstLOC}  depicts how CK metrics trend against project size showing the mean metric values across individual projects against their aggregate Lines of Code (LOC) count. These charts show that at a project level there is no obvious relationship between code volume and metric values.
 
 \begin{figure}[htbp!] 
 \centering    
@@ -299,14 +280,14 @@ To date in this thesis, references to complexity have, in fact, alluded to struc
 
 Revision counts cannot be considered a perfect proxy to functional complexity as revisions will not exclusively be associated with the addition of new logic. Refactoring activities and bug fixes both necessitate revisions which would not add to the functional complexity. The efficacy of revision counts as a proxy to functional complexity is beyond the scope of this work but, nonetheless, revision counts are an important factor worthy of further study for its potential confounding effect.
 
-Table ~\ref{tab:RevisionCorrelations} shows the Pearson correlation coefficients for the relationship of revisions to team size and also CK metrics. It is notable that revisions do have a marked positive correlation to team size (0.29) as well as to the CK metrics; particularly CBO, LCOM and WMC (0.19, 0.15 and 0.21 respectively). While these correlations are weak (under the arbitrary threshold of 0.40) they are nonetheless significant and imply a linear relationship between revisions and both the independent and dependent factors in our earlier model; namely team size and CK metrics respectively.
+Table ~\ref{tab:RevisionCorrelations} shows the Spearman correlation coefficients for the relationship of revisions to team size and also CK metrics. It is notable that revisions do have a marked positive correlation to team size (0.47) as well as to the CK metrics; particularly CBO and RFC (0.29, 0.21 respectively). While these correlations are weak (under the arbitrary threshold of 0.40) they are nonetheless significant and imply a linear relationship between revisions and both the independent and dependent factors in our earlier model; namely team size and CK metrics respectively.
 
 \begin{table}
 \centering 
-\captionof{table}{Pearson correlation coefficients for revisions against team size and each CK metric.}
+\captionof{table}{Spearman correlation coefficients for revisions against team size and each CK metric.}
 \begin{tabular}
  \centering 
- \includegraphics[width=1.0\textwidth]{RevisionCorrelations.pdf}
+ \includegraphics[width=1.0\textwidth]{RevisionCorrelationsSpearman.pdf}
  \label{tab:RevisionCorrelations}
 \end{tabular}
 \end{table}
@@ -436,7 +417,7 @@ The simple linear models detailed in Table ~\ref{tab:TeamSizeBasicLinearRegressi
 \begin{itemize}
 \item  \textbf{Further rejection of null hypothesis H0,1:} In producing coefficients for team size and revisions, the linear modelling process first runs a hypothesis test to prove the rejection of the null hypothesis of coefficients of zero (i.e. the hypothesis that the independent variables have no effect on the dependent variables). This test returns highly significant p-values (approximated to 0.00) across all CK metrics.
 
-\item  \textbf{Team size and revisions explain a substantial degree of variance, particular for DIT and LCOM:} It is notable that revisions and team size explain a substantial proportion of the variance in DIT and LCOM - 44\% and 43\% respectively - as represented by the R-squared values across the respective regression models. This is consistent with the results of the previous section that found that DIT and LCOM trended quite clearly positively with team size (controlling for revisions). NOC shows a R-squared value approximated to '0' which confirms the results of the pearson coefficient matrix that was presented earlier in Table ~\ref{tab:MetricCorrelations} where no linear correlation was observed between NOC and the independent variables.
+\item  \textbf{Team size and revisions explain a substantial degree of variance, particular for DIT and LCOM:} It is notable that revisions and team size explain a substantial proportion of the variance in DIT and LCOM - 44\% and 43\% respectively - as represented by the R-squared values across the respective regression models. This is consistent with the results of the previous section that found that DIT and LCOM trended quite clearly positively with team size (controlling for revisions). NOC shows a R-squared value approximated to '0' which confirms the results of the spearman coefficient matrix that was presented earlier in Table ~\ref{tab:MetricCorrelationsSpearman} where no linear correlation was observed between NOC and the independent variables.
 
 \item  \textbf{Inheritance complexity not impacted by revisions:} Coefficients close to zero for revisions across both DIT and NOC indicate that these metrics, both of which capture inheritance complexity, are not affected by revisions.
 
