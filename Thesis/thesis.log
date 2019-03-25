@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  25 MAR 2019 14:32
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  25 MAR 2019 20:12
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -2255,13 +2255,13 @@ l.159  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter3/Tables/Understand.pdf, id=2110, 455.30101pt x 199.22429pt>
+<Chapter3/Tables/Understand.pdf, id=2110, 455.30101pt x 426.8748pt>
 File: Chapter3/Tables/Understand.pdf Graphic file (type pdf)
 
 <use Chapter3/Tables/Understand.pdf>
 Package pdftex.def Info: Chapter3/Tables/Understand.pdf used on input line 160.
 
-(pdftex.def)             Requested size: 437.46112pt x 191.42337pt.
+(pdftex.def)             Requested size: 437.46112pt x 410.1599pt.
 
 Overfull \hbox (15.0pt too wide) in paragraph at lines 158--163
  [][] 
@@ -2274,17 +2274,14 @@ File: Chapter3/Figures/Schema.pdf Graphic file (type pdf)
 Package pdftex.def Info: Chapter3/Figures/Schema.pdf used on input line 169.
 (pdftex.def)             Requested size: 437.46112pt x 328.12033pt.
  [54 <./Chapter3/Tables/MetricMiningToolSummary.pdf>] [55 <./Chapter3/Tables/Un
-derstand.pdf> <./Chapter3/Figures/Schema.pdf
-
-pdfTeX warning: pdflatex (file ./Chapter3/Figures/Schema.pdf): PDF inclusion: m
-ultiple pdfs with page group included in a single page
->] <Chapter3/Figures/Analysis.pdf, id=2187, 739.80388pt x 520.8258pt>
+derstand.pdf>] [56 <./Chapter3/Figures/Schema.pdf>] <Chapter3/Figures/Analysis.
+pdf, id=2197, 739.80388pt x 520.8258pt>
 File: Chapter3/Figures/Analysis.pdf Graphic file (type pdf)
 
 <use Chapter3/Figures/Analysis.pdf>
 Package pdftex.def Info: Chapter3/Figures/Analysis.pdf used on input line 186.
 (pdftex.def)             Requested size: 437.46112pt x 307.97595pt.
- [56] [57 <./Chapter3/Figures/Analysis.pdf>] [58] [59] [60] [61] [62]
+ [57] [58 <./Chapter3/Figures/Analysis.pdf>] [59] [60] [61] [62] [63]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2297,7 +2294,7 @@ l.253  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter3/Tables/MetricSuites.pdf, id=2347, 455.30101pt x 341.35529pt>
+<Chapter3/Tables/MetricSuites.pdf, id=2357, 455.30101pt x 341.35529pt>
 File: Chapter3/Tables/MetricSuites.pdf Graphic file (type pdf)
 
 <use Chapter3/Tables/MetricSuites.pdf>
@@ -2309,18 +2306,17 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 252--257
  [][] 
  []
 
-[63] [64 <./Chapter3/Tables/MetricSuites.pdf>]) [65]
+[64] [65 <./Chapter3/Tables/MetricSuites.pdf>]) [66]
 \openout2 = `Chapter4/chapter4.aux'.
 
  (Chapter4/chapter4.tex
-[66
-
-
-
-]
 Chapter 4.
-[67] [68]
-<Chapter4/Figures/ChapterOverview.pdf, id=2404, 1124.03937pt x 515.04419pt>
+[67
+
+
+
+] [68]
+<Chapter4/Figures/ChapterOverview.pdf, id=2410, 1124.03937pt x 515.04419pt>
 File: Chapter4/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/ChapterOverview.pdf>
@@ -2330,7 +2326,7 @@ e 15.
  [69
 
  <./Chapter4/Figures/ChapterOverview.pdf>]
-<Chapter4/Figures/MiningToolchain.pdf, id=2448, 586.23013pt x 284.62335pt>
+<Chapter4/Figures/MiningToolchain.pdf, id=2454, 586.23013pt x 284.62335pt>
 File: Chapter4/Figures/MiningToolchain.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/MiningToolchain.pdf>
@@ -2340,7 +2336,7 @@ e 23.
  [70
 
  <./Chapter4/Figures/MiningToolchain.pdf>] [71]
-<Chapter4/Figures/ProjectCategorisation.pdf, id=2509, 469.51411pt x 227.6505pt>
+<Chapter4/Figures/ProjectCategorisation.pdf, id=2515, 469.51411pt x 227.6505pt>
 File: Chapter4/Figures/ProjectCategorisation.pdf Graphic file (type pdf)
 <use Chapter4/Figures/ProjectCategorisation.pdf>
 Package pdftex.def Info: Chapter4/Figures/ProjectCategorisation.pdf used on inp
@@ -2359,7 +2355,7 @@ l.54  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/GoogleCodeLanguage.pdf, id=2510, 216.3282pt x 108.16411pt>
+<Chapter4/Tables/GoogleCodeLanguage.pdf, id=2516, 216.3282pt x 108.16411pt>
 File: Chapter4/Tables/GoogleCodeLanguage.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/GoogleCodeLanguage.pdf>
@@ -2384,7 +2380,7 @@ l.68  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/GoogleCodeVCS.pdf, id=2538, 216.3282pt x 91.0602pt>
+<Chapter4/Tables/GoogleCodeVCS.pdf, id=2544, 216.3282pt x 91.0602pt>
 File: Chapter4/Tables/GoogleCodeVCS.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/GoogleCodeVCS.pdf>
@@ -2392,7 +2388,7 @@ Package pdftex.def Info: Chapter4/Tables/GoogleCodeVCS.pdf used on input line 6
 9.
 (pdftex.def)             Requested size: 216.32767pt x 91.05997pt.
  [73 <./Chapter4/Tables/GoogleCodeVCS.pdf>]
-<Chapter4/Figures/AnalysisDataSets.pdf, id=2556, 711.37767pt x 256.07669pt>
+<Chapter4/Figures/AnalysisDataSets.pdf, id=2562, 711.37767pt x 256.07669pt>
 File: Chapter4/Figures/AnalysisDataSets.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/AnalysisDataSets.pdf>
@@ -2412,7 +2408,7 @@ l.95  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/GoogleCodeExtensions.pdf, id=2610, 216.3282pt x 105.2733pt>
+<Chapter4/Tables/GoogleCodeExtensions.pdf, id=2616, 216.3282pt x 105.2733pt>
 File: Chapter4/Tables/GoogleCodeExtensions.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/GoogleCodeExtensions.pdf>
@@ -2420,7 +2416,7 @@ Package pdftex.def Info: Chapter4/Tables/GoogleCodeExtensions.pdf used on input
  line 96.
 (pdftex.def)             Requested size: 216.32767pt x 105.27304pt.
 
-<Chapter4/Charts/CumulativeCommitterCount.pdf, id=2613, 461.08258pt x 227.6505p
+<Chapter4/Charts/CumulativeCommitterCount.pdf, id=2619, 461.08258pt x 227.6505p
 t>
 File: Chapter4/Charts/CumulativeCommitterCount.pdf Graphic file (type pdf)
  <use Chapter4/Charts/CumulativeCommitterCount.pdf>
@@ -2440,7 +2436,7 @@ l.114  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/SampleTeamSizes.pdf, id=2614, 216.3282pt x 125.268pt>
+<Chapter4/Tables/SampleTeamSizes.pdf, id=2620, 216.3282pt x 125.268pt>
 File: Chapter4/Tables/SampleTeamSizes.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/SampleTeamSizes.pdf>
@@ -2453,7 +2449,7 @@ Sizes.pdf
 pdfTeX warning: pdflatex (file ./Chapter4/Tables/SampleTeamSizes.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
 >]
-<Chapter4/Charts/CommitCountBarChart.pdf, id=2637, 469.51411pt x 227.6505pt>
+<Chapter4/Charts/CommitCountBarChart.pdf, id=2643, 469.51411pt x 227.6505pt>
 File: Chapter4/Charts/CommitCountBarChart.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/CommitCountBarChart.pdf>
@@ -2461,7 +2457,7 @@ Package pdftex.def Info: Chapter4/Charts/CommitCountBarChart.pdf used on input
 line 124.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
 
-<Chapter4/Figures/AffectedFiles.pdf, id=2639, 461.08258pt x 227.6505pt>
+<Chapter4/Figures/AffectedFiles.pdf, id=2645, 461.08258pt x 227.6505pt>
 File: Chapter4/Figures/AffectedFiles.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/AffectedFiles.pdf>
@@ -2486,7 +2482,7 @@ l.147  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/KSTest.pdf, id=2704, 406.88008pt x 68.4156pt>
+<Chapter4/Tables/KSTest.pdf, id=2710, 406.88008pt x 68.4156pt>
 File: Chapter4/Tables/KSTest.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/KSTest.pdf>
@@ -2506,7 +2502,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/MetricCorrelationsSpearman.pdf, id=2705, 461.08258pt x 202.115
+<Chapter4/Tables/MetricCorrelationsSpearman.pdf, id=2711, 461.08258pt x 202.115
 1pt>
 File: Chapter4/Tables/MetricCorrelationsSpearman.pdf Graphic file (type pdf)
  <use Chapter4/Tables/MetricCorrelationsSpearman.pdf>
@@ -2520,7 +2516,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 156--161
 
 [78 <./Chapter4/Tables/KSTest.pdf>] [79 <./Chapter4/Tables/MetricCorrelationsSp
 earman.pdf>]
-<Chapter4/Figures/TimeSizeExample.pdf, id=2753, 515.04419pt x 312.92911pt>
+<Chapter4/Figures/TimeSizeExample.pdf, id=2759, 515.04419pt x 312.92911pt>
 File: Chapter4/Figures/TimeSizeExample.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/TimeSizeExample.pdf>
@@ -2528,7 +2524,7 @@ Package pdftex.def Info: Chapter4/Figures/TimeSizeExample.pdf used on input lin
 e 176.
 (pdftex.def)             Requested size: 437.46112pt x 265.79521pt.
 
-<Chapter4/Charts/CommitterCommitCount.pdf, id=2754, 461.08258pt x 227.6505pt>
+<Chapter4/Charts/CommitterCommitCount.pdf, id=2760, 461.08258pt x 227.6505pt>
 File: Chapter4/Charts/CommitterCommitCount.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/CommitterCommitCount.pdf>
@@ -2536,7 +2532,7 @@ Package pdftex.def Info: Chapter4/Charts/CommitterCommitCount.pdf used on input
  line 183.
 (pdftex.def)             Requested size: 437.46112pt x 215.99579pt.
 
-<Chapter4/Figures/BasicAnalysisMetricMining.pdf, id=2756, 284.62335pt x 185.011
+<Chapter4/Figures/BasicAnalysisMetricMining.pdf, id=2762, 284.62335pt x 185.011
 2pt>
 File: Chapter4/Figures/BasicAnalysisMetricMining.pdf Graphic file (type pdf)
  <use Chapter4/Figures/BasicAnalysisMetricMining.pdf>
@@ -2544,7 +2540,7 @@ Package pdftex.def Info: Chapter4/Figures/BasicAnalysisMetricMining.pdf used on
  input line 193.
 (pdftex.def)             Requested size: 306.22144pt x 199.06947pt.
  [80 <./Chapter4/Figures/TimeSizeExample.pdf>]
-<Chapter4/Figures/BasicBucketingStrategy.pdf, id=2806, 512.27383pt x 136.5903pt
+<Chapter4/Figures/BasicBucketingStrategy.pdf, id=2812, 512.27383pt x 136.5903pt
 >
 File: Chapter4/Figures/BasicBucketingStrategy.pdf Graphic file (type pdf)
  <use Chapter4/Figures/BasicBucketingStrategy.pdf>
@@ -2570,7 +2566,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/MetricsComparisionStrategyTabular.pdf, id=2843, 364.2408pt x 1
+<Chapter4/Tables/MetricsComparisionStrategyTabular.pdf, id=2849, 364.2408pt x 1
 28.1588pt>
 File: Chapter4/Tables/MetricsComparisionStrategyTabular.pdf Graphic file (type 
 pdf)
@@ -2602,7 +2598,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/BasicResultsSignificance.pdf, id=2898, 529.25732pt x 173.68889
+<Chapter4/Tables/BasicResultsSignificance.pdf, id=2904, 529.25732pt x 173.68889
 pt>
 File: Chapter4/Tables/BasicResultsSignificance.pdf Graphic file (type pdf)
  <use Chapter4/Tables/BasicResultsSignificance.pdf>
@@ -2626,7 +2622,7 @@ l.244  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/BasicResultsAverages.pdf, id=2899, 466.6233pt x 227.6505pt>
+<Chapter4/Tables/BasicResultsAverages.pdf, id=2905, 466.6233pt x 227.6505pt>
 File: Chapter4/Tables/BasicResultsAverages.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/BasicResultsAverages.pdf>
@@ -2657,7 +2653,7 @@ Your command was ignored.
 Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
-<Chapter4/Charts/AllMetricsAgainstLOC.pdf, id=3028, 409.77089pt x 446.8695pt>
+<Chapter4/Charts/AllMetricsAgainstLOC.pdf, id=3034, 409.77089pt x 446.8695pt>
 File: Chapter4/Charts/AllMetricsAgainstLOC.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/AllMetricsAgainstLOC.pdf>
@@ -2679,7 +2675,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [85] [86 <./Chapter4/Charts/AllMetricsAgainstLOC.pdf>]
-<Chapter4/Figures/PreciseRevisionLogs.pdf, id=3054, 458.19182pt x 79.7379pt>
+<Chapter4/Figures/PreciseRevisionLogs.pdf, id=3060, 458.19182pt x 79.7379pt>
 File: Chapter4/Figures/PreciseRevisionLogs.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/PreciseRevisionLogs.pdf>
@@ -2700,7 +2696,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/RevisionCorrelationsSpearman.pdf, id=3067, 461.08258pt x 99.73
+<Chapter4/Tables/RevisionCorrelationsSpearman.pdf, id=3073, 461.08258pt x 99.73
 26pt>
 File: Chapter4/Tables/RevisionCorrelationsSpearman.pdf Graphic file (type pdf)
  <use Chapter4/Tables/RevisionCorrelationsSpearman.pdf>
@@ -2712,7 +2708,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 288--293
  [][] 
  []
 
-<Chapter4/Charts/RevisionsCommitters.pdf, id=3072, 469.51411pt x 227.6505pt>
+<Chapter4/Charts/RevisionsCommitters.pdf, id=3078, 469.51411pt x 227.6505pt>
 File: Chapter4/Charts/RevisionsCommitters.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/RevisionsCommitters.pdf>
@@ -2720,7 +2716,7 @@ Package pdftex.def Info: Chapter4/Charts/RevisionsCommitters.pdf used on input
 line 299.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
 
-<Chapter4/Charts/MetricsRevisions.pdf, id=3073, 469.51411pt x 446.8695pt>
+<Chapter4/Charts/MetricsRevisions.pdf, id=3079, 469.51411pt x 446.8695pt>
 File: Chapter4/Charts/MetricsRevisions.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/MetricsRevisions.pdf>
@@ -2728,7 +2724,7 @@ Package pdftex.def Info: Chapter4/Charts/MetricsRevisions.pdf used on input lin
 e 306.
 (pdftex.def)             Requested size: 437.46112pt x 416.36848pt.
  [88 <./Chapter4/Tables/RevisionCorrelationsSpearman.pdf>]
-<Chapter4/Figures/AdvancedAnalysisMetricMining.pdf, id=3094, 284.62335pt x 173.
+<Chapter4/Figures/AdvancedAnalysisMetricMining.pdf, id=3100, 284.62335pt x 173.
 56845pt>
 File: Chapter4/Figures/AdvancedAnalysisMetricMining.pdf Graphic file (type pdf)
 
@@ -2737,7 +2733,7 @@ Package pdftex.def Info: Chapter4/Figures/AdvancedAnalysisMetricMining.pdf used
  on input line 318.
 (pdftex.def)             Requested size: 306.22144pt x 186.75722pt.
 
-<Chapter4/Figures/AdvancedBucketingStrategy.pdf, id=3096, 446.74904pt x 256.076
+<Chapter4/Figures/AdvancedBucketingStrategy.pdf, id=3102, 446.74904pt x 256.076
 69pt>
 File: Chapter4/Figures/AdvancedBucketingStrategy.pdf Graphic file (type pdf)
  <use Chapter4/Figures/AdvancedBucketingStrategy.pdf>
@@ -2791,7 +2787,7 @@ l.340  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/BucketPopulations.pdf, id=3188, 483.72722pt x 150.8034pt>
+<Chapter4/Tables/BucketPopulations.pdf, id=3194, 483.72722pt x 150.8034pt>
 File: Chapter4/Tables/BucketPopulations.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/BucketPopulations.pdf>
@@ -2804,7 +2800,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 339--344
  []
 
 
-<Chapter4/Figures/MetricsPopulationRevisions.pdf, id=3189, 469.51411pt x 227.65
+<Chapter4/Figures/MetricsPopulationRevisions.pdf, id=3195, 469.51411pt x 227.65
 05pt>
 File: Chapter4/Figures/MetricsPopulationRevisions.pdf Graphic file (type pdf)
  <use Chapter4/Figures/MetricsPopulationRevisions.pdf>
@@ -2826,7 +2822,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/ComplexResultsBucketComparisions.pdf, id=3219, 455.30101pt x 6
+<Chapter4/Tables/ComplexResultsBucketComparisions.pdf, id=3225, 455.30101pt x 6
 91.38298pt>
 File: Chapter4/Tables/ComplexResultsBucketComparisions.pdf Graphic file (type p
 df)
@@ -2858,7 +2854,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/BasicLinearRegression.pdf, id=3223, 455.30101pt x 261.8583pt>
+<Chapter4/Tables/BasicLinearRegression.pdf, id=3229, 455.30101pt x 261.8583pt>
 File: Chapter4/Tables/BasicLinearRegression.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/BasicLinearRegression.pdf>
@@ -2894,7 +2890,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/RandomInterceptsLinearRegression.pdf, id=3765, 455.30101pt x 1
+<Chapter4/Tables/RandomInterceptsLinearRegression.pdf, id=3771, 455.30101pt x 1
 67.9073pt>
 File: Chapter4/Tables/RandomInterceptsLinearRegression.pdf Graphic file (type p
 df)
@@ -2920,7 +2916,7 @@ l.468  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/TeamSizePCA.pdf, id=3775, 483.72722pt x 76.84709pt>
+<Chapter4/Tables/TeamSizePCA.pdf, id=3781, 483.72722pt x 76.84709pt>
 File: Chapter4/Tables/TeamSizePCA.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/TeamSizePCA.pdf>
@@ -2932,7 +2928,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 467--472
 [][] 
  []
 
-<Chapter4/Charts/TeamSizeScatter.pdf, id=3777, 466.6233pt x 213.4374pt>
+<Chapter4/Charts/TeamSizeScatter.pdf, id=3783, 466.6233pt x 213.4374pt>
 File: Chapter4/Charts/TeamSizeScatter.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/TeamSizeScatter.pdf>
@@ -2945,7 +2941,7 @@ Package pdftex.def Info: Chapter4/Charts/TeamSizeScatter.pdf used on input line
 pdfTeX warning: pdflatex (file ./Chapter4/Charts/TeamSizeScatter.pdf): PDF incl
 usion: multiple pdfs with page group included in a single page
 >]
-<Chapter4/Charts/PreciseCommitterAnalysis.pdf, id=3827, 469.51411pt x 196.33351
+<Chapter4/Charts/PreciseCommitterAnalysis.pdf, id=3833, 469.51411pt x 196.33351
 pt>
 File: Chapter4/Charts/PreciseCommitterAnalysis.pdf Graphic file (type pdf)
  <use Chapter4/Charts/PreciseCommitterAnalysis.pdf>
@@ -2953,7 +2949,7 @@ Package pdftex.def Info: Chapter4/Charts/PreciseCommitterAnalysis.pdf used on i
 nput line 492.
 (pdftex.def)             Requested size: 437.46112pt x 182.93279pt.
 
-<Chapter4/Charts/TeamSizesResultsCompare.pdf, id=3828, 466.6233pt x 483.72722pt
+<Chapter4/Charts/TeamSizesResultsCompare.pdf, id=3834, 466.6233pt x 483.72722pt
 >
 File: Chapter4/Charts/TeamSizesResultsCompare.pdf Graphic file (type pdf)
  <use Chapter4/Charts/TeamSizesResultsCompare.pdf>
@@ -2962,7 +2958,7 @@ put line 499.
 (pdftex.def)             Requested size: 437.46112pt x 453.52267pt.
  [102 <./Chapter4/Charts/PreciseCommitterAnalysis.pdf>] [103 <./Chapter4/Charts
 /TeamSizesResultsCompare.pdf>]
-<Chapter4/Figures/BadCouplingExample.pdf, id=3864, 626.0991pt x 370.02242pt>
+<Chapter4/Figures/BadCouplingExample.pdf, id=3870, 626.0991pt x 370.02242pt>
 File: Chapter4/Figures/BadCouplingExample.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/BadCouplingExample.pdf>
@@ -2970,7 +2966,7 @@ Package pdftex.def Info: Chapter4/Figures/BadCouplingExample.pdf used on input
 line 510.
 (pdftex.def)             Requested size: 437.46112pt x 258.534pt.
 
-<Chapter4/Figures/BadCodeExample.pdf, id=3865, 626.0991pt x 426.8748pt>
+<Chapter4/Figures/BadCodeExample.pdf, id=3871, 626.0991pt x 426.8748pt>
 File: Chapter4/Figures/BadCodeExample.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/BadCodeExample.pdf>
@@ -2991,7 +2987,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf, id=3866,
+<Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf, id=3872,
  455.30101pt x 147.9126pt>
 File: Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf Grap
 hic file (type pdf)
@@ -3008,7 +3004,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 525--530
 [104 <./Chapter4/Tables/RandomInterceptsLinearRegressionSelectedProjects.pdf>]
 [105 <./Chapter4/Figures/BadCouplingExample.pdf>] [106 <./Chapter4/Figures/BadC
 odeExample.pdf>] [107]
-<Chapter4/Figures/ResultOverview.pdf, id=3974, 580.56903pt x 284.5029pt>
+<Chapter4/Figures/ResultOverview.pdf, id=3980, 580.56903pt x 284.5029pt>
 File: Chapter4/Figures/ResultOverview.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/ResultOverview.pdf>
@@ -3025,7 +3021,7 @@ Package pdftex.def Info: Chapter4/Figures/ResultOverview.pdf used on input line
 ]
 Chapter 5.
 [111] [112]
-<Chapter5/Figures/ChapterOverview.pdf, id=4036, 1109.82635pt x 540.5796pt>
+<Chapter5/Figures/ChapterOverview.pdf, id=4042, 1109.82635pt x 540.5796pt>
 File: Chapter5/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/ChapterOverview.pdf>
@@ -3035,7 +3031,7 @@ e 18.
  [113
 
  <./Chapter5/Figures/ChapterOverview.pdf>]
-<Chapter5/Figures/MiningAnalysisToolchain.pdf, id=4092, 617.4267pt x 264.74911p
+<Chapter5/Figures/MiningAnalysisToolchain.pdf, id=4098, 617.4267pt x 264.74911p
 t>
 File: Chapter5/Figures/MiningAnalysisToolchain.pdf Graphic file (type pdf)
  <use Chapter5/Figures/MiningAnalysisToolchain.pdf>
@@ -3045,7 +3041,7 @@ nput line 26.
  [114
 
  <./Chapter5/Figures/MiningAnalysisToolchain.pdf>]
-<Chapter5/Figures/NetworkAnalysis.pdf, id=4155, 808.21951pt x 515.04419pt>
+<Chapter5/Figures/NetworkAnalysis.pdf, id=4161, 808.21951pt x 515.04419pt>
 File: Chapter5/Figures/NetworkAnalysis.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/NetworkAnalysis.pdf>
@@ -3053,7 +3049,7 @@ Package pdftex.def Info: Chapter5/Figures/NetworkAnalysis.pdf used on input lin
 e 42.
 (pdftex.def)             Requested size: 437.46112pt x 278.77988pt.
  [115 <./Chapter5/Figures/NetworkAnalysis.pdf>] [116]
-<Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf, id=4231, 463.7325pt x 185.
+<Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf, id=4237, 463.7325pt x 185.
 0112pt>
 File: Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf Graphic file (type pdf
 )
@@ -3076,14 +3072,14 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 [117 <./Chapter5/Charts/ProjectCommitterPrePostCleanup.pdf>] [118]
-<Chapter5/Figures/ForkedImportedBinaries.pdf, id=4266, 207.6558pt x 162.1257pt>
+<Chapter5/Figures/ForkedImportedBinaries.pdf, id=4272, 207.6558pt x 162.1257pt>
 File: Chapter5/Figures/ForkedImportedBinaries.pdf Graphic file (type pdf)
 <use Chapter5/Figures/ForkedImportedBinaries.pdf>
 Package pdftex.def Info: Chapter5/Figures/ForkedImportedBinaries.pdf used on in
 put line 95.
 (pdftex.def)             Requested size: 207.65529pt x 162.1253pt.
 
-<Chapter5/Figures/ForkedSameHistory.pdf, id=4268, 304.49759pt x 165.0165pt>
+<Chapter5/Figures/ForkedSameHistory.pdf, id=4274, 304.49759pt x 165.0165pt>
 File: Chapter5/Figures/ForkedSameHistory.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/ForkedSameHistory.pdf>
@@ -3091,7 +3087,7 @@ Package pdftex.def Info: Chapter5/Figures/ForkedSameHistory.pdf used on input l
 ine 105.
 (pdftex.def)             Requested size: 304.49684pt x 165.01607pt.
  [119 <./Chapter5/Figures/ForkedImportedBinaries.pdf>]
-<Chapter5/Figures/ForkedOutsideForge.pdf, id=4283, 304.49759pt x 125.268pt>
+<Chapter5/Figures/ForkedOutsideForge.pdf, id=4289, 304.49759pt x 125.268pt>
 File: Chapter5/Figures/ForkedOutsideForge.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/ForkedOutsideForge.pdf>
@@ -3146,7 +3142,7 @@ l.133 ...mmit description contains the term ‘fork’
 You need to provide a definition with \DeclareInputText 
 or \DeclareInputMath before using this key.
 
-[121] <Chapter5/Charts/ForkCounts.pdf, id=4316, 469.51411pt x 227.6505pt>
+[121] <Chapter5/Charts/ForkCounts.pdf, id=4322, 469.51411pt x 227.6505pt>
 File: Chapter5/Charts/ForkCounts.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/ForkCounts.pdf>
@@ -3154,7 +3150,7 @@ Package pdftex.def Info: Chapter5/Charts/ForkCounts.pdf used on input line 141.
 
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
  [122 <./Chapter5/Charts/ForkCounts.pdf>]
-<Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf, id=4334, 469.51411pt x 2
+<Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf, id=4340, 469.51411pt x 2
 27.6505pt>
 File: Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf Graphic file (type p
 df)
@@ -3163,7 +3159,7 @@ Package pdftex.def Info: Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf u
 sed on input line 155.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
 
-<Chapter5/Charts/FrequencyEngagement.pdf, id=4335, 469.51411pt x 227.6505pt>
+<Chapter5/Charts/FrequencyEngagement.pdf, id=4341, 469.51411pt x 227.6505pt>
 File: Chapter5/Charts/FrequencyEngagement.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/FrequencyEngagement.pdf>
@@ -3172,7 +3168,7 @@ line 162.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
  [123 <./Chapter5/Charts/LogCommitterCountProjectsEngaged.pdf>] [124 <./Chapter
 5/Charts/FrequencyEngagement.pdf>]
-<Chapter5/Figures/ProjectPairEligability.pdf, id=4366, 426.8748pt x 370.02242pt
+<Chapter5/Figures/ProjectPairEligability.pdf, id=4372, 426.8748pt x 370.02242pt
 >
 File: Chapter5/Figures/ProjectPairEligability.pdf Graphic file (type pdf)
  <use Chapter5/Figures/ProjectPairEligability.pdf>
@@ -3180,7 +3176,7 @@ Package pdftex.def Info: Chapter5/Figures/ProjectPairEligability.pdf used on in
 put line 179.
 (pdftex.def)             Requested size: 437.46112pt x 379.22461pt.
 
-<Chapter5/Charts/ProjectCommitterCount.pdf, id=4369, 469.51411pt x 227.6505pt>
+<Chapter5/Charts/ProjectCommitterCount.pdf, id=4375, 469.51411pt x 227.6505pt>
 File: Chapter5/Charts/ProjectCommitterCount.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/ProjectCommitterCount.pdf>
@@ -3189,7 +3185,7 @@ t line 192.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
  [125] [126 <./Chapter5/Figures/ProjectPairEligability.pdf>] [127 <./Chapter5/C
 harts/ProjectCommitterCount.pdf>]
-<Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf, id=4459, 512.1534pt x 5
+<Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf, id=4465, 512.1534pt x 5
 69.24669pt>
 File: Chapter5/Figures/IntraprojectStabilityCalcOptions.pdf Graphic file (type 
 pdf)
@@ -3242,7 +3238,7 @@ or  <return>  to continue without it.
 LaTeX Font Warning: Command \large invalid in math mode on input line 231.
 
 
-<Chapter5/Figures/IntraprojectStabilityCalc.pdf, id=4544, 577.67822pt x 278.962
+<Chapter5/Figures/IntraprojectStabilityCalc.pdf, id=4550, 577.67822pt x 278.962
 22pt>
 File: Chapter5/Figures/IntraprojectStabilityCalc.pdf Graphic file (type pdf)
  <use Chapter5/Figures/IntraprojectStabilityCalc.pdf>
@@ -3250,7 +3246,7 @@ Package pdftex.def Info: Chapter5/Figures/IntraprojectStabilityCalc.pdf used on
  input line 235.
 (pdftex.def)             Requested size: 437.46112pt x 211.2558pt.
 
-<Chapter5/Charts/ProjectModuleCount.pdf, id=4547, 469.51411pt x 227.6505pt>
+<Chapter5/Charts/ProjectModuleCount.pdf, id=4553, 469.51411pt x 227.6505pt>
 File: Chapter5/Charts/ProjectModuleCount.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/ProjectModuleCount.pdf>
@@ -3258,7 +3254,7 @@ Package pdftex.def Info: Chapter5/Charts/ProjectModuleCount.pdf used on input l
 ine 246.
 (pdftex.def)             Requested size: 437.46112pt x 212.11223pt.
 
-<Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf, id=4548, 577.67822p
+<Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf, id=4554, 577.67822p
 t x 335.81459pt>
 File: Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf Graphic file (t
 ype pdf)
@@ -3286,7 +3282,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/StabilityCorrelationsSpearman.pdf, id=4609, 523.71661pt x 150.
+<Chapter5/Tables/StabilityCorrelationsSpearman.pdf, id=4615, 523.71661pt x 150.
 8034pt>
 File: Chapter5/Tables/StabilityCorrelationsSpearman.pdf Graphic file (type pdf)
 
@@ -3300,7 +3296,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 264--269
  []
 
 [132 <./Chapter5/Figures/IntraprojectStabilityCalcModularised.pdf>]
-<Chapter5/Charts/StabilityDistribution.pdf, id=4657, 458.19182pt x 293.1753pt>
+<Chapter5/Charts/StabilityDistribution.pdf, id=4663, 458.19182pt x 293.1753pt>
 File: Chapter5/Charts/StabilityDistribution.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/StabilityDistribution.pdf>
@@ -3308,7 +3304,7 @@ Package pdftex.def Info: Chapter5/Charts/StabilityDistribution.pdf used on inpu
 t line 277.
 (pdftex.def)             Requested size: 437.46112pt x 279.91068pt.
 
-<Chapter5/Figures/StabilityOutliers.pdf, id=4658, 626.0991pt x 512.1534pt>
+<Chapter5/Figures/StabilityOutliers.pdf, id=4664, 626.0991pt x 512.1534pt>
 File: Chapter5/Figures/StabilityOutliers.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/StabilityOutliers.pdf>
@@ -3316,7 +3312,7 @@ Package pdftex.def Info: Chapter5/Figures/StabilityOutliers.pdf used on input l
 ine 284.
 (pdftex.def)             Requested size: 437.46112pt x 357.84067pt.
 
-<Chapter5/Charts/ScatterDiagrams.pdf, id=4660, 762.68942pt x 665.84758pt>
+<Chapter5/Charts/ScatterDiagrams.pdf, id=4666, 762.68942pt x 665.84758pt>
 File: Chapter5/Charts/ScatterDiagrams.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/ScatterDiagrams.pdf>
@@ -3327,7 +3323,7 @@ Package pdftex.def Info: Chapter5/Charts/ScatterDiagrams.pdf used on input line
 harts/StabilityDistribution.pdf>]
 [135 <./Chapter5/Figures/StabilityOutliers.pdf>] [136 <./Chapter5/Charts/Scatte
 rDiagrams.pdf>]
-<Chapter5/Charts/AverageMetricStability.pdf, id=4759, 367.1316pt x 435.30629pt>
+<Chapter5/Charts/AverageMetricStability.pdf, id=4765, 367.1316pt x 435.30629pt>
 File: Chapter5/Charts/AverageMetricStability.pdf Graphic file (type pdf)
 <use Chapter5/Charts/AverageMetricStability.pdf>
 Package pdftex.def Info: Chapter5/Charts/AverageMetricStability.pdf used on inp
@@ -3350,7 +3346,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf, id=4763, 455.30101pt x 
+<Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf, id=4769, 455.30101pt x 
 193.4427pt>
 File: Chapter5/Tables/BasicLinearRegressionSingleFactor.pdf Graphic file (type 
 pdf)
@@ -3381,7 +3377,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf, id=4804, 455
+<Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf, id=4810, 455
 .30101pt x 156.585pt>
 File: Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf Graphic 
 file (type pdf)
@@ -3396,7 +3392,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 346--351
  []
 
 [140 <./Chapter5/Tables/RandomInterceptsLinearRegressionSingleFactor.pdf>]
-<Chapter5/Figures/StabilityAnalysis.pdf, id=4823, 469.51411pt x 327.3831pt>
+<Chapter5/Figures/StabilityAnalysis.pdf, id=4829, 469.51411pt x 327.3831pt>
 File: Chapter5/Figures/StabilityAnalysis.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/StabilityAnalysis.pdf>
@@ -3404,7 +3400,7 @@ Package pdftex.def Info: Chapter5/Figures/StabilityAnalysis.pdf used on input l
 ine 363.
 (pdftex.def)             Requested size: 437.46112pt x 305.03761pt.
 
-<Chapter5/Charts/InterprojectSignificance.pdf, id=4825, 458.19182pt x 204.765pt
+<Chapter5/Charts/InterprojectSignificance.pdf, id=4831, 458.19182pt x 204.765pt
 >
 File: Chapter5/Charts/InterprojectSignificance.pdf Graphic file (type pdf)
  <use Chapter5/Charts/InterprojectSignificance.pdf>
@@ -3452,7 +3448,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf, id=4877, 455.3
+<Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf, id=4883, 455.3
 0101pt x 202.1151pt>
 File: Chapter5/Tables/BasicLinearRegressionInterprojectStability.pdf Graphic fi
 le (type pdf)
@@ -3479,7 +3475,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf, id=4878, 469
+<Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf, id=4884, 469
 .51411pt x 150.8034pt>
 File: Chapter5/Tables/RandomInterceptsLinearRegressionInterproject.pdf Graphic 
 file (type pdf)
@@ -3513,7 +3509,7 @@ l.415  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter5/Tables/TeamStabilityPCA.pdf, id=4928, 492.3996pt x 76.84709pt>
+<Chapter5/Tables/TeamStabilityPCA.pdf, id=4934, 492.3996pt x 76.84709pt>
 File: Chapter5/Tables/TeamStabilityPCA.pdf Graphic file (type pdf)
 
 <use Chapter5/Tables/TeamStabilityPCA.pdf>
@@ -3525,7 +3521,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 414--419
 [][] 
  []
 
-<Chapter5/Charts/TeamStabilityScatter.pdf, id=4929, 466.6233pt x 213.4374pt>
+<Chapter5/Charts/TeamStabilityScatter.pdf, id=4935, 466.6233pt x 213.4374pt>
 File: Chapter5/Charts/TeamStabilityScatter.pdf Graphic file (type pdf)
 
 <use Chapter5/Charts/TeamStabilityScatter.pdf>
@@ -3554,7 +3550,7 @@ Type  I <command> <return>  to replace it with another command,
 or  <return>  to continue without it.
 
 
-<Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf, id=4954, 469.514
+<Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf, id=4960, 469.514
 11pt x 398.4486pt>
 File: Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalysis.pdf Graphic file
  (type pdf)
@@ -3564,7 +3560,7 @@ Package pdftex.def Info: Chapter5/Charts/ScapiWikipediaMapReduceCommitterAnalys
 is.pdf used on input line 436.
 (pdftex.def)             Requested size: 437.46112pt x 371.25253pt.
 
-<Chapter5/Charts/TeamStabilityResultsCompare.pdf, id=4955, 466.6233pt x 227.650
+<Chapter5/Charts/TeamStabilityResultsCompare.pdf, id=4961, 466.6233pt x 227.650
 5pt>
 File: Chapter5/Charts/TeamStabilityResultsCompare.pdf Graphic file (type pdf)
  <use Chapter5/Charts/TeamStabilityResultsCompare.pdf>
@@ -3613,7 +3609,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter5/Tables/RandomInterceptsSelectedProjects.pdf, id=4982, 455.30101pt x 1
+<Chapter5/Tables/RandomInterceptsSelectedProjects.pdf, id=4988, 455.30101pt x 1
 47.9126pt>
 File: Chapter5/Tables/RandomInterceptsSelectedProjects.pdf Graphic file (type p
 df)
@@ -3626,7 +3622,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 458--463
  [][] 
  []
 
-<Chapter5/Figures/StabilityExample.pdf, id=4983, 529.25732pt x 739.80388pt>
+<Chapter5/Figures/StabilityExample.pdf, id=4989, 529.25732pt x 739.80388pt>
 File: Chapter5/Figures/StabilityExample.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/StabilityExample.pdf>
@@ -3640,7 +3636,7 @@ LaTeX Warning: Float too large for page by 16.70073pt on input line 472.
 [148 <./Chapter5/Charts/TeamStabilityResultsCompare.pdf>] [149 <./Chapter5/Tabl
 es/RandomInterceptsSelectedProjects.pdf>] [150 <./Chapter5/Figures/StabilityExa
 mple.pdf>]
-<Chapter5/Figures/ResultOverview.pdf, id=5061, 580.56903pt x 284.5029pt>
+<Chapter5/Figures/ResultOverview.pdf, id=5067, 580.56903pt x 284.5029pt>
 File: Chapter5/Figures/ResultOverview.pdf Graphic file (type pdf)
 
 <use Chapter5/Figures/ResultOverview.pdf>
@@ -3657,7 +3653,7 @@ Package pdftex.def Info: Chapter5/Figures/ResultOverview.pdf used on input line
 ]
 Chapter 6.
 [153]
-<Chapter6/Figures/ChapterOverview.pdf, id=5117, 939.02821pt x 483.72722pt>
+<Chapter6/Figures/ChapterOverview.pdf, id=5123, 939.02821pt x 483.72722pt>
 File: Chapter6/Figures/ChapterOverview.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/ChapterOverview.pdf>
@@ -3679,7 +3675,7 @@ l.26  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter6/Tables/ObjectiveOutcome.pdf, id=5162, 483.72722pt x 483.72722pt>
+<Chapter6/Tables/ObjectiveOutcome.pdf, id=5168, 483.72722pt x 483.72722pt>
 File: Chapter6/Tables/ObjectiveOutcome.pdf Graphic file (type pdf)
 
 <use Chapter6/Tables/ObjectiveOutcome.pdf>
@@ -3706,7 +3702,7 @@ l.41  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter6/Tables/HypothesisResult.pdf, id=5196, 483.72722pt x 142.3719pt>
+<Chapter6/Tables/HypothesisResult.pdf, id=5202, 483.72722pt x 142.3719pt>
 File: Chapter6/Tables/HypothesisResult.pdf Graphic file (type pdf)
 
 <use Chapter6/Tables/HypothesisResult.pdf>
@@ -3730,7 +3726,7 @@ l.52  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter6/Tables/QuestionAnswer.pdf, id=5198, 483.72722pt x 145.2627pt>
+<Chapter6/Tables/QuestionAnswer.pdf, id=5204, 483.72722pt x 145.2627pt>
 File: Chapter6/Tables/QuestionAnswer.pdf Graphic file (type pdf)
 
 <use Chapter6/Tables/QuestionAnswer.pdf>
@@ -3748,7 +3744,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 51--56
 pdfTeX warning: pdflatex (file ./Chapter6/Tables/QuestionAnswer.pdf): PDF inclu
 sion: multiple pdfs with page group included in a single page
 >] [158] [159] [160] [161] [162]
-<Chapter6/Figures/ContrastingSystems.pdf, id=5282, 532.14807pt x 426.8748pt>
+<Chapter6/Figures/ContrastingSystems.pdf, id=5288, 532.14807pt x 426.8748pt>
 File: Chapter6/Figures/ContrastingSystems.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/ContrastingSystems.pdf>
@@ -3757,7 +3753,7 @@ line 122.
 (pdftex.def)             Requested size: 437.46112pt x 350.93195pt.
  [163] [164 <./Chapter6/Figures/ContrastingSystems.pdf>] [165] [166] [167] [168
 ]
-<Chapter6/Figures/ForkingUML.pdf, id=5357, 939.02821pt x 626.0991pt>
+<Chapter6/Figures/ForkingUML.pdf, id=5363, 939.02821pt x 626.0991pt>
 File: Chapter6/Figures/ForkingUML.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/ForkingUML.pdf>
@@ -3765,7 +3761,7 @@ Package pdftex.def Info: Chapter6/Figures/ForkingUML.pdf used on input line 169
 .
 (pdftex.def)             Requested size: 393.71233pt x 262.5108pt.
 
-<Chapter6/Figures/ForkedNetworkGraph.pdf, id=5358, 483.72722pt x 321.6015pt>
+<Chapter6/Figures/ForkedNetworkGraph.pdf, id=5364, 483.72722pt x 321.6015pt>
 File: Chapter6/Figures/ForkedNetworkGraph.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/ForkedNetworkGraph.pdf>
@@ -3777,7 +3773,7 @@ rkGraph.pdf
 
 pdfTeX warning: pdflatex (file ./Chapter6/Figures/ForkedNetworkGraph.pdf): PDF 
 inclusion: multiple pdfs with page group included in a single page
->] [171] <Chapter6/Figures/BigData.pdf, id=5446, 455.30101pt x 412.6617pt>
+>] [171] <Chapter6/Figures/BigData.pdf, id=5452, 455.30101pt x 412.6617pt>
 File: Chapter6/Figures/BigData.pdf Graphic file (type pdf)
 
 <use Chapter6/Figures/BigData.pdf>
@@ -3920,9 +3916,9 @@ ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/u
 syr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (216 pages, 14819393 bytes).
+Output written on thesis.pdf (216 pages, 14821904 bytes).
 PDF statistics:
- 5801 PDF objects out of 6186 (max. 8388607)
+ 5807 PDF objects out of 6186 (max. 8388607)
  693 named destinations out of 1000 (max. 500000)
  32110 words of extra memory for PDF output out of 35830 (max. 10000000)
 
