@@ -216,7 +216,7 @@ As shown in the sample analysis in Figure ~\ref{fig:CumulativeCommitterCount} ea
 \end{tabular}
 \end{table}
 
-Table ~\ref{tab:MetricsComparisionStrategyTabular} illustrates the approach of comparing each bucket to every other. When comparing metrics populations bucketed by committer count, the Mann-Whitney test is ideally suited as all metrics populations are independent and consist of continuous non-normal data \citep{mann1947test}. Unlike the t-test, the Mann-Whitney test is a null hypothesis test that makes no assumptions of the distribution of the data. Null hypothesis H0,1 anticipates no significant difference between bucket populations of varying committer count and is rejected where the p-value is less than a certain threshold denoted by $\alpha$. With a target confidence level of 95\% this would imply a p-value cut-off ($\alpha$) at 0.05. However, a number of hypothesis tests are conducted, increasing the likelihood of observing at least one significant result at our chosen value of $\alpha$. It is therefore necessary to apply the 'Bonferroni correction' which sets the significance cut-off at the product of $\alpha$ and \textit{n} where \textit{n} represents the number of tests \citep{bonferroni1936teoria}. In this analysis there are 10 hypothesis tests for each metric giving a corrected $\alpha$ value of 0.005. Where the null hypothesis is rejected, the mean value of the bucketed metric populations are compared to determine in which direction the metric value is trending. Table ~\ref{tab:BasicResultsAverages} shows the mean metric value and observation count by bucket.
+Table ~\ref{tab:MetricsComparisionStrategyTabular} illustrates the approach of comparing each bucket to every other. When comparing metrics populations bucketed by committer count, the Mann-Whitney test is ideally suited as all metrics populations are independent and consist of continuous non-normal data \citep{mann1947test}. Unlike the t-test, the Mann-Whitney test is a null hypothesis test that makes no assumptions of the distribution of the data. Null hypothesis H0,1 anticipates no significant difference between bucket populations of varying committer count and is rejected where the p-value is less than a certain threshold denoted by $\alpha$. With a target confidence level of 95\% this would imply a p-value cut-off ($\alpha$) at 0.05. However, a number of hypothesis tests are conducted, increasing the likelihood of observing at least one significant result at our chosen value of $\alpha$. It is therefore necessary to apply the 'Bonferroni correction' which sets the significance cut-off at the product of $\alpha$ and \textit{n} where \textit{n} represents the number of tests \citep{bonferroni1936teoria}. In this analysis there are 10 hypothesis tests for each metric giving a corrected $\alpha$ value of 0.005. Where the null hypothesis is rejected, the mean value of the bucketed metric populations are compared to determine in which direction the metric value is trending. Table ~\ref{tab:BasicResultsAverages} shows the mean and median metric values and observation counts by bucket.
 
 Table ~\ref{tab:BasicResultsSignificance} summarises the results of this analysis, based on which, two immediate observations can be made.
 
@@ -239,7 +239,7 @@ While some trends do emerge from this analysis, it is important from the perspec
 
 \begin{table}
 \centering 
-\captionof{table}{Metric mean values for each metric bucket.}
+\captionof{table}{Metric mean and median values for each metric bucket.}
 \begin{tabular}
  \centering 
  \includegraphics[width=1.0\textwidth]{BasicResultsAverages.pdf}
@@ -353,7 +353,7 @@ It is logical that there would be a greater number of metric results pertaining 
 \subsection{Comparing Bucket Populations}
 Table ~\ref{tab:ComplexResultsBucketComparisions} shows the results from the statistical tests run across each team-size comparison, similar to the previously discussed Table \ref{tab:BasicResultsSignificance} but also grouped by revision. By way of explanation, the first set of rows are bucket comparisons for the CBO metric. The revision columns relate to the number of times that the classes (from which the metrics were extracted to make the bucket metric populations) have been revised. The committer count columns and rows refer to the number of unique committers to the project from which the class originates. For completeness, those tests that do not meet the Bonferroni corrected $\alpha$ cut-off but do show significance at the 95\% confidence level are depicted accordingly. 
 
-Where the bucket populations are found to be significantly independent the bucket population metric means are compared. Based on this, a determination is made as to whether increasing committer count will result in a rise or a fall in the metric value. The bucketed metric means are detailed in Table ~\ref{tab:ComplexResultsBucketAverages}.
+Where the bucket populations are found to be significantly independent the bucket population metric means are compared. Based on this, a determination is made as to whether increasing committer count will result in a rise or a fall in the metric value.
 
 From these results a number of notable observations can be made. 
 
@@ -372,16 +372,6 @@ From these results a number of notable observations can be made.
  \centering 
  \includegraphics[width=1.0\textwidth]{ComplexResultsBucketComparisions.pdf}
  \label{tab:ComplexResultsBucketComparisions}
-\end{tabular}
-\end{table}
-
-\begin{table}
-\centering 
-\caption{Metric mean values for each metric bucket}
-\begin{tabular}
- \centering 
- \includegraphics[width=1.0\textwidth]{ComplexResultsBucketAverages.pdf}
- \label{tab:ComplexResultsBucketAverages}
 \end{tabular}
 \end{table}
 
