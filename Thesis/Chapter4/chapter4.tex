@@ -43,7 +43,7 @@ GoogleCode allowed project administrators to choose from among three available v
 \begin{figure}[htbp!] 
 \centering    
 \includegraphics[width=1.0\textwidth]{ProjectCategorisation.pdf}
-\caption{A representation of the categorisation of tags and their relative occurrences}
+\caption{A representation of the categorisation of tags and their relative occurrences across the forge}
 \label{fig:ProjectCategorisation}
 \end{figure}
 
@@ -63,7 +63,7 @@ Once the sample projects are selected, a utility in the toolchain allows for the
 
 \begin{table}
 \centering 
-\captionof{table}{The repository counts for each version control system.}
+\captionof{table}{The repository counts for each version control system across the forge.}
 \begin{tabular}
  \centering 
  \includegraphics{GoogleCodeVCS.pdf}
@@ -122,7 +122,7 @@ Committer behaviour was also analysed by investigating the cumulative number of 
 \begin{figure}[htbp!] 
 \centering    
 \includegraphics[width=1.0\textwidth]{CommitCountBarChart.pdf}
-\caption[The number of commits that each committer makes within individual projects]{The number of commits that each committer makes within individual projects. The chart shows  x-axis shows the number of commits that a committer contributes to a project and the y-axis shows the frequency of that level of project engagement.}
+\caption[The number of commits that each committer makes within individual projects]{Sample analysis of the number of commits that each committer makes within individual projects. The chart shows  x-axis shows the number of commits that a committer contributes to a project and the y-axis shows the frequency of that level of project engagement.}
 \label{fig:CommitCountBarChart}
 \end{figure}
 
@@ -152,7 +152,7 @@ To analyse the relationship between the metrics within the sample, the Spearman 
 
 \begin{table}
 \centering 
-\captionof{table}{Spearman correlation matrix for Team Size and the CK metrics.}
+\captionof{table}{Spearman correlation matrix for Team Size and the CK metrics within the sample.}
 \begin{tabular}
  \centering 
  \includegraphics[width=1.0\textwidth]{MetricCorrelationsSpearman.pdf}
@@ -229,7 +229,7 @@ While some trends do emerge from this analysis, it is important from the perspec
 
 \begin{table}
 \centering 
-\captionof{table}{Tabular summary showing the results of each bucket comparison.}
+\captionof{table}{Tabular summary showing the results of each bucket comparison within the sample analysis.}
 \begin{tabular}
  \centering 
  \includegraphics[width=1.0\textwidth]{BasicResultsSignificance.pdf}
@@ -239,7 +239,7 @@ While some trends do emerge from this analysis, it is important from the perspec
 
 \begin{table}
 \centering 
-\captionof{table}{Metric mean and median values for each metric bucket.}
+\captionof{table}{Metric mean and median values for each metric bucket within the sample analysis.}
 \begin{tabular}
  \centering 
  \includegraphics[width=1.0\textwidth]{BasicResultsAverages.pdf}
@@ -260,7 +260,7 @@ The typical measure of class size is  Lines of Code (or LOC). This is a simple m
 \begin{figure}[htbp!] 
 \centering    
 \includegraphics[width=1.0\textwidth]{AllMetricsAgainstLOC.pdf}
-\caption{Mean project-level structural metric values plotted against the cumulative Lines of Code for that project.}
+\caption{Sample analysis of the mean project-level structural metric values plotted against the cumulative Lines of Code for that project.}
 \label{fig:AllMetricsAgainstLOC}
 \end{figure}
 
@@ -284,7 +284,7 @@ Table ~\ref{tab:RevisionCorrelations} shows the Spearman correlation coefficient
 
 \begin{table}
 \centering 
-\captionof{table}{Spearman correlation coefficients for revisions against team size and each CK metric.}
+\captionof{table}{Sample analysis of the Spearman correlation coefficients for revisions against team size and each CK metric.}
 \begin{tabular}
  \centering 
  \includegraphics[width=1.0\textwidth]{RevisionCorrelationsSpearman.pdf}
@@ -304,7 +304,7 @@ This relationship between revisions and team size is confirmed at a project leve
 \begin{figure}[htbp!] 
 \centering    
 \includegraphics[width=1.0\textwidth]{MetricsRevisions.pdf}
-\caption{Mean metric values at a class level plotted against the cumulative revision count of those files.}
+\caption{Mean metric values at a class level plotted against the last revision count for all files within the sample.}
 \label{fig:MetricsRevisions}
 \end{figure}
 
@@ -335,7 +335,7 @@ It is logical that there would be a greater number of metric results pertaining 
 
 \begin{table}
 \centering 
-\captionof{table}{Bucket population sizes.}
+\captionof{table}{Bucket population sizes where each file within the sample is inspected at its final revision.}
 \begin{tabular}
  \centering 
  \includegraphics[width=1.0\textwidth]{BucketPopulations.pdf}
@@ -346,7 +346,7 @@ It is logical that there would be a greater number of metric results pertaining 
 \begin{figure}[htbp!] 
 \centering    
 \includegraphics[width=1.0\textwidth]{MetricsPopulationRevisions.pdf}
-\caption{Mean metric values against revision count.}
+\caption{Analysis of mean metric values against revision count where each file within the sample is inspected at its final revision.}
 \label{fig:MetricsPopulationRevisions}
 \end{figure}
 
@@ -367,7 +367,7 @@ From these results a number of notable observations can be made.
 
 \begin{table}
 \centering 
-\caption{Tabular summary showing the results of each bucket comparison.}
+\caption{Tabular summary showing the results of each bucket comparison within the sample.}
 \begin{tabular}
  \centering 
  \includegraphics[width=1.0\textwidth]{ComplexResultsBucketComparisions.pdf}
@@ -384,7 +384,7 @@ The linear models capture the linear relationship between team size, class revis
 
 \begin{table}
 \centering 
-\captionof{table}{The results of an Ordinary Least Squares regression with committer and revision counts as independent variables.}
+\captionof{table}{The results of an Ordinary Least Squares regression using the sample dataset with committer and revision counts as independent variables.}
 \begin{tabular}
  \centering 
  \includegraphics[width=1.0\textwidth]{BasicLinearRegression.pdf}
@@ -445,7 +445,7 @@ The following observations can be drawn from Table ~\ref{tab:TeamSizeRandomInter
 
 \begin{table}
 \centering 
-\captionof{table}{The results of an mixed model linear regression with committer and revision counts as independent variables and the project as the grouping variable.}
+\captionof{table}{The results of an mixed model linear regression against the sample dataset with committer and revision counts as independent variables and the project as the grouping variable.}
 \begin{tabular}
  \centering 
  \includegraphics[width=1.0\textwidth]{RandomInterceptsLinearRegression.pdf}

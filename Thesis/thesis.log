@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  26 MAR 2019 17:19
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  26 MAR 2019 20:51
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -1698,11 +1698,11 @@ or \DeclareInputMath before using this key.
 
 [17
 
-] [18])
+] [18] [19])
 \tf@lof=\write7
 \openout7 = `thesis.lof'.
 
- [19] [20] (thesis.lot [21
+ [20] (thesis.lot [21
 
 ] [22])
 \tf@lot=\write8
@@ -2366,12 +2366,7 @@ File: Chapter4/Tables/GoogleCodeLanguage.pdf Graphic file (type pdf)
 Package pdftex.def Info: Chapter4/Tables/GoogleCodeLanguage.pdf used on input l
 ine 55.
 (pdftex.def)             Requested size: 216.32767pt x 108.16383pt.
- [72 <./Chapter4/Tables/GoogleCodeLanguage.pdf> <./Chapter4/Figures/ProjectCate
-gorisation.pdf
-
-pdfTeX warning: pdflatex (file ./Chapter4/Figures/ProjectCategorisation.pdf): P
-DF inclusion: multiple pdfs with page group included in a single page
->]
+ [72 <./Chapter4/Figures/ProjectCategorisation.pdf>]
 
 ! Package array Error:  Illegal pream-token (\centering): `c' used.
 
@@ -2384,15 +2379,19 @@ l.68  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/GoogleCodeVCS.pdf, id=2543, 216.3282pt x 91.0602pt>
+<Chapter4/Tables/GoogleCodeVCS.pdf, id=2535, 216.3282pt x 91.0602pt>
 File: Chapter4/Tables/GoogleCodeVCS.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/GoogleCodeVCS.pdf>
 Package pdftex.def Info: Chapter4/Tables/GoogleCodeVCS.pdf used on input line 6
 9.
 (pdftex.def)             Requested size: 216.32767pt x 91.05997pt.
- [73 <./Chapter4/Tables/GoogleCodeVCS.pdf>]
-<Chapter4/Figures/AnalysisDataSets.pdf, id=2561, 711.37767pt x 256.07669pt>
+ [73 <./Chapter4/Tables/GoogleCodeLanguage.pdf> <./Chapter4/Tables/GoogleCodeVC
+S.pdf
+
+pdfTeX warning: pdflatex (file ./Chapter4/Tables/GoogleCodeVCS.pdf): PDF inclus
+ion: multiple pdfs with page group included in a single page
+>] <Chapter4/Figures/AnalysisDataSets.pdf, id=2561, 711.37767pt x 256.07669pt>
 File: Chapter4/Figures/AnalysisDataSets.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/AnalysisDataSets.pdf>
@@ -2840,7 +2839,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 371--376
  []
 
 
-LaTeX Warning: Float too large for page by 59.37581pt on input line 376.
+LaTeX Warning: Float too large for page by 73.87581pt on input line 376.
 
 
 LaTeX Font Warning: Command \large invalid in math mode on input line 383.
@@ -3907,7 +3906,7 @@ LaTeX Warning: There were multiply-defined labels.
 Here is how much of TeX's memory you used:
  27839 strings out of 493333
  503179 string characters out of 3139194
- 545158 words of memory out of 3000000
+ 545541 words of memory out of 3000000
  29857 multiletter control sequences out of 15000+200000
  62938 words of font info for 252 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -3920,7 +3919,7 @@ ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/u
 syr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (216 pages, 14830952 bytes).
+Output written on thesis.pdf (216 pages, 14831920 bytes).
 PDF statistics:
  5806 PDF objects out of 6186 (max. 8388607)
  692 named destinations out of 1000 (max. 500000)
