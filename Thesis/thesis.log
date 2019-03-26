@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  26 MAR 2019 20:51
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (MiKTeX 2.9.6210 64-bit) (preloaded format=pdflatex 2017.2.28)  26 MAR 2019 21:20
 entering extended mode
 **./thesis.tex
 (thesis.tex
@@ -2485,7 +2485,7 @@ l.147  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/KSTest.pdf, id=2709, 406.88008pt x 68.4156pt>
+<Chapter4/Tables/KSTest.pdf, id=2708, 406.88008pt x 68.4156pt>
 File: Chapter4/Tables/KSTest.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/KSTest.pdf>
@@ -2505,7 +2505,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/MetricCorrelationsSpearman.pdf, id=2710, 461.08258pt x 202.115
+<Chapter4/Tables/MetricCorrelationsSpearman.pdf, id=2709, 461.08258pt x 202.115
 1pt>
 File: Chapter4/Tables/MetricCorrelationsSpearman.pdf Graphic file (type pdf)
  <use Chapter4/Tables/MetricCorrelationsSpearman.pdf>
@@ -2519,7 +2519,7 @@ Overfull \hbox (15.0pt too wide) in paragraph at lines 156--161
 
 [78 <./Chapter4/Tables/KSTest.pdf>] [79 <./Chapter4/Tables/MetricCorrelationsSp
 earman.pdf>]
-<Chapter4/Figures/TimeSizeExample.pdf, id=2758, 515.04419pt x 312.92911pt>
+<Chapter4/Figures/TimeSizeExample.pdf, id=2757, 515.04419pt x 312.92911pt>
 File: Chapter4/Figures/TimeSizeExample.pdf Graphic file (type pdf)
 
 <use Chapter4/Figures/TimeSizeExample.pdf>
@@ -2527,7 +2527,7 @@ Package pdftex.def Info: Chapter4/Figures/TimeSizeExample.pdf used on input lin
 e 176.
 (pdftex.def)             Requested size: 437.46112pt x 265.79521pt.
 
-<Chapter4/Charts/CommitterCommitCount.pdf, id=2759, 461.08258pt x 227.6505pt>
+<Chapter4/Charts/CommitterCommitCount.pdf, id=2758, 461.08258pt x 227.6505pt>
 File: Chapter4/Charts/CommitterCommitCount.pdf Graphic file (type pdf)
 
 <use Chapter4/Charts/CommitterCommitCount.pdf>
@@ -2535,7 +2535,7 @@ Package pdftex.def Info: Chapter4/Charts/CommitterCommitCount.pdf used on input
  line 183.
 (pdftex.def)             Requested size: 437.46112pt x 215.99579pt.
 
-<Chapter4/Figures/BasicAnalysisMetricMining.pdf, id=2761, 284.62335pt x 185.011
+<Chapter4/Figures/BasicAnalysisMetricMining.pdf, id=2760, 284.62335pt x 185.011
 2pt>
 File: Chapter4/Figures/BasicAnalysisMetricMining.pdf Graphic file (type pdf)
  <use Chapter4/Figures/BasicAnalysisMetricMining.pdf>
@@ -2543,7 +2543,7 @@ Package pdftex.def Info: Chapter4/Figures/BasicAnalysisMetricMining.pdf used on
  input line 193.
 (pdftex.def)             Requested size: 306.22144pt x 199.06947pt.
  [80 <./Chapter4/Figures/TimeSizeExample.pdf>]
-<Chapter4/Figures/BasicBucketingStrategy.pdf, id=2811, 512.27383pt x 136.5903pt
+<Chapter4/Figures/BasicBucketingStrategy.pdf, id=2810, 512.27383pt x 136.5903pt
 >
 File: Chapter4/Figures/BasicBucketingStrategy.pdf Graphic file (type pdf)
  <use Chapter4/Figures/BasicBucketingStrategy.pdf>
@@ -2569,7 +2569,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/MetricsComparisionStrategyTabular.pdf, id=2848, 364.2408pt x 1
+<Chapter4/Tables/MetricsComparisionStrategyTabular.pdf, id=2847, 364.2408pt x 1
 28.1588pt>
 File: Chapter4/Tables/MetricsComparisionStrategyTabular.pdf Graphic file (type 
 pdf)
@@ -2601,7 +2601,7 @@ Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
 
-<Chapter4/Tables/BasicResultsSignificance.pdf, id=2903, 529.25732pt x 173.68889
+<Chapter4/Tables/BasicResultsSignificance.pdf, id=2902, 529.25732pt x 173.68889
 pt>
 File: Chapter4/Tables/BasicResultsSignificance.pdf Graphic file (type pdf)
  <use Chapter4/Tables/BasicResultsSignificance.pdf>
@@ -2625,7 +2625,7 @@ l.244  \centering
 Try typing  <return>  to proceed.
 If that doesn't work, type  X <return>  to quit.
 
-<Chapter4/Tables/BasicResultsAverages.pdf, id=2904, 466.6233pt x 227.6505pt>
+<Chapter4/Tables/BasicResultsAverages.pdf, id=2903, 466.6233pt x 227.6505pt>
 File: Chapter4/Tables/BasicResultsAverages.pdf Graphic file (type pdf)
 
 <use Chapter4/Tables/BasicResultsAverages.pdf>
@@ -3919,7 +3919,7 @@ ic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/symbol/u
 syr.pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/urw/times/utmb8a.pfb><C:/Progr
 am Files/MiKTeX 2.9/fonts/type1/urw/times/utmr8a.pfb><C:/Program Files/MiKTeX 2
 .9/fonts/type1/urw/times/utmri8a.pfb>
-Output written on thesis.pdf (216 pages, 14831920 bytes).
+Output written on thesis.pdf (216 pages, 14837211 bytes).
 PDF statistics:
  5806 PDF objects out of 6186 (max. 8388607)
  692 named destinations out of 1000 (max. 500000)
