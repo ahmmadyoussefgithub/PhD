@@ -224,11 +224,11 @@ The Jaccard index is the simplest of several similarity measures and was develop
 \newline
 \[J(A,B)\ = \frac{\left |A\bigcap B \right |}{\left |A\bigcup   B\right |}\]
 
-While the Jaccard Index is designed to establish the similarity between two finite data sets, the LSR calculation is an adaptation of this approach to take into account the fact that there can be more than two committer time-frames that need to be factored into the stability ratio. It is essential that LSR is in the form of a ratio to avoid calculating a number which has a strong direct correlation to committer count which would simply lead to tracking that factor and, ultimately, confounding results. As expressed in the equation below, LSR is the inverse of the simple means of the Jaccard Indexes of each unique pair of committer time-series:
+While the Jaccard Index is designed to establish the similarity between two finite data sets, the LSR calculation is an adaptation of this approach to take into account the fact that there can be more than two committer time-frames that need to be factored into the stability ratio. It is essential that LSR is in the form of a ratio to avoid calculating a number which has a strong direct correlation to committer count which would simply lead to tracking that factor and, ultimately, confounding results. As expressed in the equation below, LSR is the inverse of the simple mean of the Jaccard Indexes of each unique committer time-frame of activity and the overall project time-frame of activity.:
 
 \newline
 \newline
-\[\large LSR \ = 1 - \frac{ \frac{Committer \mathit{1} \ \bigcap\ Committer\ \mathit{2}} {Committer\ \mathit{1}\ \bigcup\ Committer\ \mathit{2}} \ ...\ n } {n}\]
+\[\large LSR = 1 - \frac{\frac{TF_{{com.1}}\bigcap TF_{{all}}}{TF_{{comm.all}}} + ... \frac{TF_{{com.n}}\bigcap TF_{{comm.all}}}{TF_{{comm.all}}}}{n}\]
 
 \begin{figure}[htbp!]
 \centering
